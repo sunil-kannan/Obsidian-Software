@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/System Design/cloudflare/DDoS and AIBot Protection.md",
+                "file": "Software/Networking/Routing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DDoS and AIBot Protection"
+              "title": "Routing"
             }
           }
         ],
@@ -192,15 +192,17 @@
   },
   "active": "8bcb8f10bc960f17",
   "lastOpenFiles": [
-    "Software/System Design/cloudflare/Cloudflare.md",
+    "Software/Networking/TLS or Https Certificate.md",
+    "Software/Networking/TCP & UDP.md",
+    "Software/Networking/Routing.md",
     "Software/System Design/cloudflare/DDoS and AIBot Protection.md",
+    "Software/System Design/cloudflare/Cloudflare.md",
     "Software/System Design/cloudflare/Anycast Routing.md",
     "Software/Wishlist.md",
     "Software/Aptitude.md",
     "Software/Templates/Concept.md",
     "Software/Templates/Daily note.md",
     "sample.base",
-    "Software/Networking/TCP & UDP.md",
     "Software/Networking/images/TCP vs QUIC.png",
     "Software/favourites/github_links",
     "Software/favourites",
@@ -217,7 +219,6 @@
     "Software/Networking/IP and MAC address.md",
     "Software/Networking/Invalid TLS Certificate.md",
     "Software/Networking/OSI Model.md",
-    "Software/Networking/TLS or Https Certificate.md",
     "Pasted image 20251010102058.png",
     "Software/Networking/HTTP/HTTPS.md",
     "Software/Networking/images/QUIC protocol reliable.png",
@@ -234,7 +235,6 @@
     "Software/Networking/HTTP",
     "Software/System Design/Study Strategy.md",
     "Software/System Design/Security rules for Developers.md",
-    "Software/System Design/GitHub Important Project & links.md",
     "Software/System Design/Study Strategy",
     "Software/Kafka/Untitled",
     "Software/Devops/images",
