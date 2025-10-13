@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "- path:\"Spring Boot\"   ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"Java/Core Java\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:\"Java/Spring Boot\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1388000
+      }
+    },
+    {
+      "query": "[\"link\":Networking",
+      "color": {
+        "a": 1,
+        "rgb": 15028010
+      }
+    },
+    {
+      "query": "[\"link\":System Design",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.7132754626225014,
+  "close": true
+}

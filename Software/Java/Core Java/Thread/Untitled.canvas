@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"02459f80a91bf6a1","x":34,"y":-41,"width":250,"height":60,"type":"text","text":""},
+		{"id":"630fe7750c2efb38","x":-593,"y":-273,"width":250,"height":60,"type":"text","text":""},
+		{"id":"efa052bb485dce19","x":-280,"y":-160,"width":260,"height":80,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"f74a6eceb3af2ffd","fromNode":"efa052bb485dce19","fromSide":"bottom","toNode":"02459f80a91bf6a1","toSide":"top"},
+		{"id":"92b1ba5b814d42ec","fromNode":"efa052bb485dce19","fromSide":"top","toNode":"630fe7750c2efb38","toSide":"top"}
+	]
+}

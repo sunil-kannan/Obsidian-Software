@@ -1,0 +1,21 @@
+/* Make a specific internal link (e.g., [[Java]]) appear bigger */
+.markdown-preview-view a[href="Java"] {
+    font-size: 2em;
+    /* Adjust the size as needed */
+    font-weight: bold;
+    color: #ff0000;
+    /* Optional: Change the color */
+}
+/* Style internal links like [[Java]] */
+.markdown-preview-view a.internal-link[href="Java"] {
+    font-size: 1.5em; /* Adjust the font size as needed */
+    font-weight: bold;
+    color: #007bff; /* Adjust the color as needed */
+}
+
+/* If you use #tags like #Java, you can use this CSS */
+.markdown-preview-view a[href="#Java"] {
+    font-size: 1.5em; /* Adjust the font size as needed */
+    font-weight: bold;
+    color: #007bff; /* Adjust the color as needed */
+}

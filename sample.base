@@ -1,0 +1,18 @@
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - file.basename
+      - file.backlinks
+      - file.links
+      - file.fullname
+      - file.folder
+      - file.ext
+      - file.ctime
+      - file.tags
+      - file.path
+      - file.mtime
+    sort:
+      - property: file.name
+        direction: DESC
