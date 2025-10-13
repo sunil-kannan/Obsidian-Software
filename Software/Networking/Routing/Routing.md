@@ -35,3 +35,4 @@ While sending same data packets to the same subnet, doesn't need routing. There 
 
 ![[dynamic route.jpg]]
 
+![[Pasted image 20251013122305.png]]

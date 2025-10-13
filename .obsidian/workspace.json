@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Networking/Traceroute.md",
+                "file": "Software/Networking/Routing/Routing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Traceroute"
+              "title": "Routing"
             }
           }
         ],
@@ -192,8 +192,9 @@
   },
   "active": "8bcb8f10bc960f17",
   "lastOpenFiles": [
-    "Software/System Design/cloudflare/Anycast Routing.md",
+    "Pasted image 20251013122305.png",
     "Software/Networking/Traceroute.md",
+    "Software/System Design/cloudflare/Anycast Routing.md",
     "Software/System Design/cloudflare/Key Reasons Companies Adopt Cloudflare.md",
     "Software/Networking/Routing/Default Gateway.md",
     "Software/Networking/Routing/Routing.md",
@@ -233,7 +234,6 @@
     "Software/System Design/CDN",
     "Software/Java/MicroServices/Orchestration vs Choreography.md",
     "Software/Devops/Containerization and Orchestration/Kubernetes/SSL Termination in OpenShift.md",
-    "Software/Security/Insecure Direct Object References (IDOR).md",
     "Software/Networking/HTTP/Evolution",
     "Software/Networking/HTTP",
     "Software/System Design/Study Strategy",
