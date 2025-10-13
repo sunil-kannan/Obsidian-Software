@@ -10,8 +10,7 @@ link:
 
 ## Sending data packets to the same subnet
 
-While sending same data packets to the same subnet, doesn't need routing. There is a thing called "Switch" i
-
+While sending same data packets to the same subnet, doesn't need routing. 
 
 - A wants to send to B:
     
@@ -21,7 +20,7 @@ While sending same data packets to the same subnet, doesn't need routing. There 
         
 - A wants to send to C:
     
-    - A sees IP of C is **different subnet** → sends frame to **default gateway (router)** MAC.
+    - A sees IP of C is **different subnet** → sends frame to [[Default Gateway]] (router)** MAC.
         
     - Switch forwards frame to router based on MAC.
 
