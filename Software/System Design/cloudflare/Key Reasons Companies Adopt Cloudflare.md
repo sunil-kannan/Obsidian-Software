@@ -60,7 +60,7 @@ User Request → Cloudflare Global Network → Origin Server
 
 - **Load Balancing**: Distributes traffic across multiple servers
     
-- **Anycast Network**: Automatic failover between locations
+- **(Anycast Network)[[Anycast Routing]]**: Automatic failover between locations
     
 - **100% Uptime SLA**: For enterprise customers
     
