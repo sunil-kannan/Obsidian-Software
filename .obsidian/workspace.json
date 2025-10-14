@@ -78,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "normali",
+                "query": "register",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -202,7 +203,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6136e83a49f3948",
+  "active": "78a1d4f42e0f704d",
   "lastOpenFiles": [
     "Software/Networking/images/GRPC.jpg",
     "Software/Networking/images/GraphQL.jpg",
