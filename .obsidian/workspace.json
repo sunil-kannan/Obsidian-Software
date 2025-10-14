@@ -37,14 +37,12 @@
             "id": "0bc1b51c3102aa43",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Software/Java/Core Java/Association, Composition, and Aggregation.md",
-                "mode": "source",
-                "source": false
+                "file": "Software/Java/images/jpa architecture - 1.png"
               },
-              "icon": "lucide-file",
-              "title": "Association, Composition, and Aggregation"
+              "icon": "lucide-image",
+              "title": "jpa architecture - 1"
             }
           }
         ],
@@ -206,6 +204,10 @@
   },
   "active": "0bc1b51c3102aa43",
   "lastOpenFiles": [
+    "Software/Java/images/gc allocation.png",
+    "Software/Java/images/gc pause.png",
+    "Software/Java/Core Java/Coupling & Cohesion.md",
+    "Software/Java/Core Java/Association, Composition, and Aggregation.md",
     "Software/Java/Core Java/Thread/Virtual Thread (Java 21).md",
     "Software/Java/Core Java/Thread/Untitled.canvas",
     "Software/Java/Core Java/Thread/Thread.md",
@@ -232,9 +234,6 @@
     "Software/Networking/Routing",
     "Software/System Design/cloudflare/DDoS and AIBot Protection.md",
     "Software/System Design/cloudflare/Cloudflare.md",
-    "Software/Wishlist.md",
-    "Software/Aptitude.md",
-    "Software/Templates/Concept.md",
     "sample.base",
     "Software/Networking/images/TCP vs QUIC.png",
     "Software/favourites/github_links",
@@ -247,7 +246,6 @@
     "Pasted image 20251010102058.png",
     "Software/Networking/images/QUIC protocol reliable.png",
     "Software/Networking/images/SSL vs TLS 1.png",
-    "Software/Networking/images/ssl vs tls.png",
     "Software/System Design/CDN",
     "Software/Networking/HTTP/Evolution",
     "Software/Networking/HTTP",
