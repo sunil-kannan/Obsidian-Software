@@ -39,10 +39,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Software/Java/images/jpa architecture - 1.png"
+                "file": "Software/Networking/images/Screenshot_2025-10-12-21-42-30-020_com.google.android.youtube.jpg"
               },
               "icon": "lucide-image",
-              "title": "jpa architecture - 1"
+              "title": "Screenshot_2025-10-12-21-42-30-020_com.google.android.youtube"
             }
           }
         ],
@@ -204,8 +204,17 @@
   },
   "active": "0bc1b51c3102aa43",
   "lastOpenFiles": [
-    "Software/Java/images/gc allocation.png",
-    "Software/Java/images/gc pause.png",
+    "Software/Networking/images/GRPC.jpg",
+    "Software/Networking/images/GraphQL.jpg",
+    "Software/Networking/images/Screenshot_2025-10-12-21-42-30-020_com.google.android.youtube.jpg",
+    "Software/Networking/images/Screenshot_2025-10-13-20-12-13-103_com.twitter.android.jpg",
+    "Software/Networking/images/Switch-2.jpg",
+    "Software/Networking/images/Switches-1.jpg",
+    "Software/System Design/images/real world system.jpg",
+    "Software/Networking/images/Bridges.jpg",
+    "Software/Networking/images/Hub.jpg",
+    "Software/System Design/images/system design concept.jpg",
+    "Software/Java/images/jpa architecture - 1.png",
     "Software/Java/Core Java/Coupling & Cohesion.md",
     "Software/Java/Core Java/Association, Composition, and Aggregation.md",
     "Software/Java/Core Java/Thread/Virtual Thread (Java 21).md",
@@ -228,24 +237,15 @@
     "Software/Networking/IP and MAC address.md",
     "Software/Networking/TCP & UDP.md",
     "Software/Networking/Traceroute.md",
-    "Pasted image 20251013122305.png",
     "Software/System Design/cloudflare/Anycast Routing.md",
     "Software/System Design/cloudflare/Key Reasons Companies Adopt Cloudflare.md",
     "Software/Networking/Routing",
     "Software/System Design/cloudflare/DDoS and AIBot Protection.md",
     "Software/System Design/cloudflare/Cloudflare.md",
     "sample.base",
-    "Software/Networking/images/TCP vs QUIC.png",
     "Software/favourites/github_links",
     "Software/favourites",
-    "Software/Networking/images/static routing.jpg",
-    "Software/Networking/images/routing-1.jpg",
-    "Software/Networking/images/dynamic route.jpg",
-    "Software/Networking/images/before assinging static.jpg",
     "Software/System Design/cloudflare",
-    "Pasted image 20251010102058.png",
-    "Software/Networking/images/QUIC protocol reliable.png",
-    "Software/Networking/images/SSL vs TLS 1.png",
     "Software/System Design/CDN",
     "Software/Networking/HTTP/Evolution",
     "Software/Networking/HTTP",
