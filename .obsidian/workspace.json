@@ -78,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "register",
+                "query": "register ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
