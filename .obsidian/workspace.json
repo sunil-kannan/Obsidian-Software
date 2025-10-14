@@ -39,10 +39,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Software/Networking/images/Screenshot_2025-10-12-21-42-30-020_com.google.android.youtube.jpg"
+                "file": "Software/Networking/images/Router.jpg"
               },
               "icon": "lucide-image",
-              "title": "Screenshot_2025-10-12-21-42-30-020_com.google.android.youtube"
+              "title": "Router"
             }
           }
         ],
@@ -202,11 +202,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0bc1b51c3102aa43",
+  "active": "f6136e83a49f3948",
   "lastOpenFiles": [
     "Software/Networking/images/GRPC.jpg",
     "Software/Networking/images/GraphQL.jpg",
-    "Software/Networking/images/Screenshot_2025-10-12-21-42-30-020_com.google.android.youtube.jpg",
+    "Software/Networking/images/Router.jpg",
     "Software/Networking/images/Screenshot_2025-10-13-20-12-13-103_com.twitter.android.jpg",
     "Software/Networking/images/Switch-2.jpg",
     "Software/Networking/images/Switches-1.jpg",
