@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Networking/Routing/Global Traffic Manager (GTM).md",
+                "file": "Software/Networking/HTTP/QUIC Protocol.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Global Traffic Manager (GTM)"
+              "title": "QUIC Protocol"
             }
           }
         ],
@@ -192,8 +192,8 @@
   },
   "active": "8bcb8f10bc960f17",
   "lastOpenFiles": [
-    "Software/Networking/HTTP/Evolution/Evolution of HTTP.md",
     "Software/Networking/Routing/Global Traffic Manager (GTM).md",
+    "Software/Networking/HTTP/Evolution/Evolution of HTTP.md",
     "Software/Networking/HTTP/HTTP.md",
     "Software/Networking/HTTP/HOL Blocking.md",
     "Software/Networking/Routing/Routing.md",
