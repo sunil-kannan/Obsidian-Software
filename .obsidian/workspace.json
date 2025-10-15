@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Java/Core Java/Architecture and Memory management/Garbage Collector (GC).md",
+                "file": "Software/Java/Version/LTS & Main version.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Garbage Collector (GC)"
+              "title": "LTS & Main version"
             }
           },
           {
@@ -202,8 +202,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6136e83a49f3948",
+  "active": "8bcb8f10bc960f17",
   "lastOpenFiles": [
+    "Pasted image 20251015100600.png",
+    "Pasted image 20251015100505.png",
+    "Software/Java/images/Java-11.png",
+    "Pasted image 20251013122305.png",
+    "Software/Java/Version/LTS & Main version.md",
+    "Software/Java/Version/Java 11 & 12.md",
+    "Software/Java/Core Java/Architecture and Memory management/Garbage Collector (GC).md",
     "Software/Networking/images/Router.jpg",
     "Software/Networking/images/GRPC.jpg",
     "Software/Networking/images/GraphQL.jpg",
@@ -211,10 +218,6 @@
     "Software/Networking/images/Switch-2.jpg",
     "Software/Networking/images/Switches-1.jpg",
     "Software/System Design/images/real world system.jpg",
-    "Software/Networking/images/Bridges.jpg",
-    "Software/Networking/images/Hub.jpg",
-    "Software/System Design/images/system design concept.jpg",
-    "Software/Java/images/jpa architecture - 1.png",
     "Software/Java/Core Java/Coupling & Cohesion.md",
     "Software/Java/Core Java/Association, Composition, and Aggregation.md",
     "Software/Java/Core Java/Thread/Virtual Thread (Java 21).md",
@@ -223,7 +226,6 @@
     "Software/Java/Core Java/Thread/MultiThreading.md",
     "Software/Java/Core Java/Collections/HashMap.md",
     "Software/Java/Core Java/Architecture and Memory management/Java Garbage Collection Evolution.md",
-    "Software/Java/Core Java/Architecture and Memory management/Garbage Collector (GC).md",
     "Software/Networking/HTTP/QUIC Protocol.md",
     "Software/Networking/Routing/Global Traffic Manager (GTM).md",
     "Software/Networking/HTTP/Evolution/Evolution of HTTP.md",
@@ -240,8 +242,6 @@
     "Software/System Design/cloudflare/Anycast Routing.md",
     "Software/System Design/cloudflare/Key Reasons Companies Adopt Cloudflare.md",
     "Software/Networking/Routing",
-    "Software/System Design/cloudflare/DDoS and AIBot Protection.md",
-    "Software/System Design/cloudflare/Cloudflare.md",
     "sample.base",
     "Software/favourites/github_links",
     "Software/favourites",
