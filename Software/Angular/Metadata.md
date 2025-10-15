@@ -8,12 +8,8 @@ link:
 
 > Metadata is used to decorate a class so that it can configure the expected behavior of the class. The metadata is represented by decorators.
 
-
-
-
-
-
 ### Class decorators, e.g. @Component and @NgModule
+
 ```ts
 import { NgModule, Component } from '@angular/core';
 
@@ -38,7 +34,10 @@ export class MyModule {
 }
 ```
 
-Property decorators Used for properties inside classes, e.g. @Input and @Output
+### Property decorators Used for properties inside classes, e.g. @Input and @Output
+
+```ts
+
 import { Component, Input } from '@angular/core';
 
 @Component({
@@ -50,7 +49,11 @@ export class MyComponent {
     @Input()
     title: string;
 }
-Method decorators Used for methods inside classes, e.g. @HostListener
+```
+
+### Method decorators Used for methods inside classes, e.g. @HostListener
+
+```ts
 import { Component, HostListener } from '@angular/core';
 
 @Component({
@@ -63,7 +66,10 @@ export class MyComponent {
         // clicked, `event` available
     }
 }
-Parameter decorators Used for parameters inside class constructors, e.g. @Inject, @Optional
+```
+### Parameter decorators Used for parameters inside class constructors, e.g. @Inject, @Optional
+
+```ts
 import { Component, Inject } from '@angular/core';
 import { MyService } from './my-service';
 
@@ -93,6 +99,6 @@ myService: MyService = inject(MyService)
     }
 }
 
-
+```
 
 
