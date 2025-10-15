@@ -99,8 +99,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -203,7 +202,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8bcb8f10bc960f17",
+  "active": "f6136e83a49f3948",
   "lastOpenFiles": [
     "Software/Networking/images/Router.jpg",
     "Software/Networking/images/GRPC.jpg",
