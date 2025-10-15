@@ -4,9 +4,15 @@ tags:
 link:
 ---
 
-# Metadata
+### 🚀 **Decorators in Angular**
 
-> Metadata is used to decorate a class so that it can configure the expected behavior of the class. The metadata is represented by decorators.
+A **decorator** is a **special type of function** in TypeScript that can be applied to classes, methods, properties, or parameters to **add metadata** and sometimes modify behavior.
+
+In Angular, decorators are used for defining the **metadata** associated with various elements like components, services, directives, pipes, etc.
+
+### 🧠 **Metadata**
+
+**Metadata** refers to the **data about data** — in this case, **information about the class, method, property, or parameter** that the decorator is attached to. This metadata typically provides Angular with information about how to **configure** and **interact with** that class or its members.
 
 ### Class decorators, e.g. @Component and @NgModule
 
