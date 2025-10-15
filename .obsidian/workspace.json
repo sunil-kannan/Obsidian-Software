@@ -202,12 +202,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6136e83a49f3948",
+  "active": "8bcb8f10bc960f17",
   "lastOpenFiles": [
+    "Software/Angular/Decorators.md",
+    "Software/Angular/Directives.md",
     "Software/Angular/images/angular_directives.png",
     "Software/Angular/images/angular_directives-1.png",
-    "Software/Angular/Directives.md",
-    "Software/Angular/Decorators.md",
     "Pasted image 20251010102058.png",
     "Pasted image 20250703123121.png",
     "Pasted image 20251013122305.png",
@@ -222,7 +222,6 @@
     "Software/Java/Core Java/Architecture and Memory management/Garbage Collector (GC).md",
     "Software/Networking/images/Router.jpg",
     "Software/Networking/images/GRPC.jpg",
-    "Software/Networking/images/GraphQL.jpg",
     "Software/Java/Core Java/Coupling & Cohesion.md",
     "Software/Java/Core Java/Association, Composition, and Aggregation.md",
     "Software/Java/Core Java/Thread/Virtual Thread (Java 21).md",
