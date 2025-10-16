@@ -1,0 +1,89 @@
+## Step-by-step: How TLS works after TCP
+
+### 1. TCP Connection Established
+
+A normal 3-way handshake happens first:
+SYN → SYN-ACK → ACK
+
+Now both client and server have a reliable connection over TCP.
+
+### 2. TLS Handshake Begins
+
+Once TCP is ready, the TLS handshake starts.
+Its goal:
+
+Authenticate the server (and optionally the client)
+
+Agree on encryption algorithms
+
+Generate shared session keys
+
+Let’s go through it step by step:
+
+### 🪜 Step 1 — ClientHello
+
+The client sends a ClientHello message to the server, listing:
+
+Supported TLS versions (e.g., 1.2, 1.3)
+
+Supported cipher suites (encryption algorithms)
+
+A random number (for key generation)
+
+Optional extensions like SNI (to specify domain name)
+
+### 🪜 Step 2 — ServerHello
+
+The server responds with:
+
+Chosen TLS version and cipher suite
+
+Its own random number
+
+Its digital certificate (usually issued by a Certificate Authority) — this proves the server’s identity
+
+(In TLS 1.3, this step also includes key share info for quicker setup)
+
+### 🪜 Step 3 — Certificate Verification
+
+The client verifies the server’s certificate using the CA’s public key.
+
+If valid, the client now trusts the server.
+
+### 🪜 Step 4 — Key Exchange
+
+Both sides exchange key material (depends on cipher suite; often Diffie-Hellman is used).
+
+They independently compute a shared session key — the symmetric key that will encrypt all further communication.
+
+### 🪜 Step 5 — Secure Channel Established
+
+Both sides send a “Finished” message encrypted with the new key.
+
+From this point on, data sent over TCP is encrypted by TLS.
+
+### 🔒 Data Transmission
+
+Now, when the application (like a browser) sends HTTP requests:
+
+HTTP → TLS encrypts the data
+
+Encrypted bytes → go through TCP
+
+TCP → sends packets over IP
+
+At the receiver:
+
+TCP reassembles packets
+
+TLS decrypts the data
+
+HTTP interprets it normally
+
+### ⚡ Key takeaway
+
+TCP ensures reliability (delivery, order, no corruption).
+
+TLS ensures security (encryption, authentication, integrity).
+
+HTTP runs on top of TLS to provide secure communication — hence HTTPS.
