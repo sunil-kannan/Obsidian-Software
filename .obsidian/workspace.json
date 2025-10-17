@@ -23,12 +23,14 @@
             "id": "8bcb8f10bc960f17",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Software/Java/images/gc pause.png"
+                "file": "Software/Java/Version/LTS & Main version.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "gc pause"
+              "icon": "lucide-file",
+              "title": "LTS & Main version"
             }
           },
           {
@@ -202,6 +204,7 @@
   },
   "active": "8bcb8f10bc960f17",
   "lastOpenFiles": [
+    "Software/Java/images/gc pause.png",
     "Software/Java/Version/Java 9 & 10.md",
     "Software/Java/Spring Boot/Exception Heirarchy.md",
     "Software/Java/Spring Boot/Jpa/Transactional.md",
@@ -241,7 +244,6 @@
     "Software/Java/Core Java/Thread/Untitled.canvas",
     "Software/Java/Core Java/Thread/Thread.md",
     "Software/Java/Core Java/Thread/MultiThreading.md",
-    "Software/Java/Core Java/Architecture and Memory management/Java Garbage Collection Evolution.md",
     "Software/Networking/Routing",
     "sample.base",
     "Software/favourites/github_links",
