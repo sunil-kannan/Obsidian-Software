@@ -9,12 +9,12 @@ link:
 > Java has evolved significantly over the years, with each new version bringing in new features, optimizations, and tools. Below is an overview of the **main features**.
 
 
-![[Java-11.png]]
+![[java version 11.png]]
 
 
-![[Pasted image 20251015100505.png]]
+![[java version 17.png]]
 
 
-![[Pasted image 20251015100600.png]]
+![[java version 21.png]]
 
 
