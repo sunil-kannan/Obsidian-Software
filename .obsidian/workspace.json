@@ -25,10 +25,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Software/Networking/images/static routing.jpg"
+                "file": "Software/System Design/images/system design concept.jpg"
               },
               "icon": "lucide-image",
-              "title": "static routing"
+              "title": "system design concept"
             }
           },
           {
@@ -202,6 +202,8 @@
   },
   "active": "8bcb8f10bc960f17",
   "lastOpenFiles": [
+    "Software/System Design/images/real world system.jpg",
+    "Software/Networking/images/static routing.jpg",
     "Software/Networking/images/Switch-2.jpg",
     "Software/Networking/images/Switches-1.jpg",
     "Software/Networking/images/TCP vs QUIC.png",
@@ -223,8 +225,6 @@
     "Software/Angular/Directives.md",
     "Software/Angular/images/angular_directives.png",
     "Software/Angular/images/angular_directives-1.png",
-    "Pasted image 20251010102058.png",
-    "Pasted image 20250703123121.png",
     "Software/Angular/images",
     "Software/Commands/Git & Github/Git Fork.md",
     "Software/Java/Version/LTS & Main version.md",
