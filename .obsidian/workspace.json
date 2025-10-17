@@ -23,14 +23,12 @@
             "id": "8bcb8f10bc960f17",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Software/Networking/HTTP/HOL Blocking.md",
-                "mode": "source",
-                "source": false
+                "file": "Software/Networking/images/static routing.jpg"
               },
-              "icon": "lucide-file",
-              "title": "HOL Blocking"
+              "icon": "lucide-image",
+              "title": "static routing"
             }
           },
           {
@@ -204,6 +202,11 @@
   },
   "active": "8bcb8f10bc960f17",
   "lastOpenFiles": [
+    "Software/Networking/images/Switch-2.jpg",
+    "Software/Networking/images/Switches-1.jpg",
+    "Software/Networking/images/TCP vs QUIC.png",
+    "Software/Networking/images/GraphQL.jpg",
+    "Software/Networking/HTTP/HOL Blocking.md",
     "Software/Networking/Traceroute.md",
     "Software/Networking/TLS or Https Certificate.md",
     "Software/Networking/TCP & UDP.md",
@@ -222,9 +225,6 @@
     "Software/Angular/images/angular_directives-1.png",
     "Pasted image 20251010102058.png",
     "Pasted image 20250703123121.png",
-    "Pasted image 20251013122305.png",
-    "Pasted image 20251015100505.png",
-    "Pasted image 20251015100600.png",
     "Software/Angular/images",
     "Software/Commands/Git & Github/Git Fork.md",
     "Software/Java/Version/LTS & Main version.md",
@@ -242,8 +242,6 @@
     "Software/Networking/HTTP/QUIC Protocol.md",
     "Software/Networking/Routing/Global Traffic Manager (GTM).md",
     "Software/Networking/HTTP/Evolution/Evolution of HTTP.md",
-    "Software/Networking/HTTP/HTTP.md",
-    "Software/Networking/HTTP/HOL Blocking.md",
     "Software/Networking/Routing",
     "sample.base",
     "Software/favourites/github_links",
