@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Database/Redis/Eviction Policies.md",
+                "file": "Software/Database/Redis/Redis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eviction Policies"
+              "title": "Redis"
             }
           }
         ],
@@ -192,11 +192,12 @@
   },
   "active": "8bcb8f10bc960f17",
   "lastOpenFiles": [
+    "Software/Database/Redis/Data types.md",
     "Software/Database/Redis/Redis.md",
+    "Software/Database/Redis/Redis Client.md",
     "Software/Database/Redis/Eviction Policies.md",
     "Software/Database/Redis/What happens on Redis restart.md",
     "Software/Database/Redis/What makes Redis Special.md",
-    "Software/Database/Redis/Redis Client.md",
     "Software/Java/images/java version 17.png",
     "Software/Database/Redis",
     "Software/Networking/images/Router.jpg",
@@ -230,7 +231,6 @@
     "Software/Networking/How TLS work",
     "Software/Angular/Directives.md",
     "Software/Angular/images",
-    "Software/Commands/Git & Github/Git Fork.md",
     "Software/Angular",
     "Software/Java/Core Java/Thread/Untitled.canvas",
     "Software/Networking/Routing",
