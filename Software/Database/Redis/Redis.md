@@ -21,8 +21,6 @@ But Redis **is not 100% single-threaded** for everything.
 
 - **Core command processing** (read/write ops, pub/sub, etc.) is single-threaded
 - But **background tasks** like AOF writing, RDB saving, eviction, and AOF rewrite run in **separate background threads or child processes**
-
-
 ## How Keys and Values are stored in Redis
 
 #### Keys: What Types Are Allowed?
@@ -40,4 +38,10 @@ But Redis **is not 100% single-threaded** for everything.
 
     When you interact with Redis from a client library (e.g., Python's `redis-py`), the library typically handles the encoding and decoding between your application's data types (like Python strings or integers) and the byte streams that Redis expects. For instance, a Python string will be encoded into bytes (e.g., UTF-8) before being sent to Redis, and retrieved bytes will be decoded back into a Python string.
 
+## Use Cases
 
+- Cache
+- Session
+- Distributed Lock
+- Rate limiter
+- Rank/Leaderboard

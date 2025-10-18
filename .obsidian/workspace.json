@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Database/Redis/Redis Client.md",
+                "file": "Software/Database/Redis/Redis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Redis Client"
+              "title": "Redis"
             }
           }
         ],
@@ -192,8 +192,8 @@
   },
   "active": "8bcb8f10bc960f17",
   "lastOpenFiles": [
-    "Software/Database/Redis/What happens on Redis restart.md",
     "Software/Database/Redis/Redis Client.md",
+    "Software/Database/Redis/What happens on Redis restart.md",
     "Software/Database/Redis/Redis.md",
     "Software/Database/Redis/Data types.md",
     "Software/Database/Redis/Eviction Policies.md",
