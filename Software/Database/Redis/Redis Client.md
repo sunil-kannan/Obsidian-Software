@@ -38,11 +38,11 @@ But **you don't need to code the client yourself** — frameworks like Spring Bo
 
 ## 🔸 Common Redis Clients (Java)
 
-|Client|Description|
-|---|---|
-|**Lettuce** (default in Spring Boot)|Modern, non-blocking, reactive Redis client for Java. Good for both sync and async.|
-|**Jedis**|Older, mature, simple-to-use blocking client. Easy for basic use cases.|
-|**Redisson**|Feature-rich client with distributed locks, maps, semaphores, etc. Very useful for advanced scenarios.|
+| Client                               | Description                                                                                            |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------ |
+| **Lettuce** (default in Spring Boot) | Modern, non-blocking, reactive Redis client for Java. Good for both sync and async.                    |
+| **Jedis**                            | Older, mature, simple-to-use blocking client. Easy for basic use cases.                                |
+| **Redisson**                         | Feature-rich client with distributed locks, maps, semaphores, etc. Very useful for advanced scenarios. |
 
 ---
 
