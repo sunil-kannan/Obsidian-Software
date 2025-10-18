@@ -1,10 +1,10 @@
 ---
-date: 2024-09-02
+date: "2025-10-18"
 tags: 
 link:
 ---
 
-## What makes Redis Special ?
+# What makes Redis Special ?
 ### 1. Every operation on Redis is atomic
 
 >When command is executing, Redis does not context switch and start executing other command. Redis is Single-threaded environment.
