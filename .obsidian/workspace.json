@@ -20,17 +20,17 @@
             }
           },
           {
-            "id": "df843635b43bda42",
+            "id": "476b72cd34bffa7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/System Design/LoadBalancer/GSLB (Global Server Load Balancer).md",
+                "file": "Software/Database/internals/CAP Theorem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GSLB (Global Server Load Balancer)"
+              "title": "CAP Theorem"
             }
           }
         ],
@@ -190,10 +190,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df843635b43bda42",
+  "active": "f6136e83a49f3948",
   "lastOpenFiles": [
-    "Software/System Design/LoadBalancer/Types of Load Balancing algorithm.md",
+    "Software/Database/images/CAP Theorem.png",
+    "Software/Database/internals/CAP Theorem.md",
+    "Software/Database/Untitled 1.md",
+    "Software/Database/Untitled.md",
     "Software/System Design/LoadBalancer/GSLB (Global Server Load Balancer).md",
+    "Software/System Design/LoadBalancer/Types of Load Balancing algorithm.md",
     "Software/System Design/LoadBalancer/Load Balancer.md",
     "Software/System Design/images/types of load balancing algorithm.png",
     "Software/Database/images/5NF.jpg",
@@ -206,7 +210,6 @@
     "Software/Database/images/isolation_example.png",
     "Software/Database/images/DISK and RAM.png",
     "Software/Database/images/3NF-1.jpg",
-    "Software/Database/Untitled.md",
     "conflict-files-obsidian-git.md",
     "Software/System Design/API/Protocol Buffers.md",
     "Software/System Design/API/API Communication Protocols or Styles.md",
@@ -231,10 +234,7 @@
     "Software/Java/Core Java/Architecture and Memory management/Garbage Collector (GC).md",
     "Software/Java/Core Java/Coupling & Cohesion.md",
     "Software/Java/Core Java/Association, Composition, and Aggregation.md",
-    "Software/Java/Core Java/Thread/Virtual Thread (Java 21).md",
     "Software/Java/Core Java/Thread/Untitled.canvas",
-    "Software/Java/Core Java/Thread/Thread.md",
-    "Software/Java/Core Java/Thread/MultiThreading.md",
     "Software/Networking/Routing",
     "sample.base",
     "Software/favourites/github_links",
