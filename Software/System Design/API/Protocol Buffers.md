@@ -161,21 +161,8 @@ This **binary-encoded data** is then sent or stored as a **byte stream**, since 
 ### 🔹 In short:
 
 - **Binary format** → How Protobuf structures and encodes your data internally (compact, efficient, not human-readable).
-    
 - **Byte stream** → How that binary data is actually transmitted or stored (sequence of bytes).
-    
-
+- 
 So,
 
 > Protobuf **encodes structured data into binary** → which is **transmitted as a byte stream** over the network or written to disk.
-
----
-## 🧠 Tip
-
-If you're using **Obsidian**, create a note linking Protobuf with related concepts like:
-
-- [[gRPC]]
-    
-- [[Serialization vs Deserialization]]
-    
-- [[Microservices Communication]]
