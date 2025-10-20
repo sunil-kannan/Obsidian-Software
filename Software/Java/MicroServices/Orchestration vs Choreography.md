@@ -13,6 +13,7 @@ link: "[[MicroServices]]"
 - Although a lot of people adapt & prefer `Choreography` not make `Orchestration` bad.
 - `Orchestration` will be used in some areas where `Choreography` is not suitable (where req/res is needed compulsory).
 - A choreographed system uses by definition `event-driven` communication, whereas [microservice orchestration](https://camunda.com/solutions/microservices-orchestration/) uses `command-driven` communication.
+
 # Orchestration
 
 >As the name already suggests, when talking about orchestration you can picture a big orchestra which features multiple instruments and a conductor who makes sure that everyone stays in tact. He tells when which instrument needs to play to ensure that the song sounds as it should like.
