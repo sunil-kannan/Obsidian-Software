@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Kafka/Kafka Internals.md",
+                "file": "Software/Kafka/Broker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kafka Internals"
+              "title": "Broker"
             }
           }
         ],
@@ -206,6 +206,7 @@
   },
   "active": "a8f3195fab718ca8",
   "lastOpenFiles": [
+    "Software/Kafka/Kafka Internals.md",
     "Software/Kafka/Retention.md",
     "Software/Kafka/Broker.md",
     "Software/Database/Redis/Eviction Policies.md",
@@ -246,7 +247,6 @@
     "Software/Java/Spring Boot/Exception Heirarchy.md",
     "Software/Java/Spring Boot/Jpa/Transactional.md",
     "Software/Java/Core Java/Coupling & Cohesion.md",
-    "Software/Java/Core Java/Association, Composition, and Aggregation.md",
     "Software/Networking/How TLS work",
     "Software/Angular/images",
     "Software/Angular",
