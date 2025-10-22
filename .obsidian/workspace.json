@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/System Design/API/Protocol Buffers.md",
+                "file": "Software/Java/Core Java/Thread/Compare-and-Swap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Protocol Buffers"
+              "title": "Compare-and-Swap"
             }
           }
         ],
@@ -220,6 +220,9 @@
   },
   "active": "32aea96f81be4d0b",
   "lastOpenFiles": [
+    "Software/Networking/Network Address Translation (NAT).md",
+    "Software/Java/Core Java/Thread/Compare-and-Swap.md",
+    "Software/System Design/API/Protocol Buffers.md",
     "Software/Java/MicroServices/Circuit Breaker Pattern.md",
     "Software/System Design/Low Level System Design/SOLID Principle.md",
     "Software/Templates/Concept.md",
@@ -238,7 +241,6 @@
     "Software/Java/MicroServices/SAGA Pattern.md",
     "Software/Database/internals/CAP Theorem.md",
     "Software/Database/images/CAP Theorem.png",
-    "Software/System Design/API/Protocol Buffers.md",
     "Software/System Design/images/types of load balancing algorithm.png",
     "Software/System Design/LoadBalancer/Types of Load Balancing algorithm.md",
     "Software/System Design/LoadBalancer/Load Balancer.md",
@@ -260,8 +262,6 @@
     "Software/System Design/API/API Communication Protocols or Styles.md",
     "Software/System Design/API",
     "Software/Database/Redis",
-    "Software/Java/Version/LTS & Main version.md",
-    "Software/Java/Version/Java 9 & 10.md",
     "Software/Networking/How TLS work",
     "Software/Angular/images",
     "Software/Angular",
