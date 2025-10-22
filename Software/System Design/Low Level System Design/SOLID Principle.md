@@ -17,3 +17,18 @@ SOLID stands for:
 - [**I** - Interface Segregation Principle](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design#interface-segregation-principle)
 - [**D** - Dependency Inversion Principle](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design#dependency-inversion-principle)
 
+## Single-Responsibility Principle
+
+Single-responsibility Principle (SRP) states:
+
+> A class should have one and only one reason to change, meaning that a class should have only one job.
+
+
+
+## Open-Closed Principle
+
+Open-closed Principle (OCP) states:
+
+> Objects or entities should be open for extension but closed for modification.
+
+This means that a class should be extendable without modifying the class itself.
