@@ -24,6 +24,46 @@ The primary purpose of a circuit breaker is to prevent cascading failures in a d
 During normal operation, when the external API is up and running, the circuit breaker remains in a closed state, allowing requests to flow through seamlessly. Your application retrieves the list of countries from the external API and serves the data to the users.
 ### Failure Detection:  
 If the external API experiences issues and starts responding with errors or becomes unresponsive, the circuit breaker detects this abnormal behavior by monitoring the failure rate or response times. Once the predefined threshold is exceeded, the circuit breaker trips, transitioning to an open state.
+
+---
+## 🔍 How a Circuit Breaker Detects Failure
+
+A **circuit breaker** (like in **Resilience4j**, **Hystrix**, or **Spring Cloud Circuit Breaker**) detects failures using:
+
+### 🔸 1. **Exceptions (most common)**
+
+- Connection refused
+- Timeout
+- Socket timeout
+- Unknown host
+- I/O exceptions
+- Any exception from the HTTP client (e.g., `RestTemplate`, `WebClient`)
+
+### 🔸 2. **Certain HTTP status codes** (configurable)
+
+Some HTTP responses **may indicate failure** and can be configured to **trip the circuit**, for example:
+
+|HTTP Status Code|Meaning|Typically Triggers Circuit Breaker?|
+|---|---|---|
+|500|Internal Server Error|✅ Yes (server issue)|
+|503|Service Unavailable|✅ Yes (temporary outage)|
+|504|Gateway Timeout|✅ Yes (slow/unresponsive service)|
+|502|Bad Gateway|✅ Yes (proxy/gateway error)|
+|400|Bad Request|❌ Usually not (client issue)|
+|401/403|Unauthorized / Forbidden|❌ Usually not (auth issue)|
+
+---
+
+## 🔧 In Libraries Like Resilience4j
+
+### 🔹 You can configure:
+
+- What **exceptions** count as failures
+- What **HTTP status codes** count as failures
+- How many failures trigger **OPEN state
+- How long to stay OPEN before going to **HALF_OPEN**
+
+---
 ### Fallback Mechanism:  
 When the circuit breaker is in the open state, instead of allowing requests to reach the failing external API, it redirects them to a fallback method or a pre-defined response. In the context of our example, the fallback method could be retrieving a cached version of the country list or providing a default list.
 ### Automatic Recovery:  
@@ -59,7 +99,7 @@ resilience4j.circuitbreaker.instances.default.slidingWindowSize=10
 # If failureRateThreshold is set to 60, the circuit breaker will open if 60% or more of the calls in the sliding window fail.  
 resilience4j.circuitbreaker.instances.default.failureRateThreshold=60.0  
   
-# If slowCallRateThreshold is set to 60, the circuit breaker will open if 60% or more of the calls in the sliding window fail.  
+# If slowCallRateThreshold is set to 60, the circuit breaker will open if 60% or more of the calls in the sliding window fail.
 resilience4j.circuitbreaker.instances.default.slowCallRateThreshold=60  
   
 # if the service is delaying the response for more than 2 seconds  
