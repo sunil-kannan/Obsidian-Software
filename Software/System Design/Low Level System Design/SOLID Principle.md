@@ -42,6 +42,27 @@ Liskov Substitution Principle states:
 
 This means that every subclass or derived class should be substitutable for their base or parent class.
 
+```java
+interface Bird {}
+
+interface FlyingBird extends Bird {
+    void fly();
+}
+
+class Sparrow implements FlyingBird {
+    public void fly() {
+        System.out.println("Sparrow flies");
+    }
+}
+
+class Penguin implements Bird {
+    // No fly() method, so no confusion
+}
+
+```
+If you use Bird interface in all both the sparrow and the penguin, it is wrong. Because, Penguin can't fly so you can't have the method like this, so you need to seperate as I mentioned above.
+
+
 ## Interface Segregation Principle
 
 The interface segregation principle states:
@@ -50,6 +71,38 @@ The interface segregation principle states:
 
 This principle emphasizes that large, general-purpose interfaces should be broken down into smaller, more specific ones. This way, client classes only need to know about the methods that are relevant to them.
 
+```java
+class Square implements ShapeInterface { // Only implements area()
+    public $length;
+
+    public function __construct($length) {
+        $this->length = $length;
+    }
+
+    public function area() {
+        return pow($this->length, 2);
+    }
+}
+```
+
+```java
+class Cuboid implements ShapeInterface, ThreeDimensionalShapeInterface
+{
+    public function area()
+    {
+        // calculate the surface area of the cuboid
+    }
+
+    public function volume()
+    {
+        // calculate the volume of the cuboid
+    }
+}
+```
+
+The `Square` class (and any other 2D shape) is no longer forced to implement a `volume()` method it doesn’t need. It only implements `ShapeInterface` and its `area()` method.
+
+This approach ensures that clients are not forced to depend on interfaces (or methods within interfaces) that they do not use, leading to cleaner, more cohesive code.
 
 ## Dependency Inversion Principle
 
