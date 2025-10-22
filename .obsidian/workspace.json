@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Java/MicroServices/Circuit Breaker Pattern.md",
+                "file": "Software/System Design/API/Protocol Buffers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Circuit Breaker Pattern"
+              "title": "Protocol Buffers"
             }
           }
         ],
@@ -220,6 +220,7 @@
   },
   "active": "32aea96f81be4d0b",
   "lastOpenFiles": [
+    "Software/Java/MicroServices/Circuit Breaker Pattern.md",
     "Software/System Design/Low Level System Design/SOLID Principle.md",
     "Software/Templates/Concept.md",
     "Software/Kafka/Broker.md",
@@ -261,7 +262,6 @@
     "Software/Database/Redis",
     "Software/Java/Version/LTS & Main version.md",
     "Software/Java/Version/Java 9 & 10.md",
-    "Software/Java/Spring Boot/Exception Heirarchy.md",
     "Software/Networking/How TLS work",
     "Software/Angular/images",
     "Software/Angular",
