@@ -1,4 +1,3 @@
-<< [[<% fileDate = moment(tp.file.title, 'YYYY-MM-DD-dddd').subtract(1, 'd').format('YYYY-MM-DD-dddd') %>|Yesterday]] | [[<% fileDate = moment(tp.file.title, 'YYYY-MM-DD-dddd').add(1, 'd').format('YYYY-MM-DD-dddd') %>|Tomorrow]] >>
 
 
 <% tp.file.creation_date() %>
@@ -48,11 +47,6 @@ Ready to Publish 🌐
 ---
 aliases: []
 ---
-#health
-# Related
-- [[Fasting]]
-- [[Health]]
-- [[My health goals]]
 # TODO
 > [!TODO] TODO
 # {{title}} - {{date}}
@@ -76,20 +70,6 @@ Press cmd+shift+O to insert daily ouraring scores.
 
 ## Insights
 
-
-
-
-
----
-aliases: []
----
-#business #idea 
-# [[Epistemic status]]
-#shower-thought #to-digest 
-
-# Related
-- [[Ideation]]
-- [[Cofounder ideation hackathon]]
 
 
 ## 🔑 Key Points

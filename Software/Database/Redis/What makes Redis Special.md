@@ -1,7 +1,7 @@
 ---
-date: "2025-10-18"
-tags: 
-link:
+date: 2025-10-18
+tags:
+link: "[[Redis]]"
 ---
 
 # What makes Redis Special ?

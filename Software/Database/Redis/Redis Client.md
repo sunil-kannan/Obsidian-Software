@@ -1,8 +1,7 @@
 ---
 date: 2025-10-18
 tags:
-  - redis
-link:
+link: "[[Redis]]"
 ---
 
 
