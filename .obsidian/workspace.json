@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Database/Redis/Redis Cluster.md",
+                "file": "Software/Devops/Containerization and Orchestration/Kubernetes/Cluster.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Redis Cluster"
+              "title": "Cluster"
             }
           },
           {
@@ -206,8 +206,9 @@
   },
   "active": "476b72cd34bffa7c",
   "lastOpenFiles": [
-    "Software/Database/Redis/Redis.md",
     "Software/Database/Redis/Redis Cluster.md",
+    "Software/Devops/Containerization and Orchestration/Kubernetes/Cluster.md",
+    "Software/Database/Redis/Redis.md",
     "Software/System Design/Monitoring, Logging & Tracing/Introduction.md",
     "Software/System Design/Low Level System Design/SOLID Principle.md",
     "Software/System Design/Low Level System Design/Key Concepts.md",
@@ -246,7 +247,6 @@
     "Software/Java/MicroServices/Design Patterns.md",
     "Software/Angular/Decorators.md",
     "Software/System Design/API",
-    "Software/Database/Redis/What makes Redis Special.md",
     "Software/Database/Redis",
     "Software/Networking/How TLS work",
     "Software/Angular/images",
