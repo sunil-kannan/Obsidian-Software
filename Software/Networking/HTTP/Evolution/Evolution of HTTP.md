@@ -30,6 +30,38 @@ htmlCopy
 
 Unlike subsequent evolutions, there were no HTTP headers. This meant that only HTML files could be transmitted. There were no status or error codes. If there was a problem, a specific HTML file was generated and included a description of the problem for human consumption.
 
+## 📘 HTTP/1.0 (The First Version With Headers)
+
+### 🔹 Key Features
+
+- Introduced in **1996**.
+    
+- Uses **TCP** for transport.
+    
+- **Request and response headers** introduced:
+    
+    - Allowed metadata (like content type, length, server info).
+        
+- Each request **opened a new TCP connection** by default (no persistent connection).
+    
+- Supported **basic methods**: `GET`, `POST`, and `HEAD`.
+    
+
+### 🔁 Example Request
+
+`GET /my-page.html HTTP/1.0 Host: www.example.com User-Agent: MyBrowser/1.0`
+
+### 🔁 Example Response
+
+`HTTP/1.0 200 OK Content-Type: text/html Content-Length: 125  <html>   Text-only web page </html>`
+
+### ⚠️ Drawbacks
+
+- **No persistent connections** by default → higher latency.
+    
+- **No chunked transfer** → entire response must be sent at once.
+    
+- Clients often opened **multiple TCP connections** to fetch multiple resources.
 
 
 ## 📘 HTTP/1.1

@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Database/Redis/Data types.md",
+                "file": "Software/Networking/HTTP/Evolution/Evolution of HTTP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data types"
+              "title": "Evolution of HTTP"
             }
           },
           {
@@ -206,6 +206,12 @@
   },
   "active": "476b72cd34bffa7c",
   "lastOpenFiles": [
+    "Software/Networking/HTTP/QUIC Protocol.md",
+    "Software/Networking/HTTP/HTTPS.md",
+    "Software/Networking/HTTP/HTTP.md",
+    "Software/Networking/HTTP/Evolution/Evolution of HTTP.md",
+    "Software/Networking/HTTP/HOL Blocking.md",
+    "Software/Database/Redis/Data types.md",
     "Software/Devops/Containerization and Orchestration/Kubernetes/SSL Termination in OpenShift.md",
     "Software/Devops/Containerization and Orchestration/Kubernetes/Cluster.md",
     "Software/Database/Redis/Redis Cluster.md",
@@ -230,8 +236,6 @@
     "Software/Database/Untitled 1.md",
     "Software/Database/Untitled.md",
     "Software/System Design/LoadBalancer/GSLB (Global Server Load Balancer).md",
-    "Software/System Design/LoadBalancer/Types of Load Balancing algorithm.md",
-    "Software/System Design/LoadBalancer/Load Balancer.md",
     "Software/System Design/images/types of load balancing algorithm.png",
     "Software/Database/images/5NF.jpg",
     "Software/System Design/LoadBalancer",
@@ -242,10 +246,6 @@
     "Software/Database/images/redis vs memcache.jpg",
     "Software/Database/images/isolation_example.png",
     "Software/Database/images/DISK and RAM.png",
-    "conflict-files-obsidian-git.md",
-    "Software/System Design/API/Protocol Buffers.md",
-    "Software/System Design/API/API Communication Protocols or Styles.md",
-    "Software/Java/MicroServices/Design Patterns.md",
     "Software/System Design/API",
     "Software/Database/Redis",
     "Software/Networking/How TLS work",
