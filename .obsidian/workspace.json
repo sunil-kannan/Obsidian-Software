@@ -20,31 +20,17 @@
             }
           },
           {
-            "id": "476b72cd34bffa7c",
+            "id": "8bcb8f10bc960f17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Database/Redis/Redis Cluster.md",
+                "file": "Software/Angular/Directives.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Redis Cluster"
-            }
-          },
-          {
-            "id": "89cf3eab26573c32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software/System Design/Co-ordination Protocol/Gossip Protocol.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gossip Protocol"
+              "title": "Directives"
             }
           }
         ],
@@ -80,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "saga",
+                "query": "is-a",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,54 +190,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "476b72cd34bffa7c",
+  "active": "f6136e83a49f3948",
   "lastOpenFiles": [
-    "Software/Database/Redis/Redis.md",
     "Software/Database/Redis/Redis Cluster.md",
-    "Software/System Design/Monitoring, Logging & Tracing/Introduction.md",
-    "Software/System Design/Low Level System Design/SOLID Principle.md",
+    "Software/Angular/Decorators.md",
+    "Software/Angular/images/angular_directives-1.png",
+    "Software/Angular/images/angular_directives.png",
+    "Software/Jenkins/Jenkins CLI.md",
+    "Software/Jenkins/Jenkins command for windows.md",
+    "Software/JavaScript/Web APIs.md",
+    "Software/JavaScript/Single Threaded (Javascript).md",
+    "Software/JavaScript/How JavaScript manages all those tasks.md",
     "Software/System Design/Low Level System Design/Key Concepts.md",
-    "Software/System Design/Low Level System Design",
-    "Software/Networking/Network Address Translation (NAT).md",
+    "Software/Java/Core Java/Association, Composition, and Aggregation.md",
+    "Software/Java/Core Java/Coupling & Cohesion.md",
     "Software/Java/Core Java/Thread/Compare-and-Swap.md",
-    "Software/Database/Virtual Node.md",
-    "Software/Database/Redis/Redis Push-based replication.md",
+    "Software/Java/Core Java/Thread/MultiThreading.md",
+    "Software/Java/Core Java/Thread/Thread.md",
+    "Software/Java/Core Java/Thread/Untitled.canvas",
+    "Software/Java/Core Java/Thread/Virtual Thread (Java 21).md",
+    "Software/Java/Core Java/Architecture and Memory management/HashCode.md",
+    "Software/Java/Core Java/Architecture and Memory management/Java Garbage Collection Evolution.md",
+    "Software/Java/Core Java/Architecture and Memory management/JDK vs JRE vs JVM.md",
+    "Software/Java/Core Java/Architecture and Memory management/Garbage Collector (GC).md",
     "Software/Database/Consistent Hashing.md",
-    "Software/Java/MicroServices/SAGA Pattern.md",
-    "Software/Java/MicroServices/Orchestration vs Choreography.md",
-    "Software/System Design/Co-ordination Protocol/Consensus Algorithms.md",
+    "Software/Database/Virtual Node.md",
+    "Software/System Design/API/Protocol Buffers.md",
+    "Software/Database/Redis/What happens on Redis restart.md",
+    "Software/Database/Redis/Eviction Policies.md",
+    "Software/Tags/Networking.md",
+    "Software/1. Rough notes/RoughNote 1.md",
+    "Software/Java/Version/Java 9 & 10.md",
+    "Software/System Design/Low Level System Design",
     "Software/System Design/Monitoring, Logging & Tracing",
-    "Software/System Design/Co-ordination Protocol/Gossip Protocol.md",
-    "Software/Database/internals/CAP Theorem.md",
     "Software/System Design/Co-ordination Protocol",
     "Software/Database/images/CAP Theorem.png",
-    "Software/Database/Untitled 1.md",
-    "Software/Database/Untitled.md",
-    "Software/System Design/LoadBalancer/GSLB (Global Server Load Balancer).md",
-    "Software/System Design/LoadBalancer/Types of Load Balancing algorithm.md",
-    "Software/System Design/LoadBalancer/Load Balancer.md",
     "Software/System Design/images/types of load balancing algorithm.png",
-    "Software/Database/images/5NF.jpg",
     "Software/System Design/LoadBalancer",
     "Software/System Design/images/payment system design.jpg",
-    "Software/System Design/images/payment system design.jpg",
-    "Software/Database/images/4NF-2.jpg",
-    "Software/Database/images/RAM.png",
-    "Software/Database/images/redis vs memcache.jpg",
-    "Software/Database/images/isolation_example.png",
-    "Software/Database/images/DISK and RAM.png",
-    "conflict-files-obsidian-git.md",
-    "Software/System Design/API/Protocol Buffers.md",
-    "Software/System Design/API/API Communication Protocols or Styles.md",
-    "Software/Java/MicroServices/Design Patterns.md",
-    "Software/Angular/Decorators.md",
+    "Software/Database/images/normalization.jpg",
+    "Software/Database/images/5NF.jpg",
+    "Software/System Design/images/modular architecture.jpg",
+    "Software/System Design/images/microkernel architecture.jpg",
+    "Software/System Design/images/Onion architecture.jpg",
     "Software/System Design/API",
-    "Software/Database/Redis/What makes Redis Special.md",
     "Software/Database/Redis",
     "Software/Networking/How TLS work",
     "Software/Angular/images",
     "Software/Angular",
-    "Software/Java/Core Java/Thread/Untitled.canvas",
     "Software/Networking/Routing",
     "Untitled.canvas",
     "Untitled 1.canvas"
