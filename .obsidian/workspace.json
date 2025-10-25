@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Networking/DHCP.md",
+                "file": "Software/Networking/HTTP/Evolution/Evolution of HTTP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DHCP"
+              "title": "Evolution of HTTP"
             }
           },
           {
@@ -206,10 +206,11 @@
   },
   "active": "476b72cd34bffa7c",
   "lastOpenFiles": [
+    "Software/Networking/HTTP/HTTP.md",
+    "Software/Networking/DHCP.md",
     "Software/Networking/HTTP/QUIC Protocol.md",
     "Software/Networking/HTTP/HTTPS.md",
     "Software/Networking/HTTP/Evolution/Evolution of HTTP.md",
-    "Software/Networking/HTTP/HTTP.md",
     "Software/Networking/HTTP/HOL Blocking.md",
     "Software/Database/Redis/Data types.md",
     "Software/Devops/Containerization and Orchestration/Kubernetes/SSL Termination in OpenShift.md",
@@ -235,7 +236,6 @@
     "Software/Database/images/CAP Theorem.png",
     "Software/Database/Untitled 1.md",
     "Software/Database/Untitled.md",
-    "Software/System Design/LoadBalancer/GSLB (Global Server Load Balancer).md",
     "Software/System Design/images/types of load balancing algorithm.png",
     "Software/Database/images/5NF.jpg",
     "Software/System Design/LoadBalancer",

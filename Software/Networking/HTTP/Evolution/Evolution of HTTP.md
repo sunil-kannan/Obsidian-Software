@@ -54,7 +54,7 @@ Unlike subsequent evolutions, there were no HTTP headers. This meant that only H
 - **No persistent connections** by default → higher latency.
 - **No chunked transfer** → entire response must be sent at once.
 - Clients often opened **multiple TCP connections** to fetch multiple resources.
-- one domain per IP address
+- HTTP/1.0 **did not originally require the `Host` header**, but in practice, many servers **implemented it as an optional header** toward the later versions of 1.0.
 
 
 ## 📘 HTTP/1.1
