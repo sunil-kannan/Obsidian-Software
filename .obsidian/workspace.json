@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Devops/Containerization and Orchestration/Kubernetes/Cluster.md",
+                "file": "Software/Database/Redis/Data types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cluster"
+              "title": "Data types"
             }
           },
           {
@@ -206,8 +206,9 @@
   },
   "active": "476b72cd34bffa7c",
   "lastOpenFiles": [
-    "Software/Database/Redis/Redis Cluster.md",
+    "Software/Devops/Containerization and Orchestration/Kubernetes/SSL Termination in OpenShift.md",
     "Software/Devops/Containerization and Orchestration/Kubernetes/Cluster.md",
+    "Software/Database/Redis/Redis Cluster.md",
     "Software/Database/Redis/Redis.md",
     "Software/System Design/Monitoring, Logging & Tracing/Introduction.md",
     "Software/System Design/Low Level System Design/SOLID Principle.md",
@@ -245,7 +246,6 @@
     "Software/System Design/API/Protocol Buffers.md",
     "Software/System Design/API/API Communication Protocols or Styles.md",
     "Software/Java/MicroServices/Design Patterns.md",
-    "Software/Angular/Decorators.md",
     "Software/System Design/API",
     "Software/Database/Redis",
     "Software/Networking/How TLS work",
