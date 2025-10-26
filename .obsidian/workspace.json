@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/System Design/Security rules for Developers.md",
+                "file": "Software/Database/Redis/Write Policies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Security rules for Developers"
+              "title": "Write Policies"
             }
           },
           {
@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gdpr",
+                "query": "write-th",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,8 +101,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,6 +206,11 @@
   },
   "active": "89cf3eab26573c32",
   "lastOpenFiles": [
+    "Software/Database/Redis/Redis.md",
+    "Software/Database/Redis/Write Policies.md",
+    "Software/Database/Redis/Data types.md",
+    "Software/Database/Redis/Eviction Policies.md",
+    "Software/System Design/Security rules for Developers.md",
     "Software/Angular/Directives.md",
     "Software/Angular/Routing.md",
     "Software/Angular/Forms.md",
@@ -227,17 +231,12 @@
     "Software/Networking/HTTP/QUIC Protocol.md",
     "Software/Networking/HTTP/HTTPS.md",
     "Software/Networking/HTTP/HOL Blocking.md",
-    "Software/Database/Redis/Data types.md",
     "Software/Devops/Containerization and Orchestration/Kubernetes/SSL Termination in OpenShift.md",
     "Software/Devops/Containerization and Orchestration/Kubernetes/Cluster.md",
     "Software/Database/Redis/Redis Cluster.md",
-    "Software/Database/Redis/Redis.md",
     "Software/System Design/Monitoring, Logging & Tracing/Introduction.md",
     "Software/System Design/Low Level System Design/SOLID Principle.md",
-    "Software/System Design/Low Level System Design/Key Concepts.md",
     "Software/System Design/Low Level System Design",
-    "Software/Networking/Network Address Translation (NAT).md",
-    "Software/Java/Core Java/Thread/Compare-and-Swap.md",
     "Software/System Design/Monitoring, Logging & Tracing",
     "Software/System Design/Co-ordination Protocol",
     "Software/Database/images/CAP Theorem.png",
