@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Angular/Routing.md",
+                "file": "Software/Angular/Directives.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Routing"
+              "title": "Directives"
             }
           },
           {
@@ -206,8 +206,10 @@
   },
   "active": "89cf3eab26573c32",
   "lastOpenFiles": [
-    "Software/Templates/Concept.md",
     "Software/Angular/Routing.md",
+    "Software/Angular/Forms.md",
+    "Software/Angular/images/angular forms.png",
+    "Software/Templates/Concept.md",
     "Software/Templates/Daily note.md",
     "Software/System Design/API/API Communication Protocols or Styles.md",
     "Software/System Design/API/Protocol Buffers.md",
@@ -234,8 +236,6 @@
     "Software/System Design/Low Level System Design",
     "Software/Networking/Network Address Translation (NAT).md",
     "Software/Java/Core Java/Thread/Compare-and-Swap.md",
-    "Software/Database/Virtual Node.md",
-    "Software/Database/Redis/Redis Push-based replication.md",
     "Software/System Design/Monitoring, Logging & Tracing",
     "Software/System Design/Co-ordination Protocol",
     "Software/Database/images/CAP Theorem.png",
@@ -245,7 +245,6 @@
     "Software/System Design/images/payment system design.jpg",
     "Software/System Design/images/payment system design.jpg",
     "Software/Database/images/4NF-2.jpg",
-    "Software/Database/images/RAM.png",
     "Software/System Design/API",
     "Software/Database/Redis",
     "Software/Networking/How TLS work",
