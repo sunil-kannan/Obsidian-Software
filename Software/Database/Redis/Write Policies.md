@@ -20,8 +20,15 @@ link:
 - Critical data like banking transactions, user profiles.
 
 ---
+### 3. Write-around
 
-### 2. Write-Back Cache (Lazy Write)
+- Writes bypass the cache and go directly to the database.k
+- Pros: Potentially lower write latency.k
+- Cons: Increased cache misses, leading to higher read
+- latency for frequently written and re-read data.
+
+---
+### 3. Write-Back Cache (Lazy Write)
 - **Writes go only to cache initially**.  
 - DB is updated later (asynchronously).
 
