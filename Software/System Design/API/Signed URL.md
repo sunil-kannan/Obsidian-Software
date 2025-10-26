@@ -63,8 +63,6 @@ string_to_sign = path + expiry + parameters
 The resulting `signature` is appended as a query parameter.
 ```
 
-
-
 ---
 
 ## ⏳ Expiration
