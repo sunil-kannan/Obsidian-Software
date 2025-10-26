@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Networking/HTTP/Evolution/Evolution of HTTP.md",
+                "file": "Software/System Design/SLA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Evolution of HTTP"
+              "title": "SLA"
             }
           },
           {
@@ -206,11 +206,15 @@
   },
   "active": "476b72cd34bffa7c",
   "lastOpenFiles": [
+    "Pasted image 20251026080554.png",
+    "Pasted image 20251026080458.png",
+    "Pasted image 20251026080405.png",
+    "Software/Networking/HTTP/Evolution/Evolution of HTTP.md",
+    "Software/System Design/SLA.md",
     "Software/Networking/HTTP/HTTP.md",
     "Software/Networking/DHCP.md",
     "Software/Networking/HTTP/QUIC Protocol.md",
     "Software/Networking/HTTP/HTTPS.md",
-    "Software/Networking/HTTP/Evolution/Evolution of HTTP.md",
     "Software/Networking/HTTP/HOL Blocking.md",
     "Software/Database/Redis/Data types.md",
     "Software/Devops/Containerization and Orchestration/Kubernetes/SSL Termination in OpenShift.md",
@@ -234,8 +238,6 @@
     "Software/Database/internals/CAP Theorem.md",
     "Software/System Design/Co-ordination Protocol",
     "Software/Database/images/CAP Theorem.png",
-    "Software/Database/Untitled 1.md",
-    "Software/Database/Untitled.md",
     "Software/System Design/images/types of load balancing algorithm.png",
     "Software/Database/images/5NF.jpg",
     "Software/System Design/LoadBalancer",
@@ -244,8 +246,6 @@
     "Software/Database/images/4NF-2.jpg",
     "Software/Database/images/RAM.png",
     "Software/Database/images/redis vs memcache.jpg",
-    "Software/Database/images/isolation_example.png",
-    "Software/Database/images/DISK and RAM.png",
     "Software/System Design/API",
     "Software/Database/Redis",
     "Software/Networking/How TLS work",
