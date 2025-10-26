@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Angular/Directives.md",
+                "file": "Software/System Design/Security rules for Developers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Directives"
+              "title": "Security rules for Developers"
             }
           },
           {
@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "GRPC",
+                "query": "gdpr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,6 +207,7 @@
   },
   "active": "89cf3eab26573c32",
   "lastOpenFiles": [
+    "Software/Angular/Directives.md",
     "Software/Angular/Routing.md",
     "Software/Angular/Forms.md",
     "Software/Angular/images/angular forms.png",
