@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/System Design/Co-ordination Protocol/Gossip Protocol.md",
+                "file": "Software/System Design/API/API Communication Protocols or Styles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gossip Protocol"
+              "title": "API Communication Protocols or Styles"
             }
           },
           {
@@ -39,16 +39,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/System Design/API/Signed URL.md",
+                "file": "Software/Templates/Concept.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Signed URL"
+              "title": "Concept"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "saga",
+                "query": "GRPC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -204,10 +204,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dbe769373d2c6c8e",
+  "active": "89cf3eab26573c32",
   "lastOpenFiles": [
-    "Software/System Design/SLA (Service Level Aggrement).md",
+    "Software/System Design/API/Protocol Buffers.md",
+    "Software/System Design/API/API Communication Protocols or Styles.md",
+    "Software/System Design/Co-ordination Protocol/Gossip Protocol.md",
+    "Software/Templates/Concept.md",
+    "Software/Templates/Daily note.md",
     "Software/System Design/API/Signed URL.md",
+    "Software/System Design/SLA (Service Level Aggrement).md",
     "Software/System Design/images/KPI vs SLA.png",
     "Software/System Design/images/KPI (Key Performance Indicator).png",
     "Software/System Design/images/SLA.png",
@@ -231,12 +236,7 @@
     "Software/Database/Virtual Node.md",
     "Software/Database/Redis/Redis Push-based replication.md",
     "Software/Database/Consistent Hashing.md",
-    "Software/Java/MicroServices/SAGA Pattern.md",
-    "Software/Java/MicroServices/Orchestration vs Choreography.md",
-    "Software/System Design/Co-ordination Protocol/Consensus Algorithms.md",
     "Software/System Design/Monitoring, Logging & Tracing",
-    "Software/System Design/Co-ordination Protocol/Gossip Protocol.md",
-    "Software/Database/internals/CAP Theorem.md",
     "Software/System Design/Co-ordination Protocol",
     "Software/Database/images/CAP Theorem.png",
     "Software/System Design/images/types of load balancing algorithm.png",

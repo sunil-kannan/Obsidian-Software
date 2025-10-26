@@ -162,3 +162,7 @@ link:
 - [gRPC by Google](https://grpc.io/)
 - [Kafka Official](https://kafka.apache.org/)
 
+## 🔖Reference
+* [Rest vs Grpc](https://medium.com/@sunil17bbmp/rest-vs-grpc-the-ultimate-guide-for-modern-api-developers-2025-c27e12f3ed21)
+
+
