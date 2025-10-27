@@ -53,3 +53,61 @@ link:
 - **SERIALIZABLE** → T1 is locked so T2 cannot insert until T1 finishes (no phantom ✅).
 
 ![[isolation_example.png]]
+
+
+
+
+
+## ⚙️ Detailed Explanation
+
+### 🔹 1. READ_COMMITTED
+
+- Each query in your transaction reads only **committed** data.
+    
+- But between two queries, data **might change** (non-repeatable read).
+    
+- When you commit, the DB doesn’t verify that what you read earlier is still the same.
+    
+- You’re responsible for rechecking before committing (for example, by verifying ticket count in code).
+    
+
+👉 So no final check — the DB just commits whatever you wrote last.
+
+---
+
+### 🔹 2. REPEATABLE_READ
+
+- When you start the transaction, the DB gives you a **consistent snapshot** of all the rows you read.
+    
+- Another transaction (T2) can modify those rows, but your transaction (T1) still “sees” the old versions.
+    
+- When you **try to update**, the DB checks if that row has changed since your snapshot.
+    
+    - If yes → conflict → rollback or error.
+        
+    - If no → update succeeds.
+        
+
+So, the “check” happens **when you update**, not strictly at the very end.  
+Still, it guarantees you don’t overwrite someone else’s committed change.
+
+👉 So yes — there _is_ a form of validation before commit.
+
+---
+
+### 🔹 3. SERIALIZABLE
+
+- This is the strictest one.
+    
+- The DB tracks _all_ the rows you **read** and **wrote** during the transaction.
+    
+- When you try to commit, it checks:
+    
+    > “Has any other transaction modified anything I depended on?”
+    
+- If yes → **serialization failure** (you must retry).
+    
+- This ensures transactions behave as if they happened one after another.
+    
+
+👉 Here, yes — the DB **absolutely checks at commit time** to guarantee consistency.
