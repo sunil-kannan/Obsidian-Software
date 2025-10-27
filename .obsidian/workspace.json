@@ -23,12 +23,14 @@
             "id": "89cf3eab26573c32",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Software/Java/Spring Boot/images/entity_life_cycle.png"
+                "file": "Software/Database/internals/Isolation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "entity_life_cycle"
+              "icon": "lucide-file",
+              "title": "Isolation"
             }
           },
           {
@@ -204,6 +206,7 @@
   },
   "active": "89cf3eab26573c32",
   "lastOpenFiles": [
+    "Software/Java/Spring Boot/images/entity_life_cycle.png",
     "Software/Java/Version/LTS & Main version.md",
     "Software/System Design/Transactional Outbox Pattern.md",
     "Software/System Design/images/transactional outbox pattern.png",
@@ -234,7 +237,6 @@
     "Software/Networking/HTTP/HOL Blocking.md",
     "Software/Devops/Containerization and Orchestration/Kubernetes/SSL Termination in OpenShift.md",
     "Software/Devops/Containerization and Orchestration/Kubernetes/Cluster.md",
-    "Software/Database/Redis/Redis Cluster.md",
     "Software/System Design/Low Level System Design",
     "Software/System Design/Monitoring, Logging & Tracing",
     "Software/System Design/Co-ordination Protocol",
