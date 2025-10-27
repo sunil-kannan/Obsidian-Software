@@ -34,7 +34,6 @@ Be ready to apply or discuss common design patterns such as:
 - Structural: Adapter, Decorator, Composite
     
 - Behavioral: Strategy, Observer, Command
-    
 
 ### 3. **Class Diagrams & Relationships**
 
