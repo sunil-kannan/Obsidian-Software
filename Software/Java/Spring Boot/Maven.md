@@ -8,9 +8,6 @@ link: "[[Java]]"
 
 > A blog is just like having a long conversation with people, so it should make sense that things you enjoy talking about will be closely related to your passion.
 
-
-
-
 ## 1️⃣ -> Maven Clean (mvn clean)
 
 - It will clear the target folder, which contains the jar and .class files
