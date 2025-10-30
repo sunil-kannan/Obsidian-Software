@@ -38,6 +38,8 @@ link:
 
 👉 But T1 might still miss that tickets went down in reality.
 
+![[non-repeatable-read.png]]
+
 ---
 
 ## 🔹 Example 3: Airline Booking (Phantom Read)
@@ -52,6 +54,10 @@ link:
 - **REPEATABLE_READ** → T1 may suddenly see **3 rows** (Phantom Read ❌).
 - **SERIALIZABLE** → T1 is locked so T2 cannot insert until T1 finishes (no phantom ✅).
 
+![[phantom-read.png]]
+
+
+
 ![[isolation_example.png]]
 
 
@@ -60,7 +66,7 @@ link:
 
 ## ⚙️ Detailed Explanation
 
-### 🔹 1. READ_COMMITTED
+### 🔹 1. READ_COMMITTED 
 
 - Each query in your transaction reads only **committed** data.
     
