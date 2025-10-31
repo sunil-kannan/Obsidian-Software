@@ -40,7 +40,6 @@ KafkaCluster cluster = {
 ## Each partition has its Own Leader:
 
 
-
 ```java
 Topic: "orders" with 3 partitions, 3 brokers
 
