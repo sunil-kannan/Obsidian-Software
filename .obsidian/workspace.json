@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Database/internals/Write Ahead Logging (WAL).md",
+                "file": "Software/Networking/NAT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Write Ahead Logging (WAL)"
+              "title": "NAT"
             }
           }
         ],
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "is-a",
+                "query": "Network address tr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -192,6 +192,8 @@
   },
   "active": "8bcb8f10bc960f17",
   "lastOpenFiles": [
+    "Software/Database/internals/Write Ahead Logging (WAL).md",
+    "Software/Networking/NAT.md",
     "Software/Database/Postgre/Postgresql.md",
     "Software/Database/Postgre/PgBouncer.md",
     "Software/Database/Redis/Redis Client.md",
@@ -225,8 +227,6 @@
     "Software/System Design/images/SLA.png",
     "Software/System Design/images/KPI vs SLA.png",
     "Software/System Design/images/KPI (Key Performance Indicator).png",
-    "Software/System Design/Transactional Outbox Pattern.md",
-    "Software/System Design/SLA (Service Level Aggrement).md",
     "Software/Angular/images/angular forms.png",
     "Software/Angular/images/angular_directives-1.png",
     "Software/Angular/images/angular_directives.png",
