@@ -170,3 +170,14 @@ In IPv6, every device gets a **globally unique address**, so NAT is **not requir
 
 ## 🧩 Real-World Example (Home Router)
 
+Laptop (192.168.1.10)  -> Router (Public IP: 203.0.113.5)  -> Internet
+
+When browsing a website:
+1. Laptop → Router (192.168.1.10:5678 → 203.0.113.5:40000)
+2. Router → Website (203.0.113.5:40000 → 142.250.183.110:443)
+3. Website replies → Router → Laptop (NAT table used for mapping)
+
+---
+
+**In short:**  
+> NAT is a middleman that translates private IPs into public ones so multiple devices can share a single Internet connection securely and efficiently.
