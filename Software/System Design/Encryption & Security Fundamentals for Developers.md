@@ -160,4 +160,37 @@ Managing keys securely is just as important as the encryption itself.
 
 ## 🔄 How They Work Together
 
+```
+        ┌────────────────────────────────────────┐
+        │          Secure Application Flow        │
+        ├────────────────────────────────────────┤
+        │ 1️⃣ Client ↔ Server via TLS (asymmetric + symmetric) │
+        │ 2️⃣ Server uses AES to encrypt sensitive data         │
+        │ 3️⃣ Passwords hashed with bcrypt                      │
+        │ 4️⃣ Tokens signed using RSA private key               │
+        │ 5️⃣ All keys stored in Vault/KMS                      │
+        └────────────────────────────────────────┘
 
+```
+
+
+
+---
+
+## 🧭 Pro Tips
+
+- Prefer **AES-256** and **RSA-2048+** (or **ECC P-256**).  
+- Avoid homegrown crypto or outdated algorithms (DES, MD5, SHA-1).  
+- Always salt hashes and store salts separately.  
+- Enable **Perfect Forward Secrecy (PFS)** in TLS configurations.  
+- Regularly audit and rotate keys and secrets.
+
+---
+
+**📘 Recommended Reading**
+- [NIST Cryptographic Standards](https://csrc.nist.gov/)
+- [OWASP Cryptographic Storage Cheat Sheet](https://cheatsheetseries.owasp.org/)
+- [Google Cloud KMS](https://cloud.google.com/kms)
+- [AWS Key Management Service](https://aws.amazon.com/kms/)
+
+---
