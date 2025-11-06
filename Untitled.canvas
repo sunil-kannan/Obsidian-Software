@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"id":"54d1c6e6fd473cf3","x":-60,"y":-200,"width":500,"height":220,"type":"text","text":"- Client opens a TCP connection to 192.168.1.100:443\n- LB rewrites the packet to 192.168.1.101:443 or 192.168.1.102:443\n- Backend responds \n\t- client thinks it's still talking to the LB\nOnly one TCP connection exists - Client <> Backend\n- but LB transparently forwards packets in both directions"},
-		{"id":"2ea2e90cdf36c8e2","x":-400,"y":-120,"width":300,"height":200,"type":"text","text":"#### Layer 7 Load Balancer\n- Operates at the application layer\n- Inspects HTTP"},
-		{"id":"0ba21151279dad57","x":-400,"y":-380,"width":250,"height":60,"type":"text","text":""}
-	],
-	"edges":[]
-}
