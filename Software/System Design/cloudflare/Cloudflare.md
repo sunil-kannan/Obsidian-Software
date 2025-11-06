@@ -16,7 +16,7 @@ So all user requests go through Cloudflare before reaching your origin server.
 
 ![[cloudflare_visitors_flow.png]]
 
->The data describes TCP connections, labeled _Visitor to Cloudflare_ in the above diagram, which serve requests via HTTP 1.0, 1.1, and 2.0 that make up [about 70%](https://radar.cloudflare.com/adoption-and-usage) of all 84 million HTTP requests per second, on average, received at our global CDN servers. (October 2025)
+>The data describes TCP connections, labeled _Visitor to Cloudflare_ in the above diagram, which serve requests via HTTP 1.0, 1.1, and 2.0 that make up [about 70%](https://radar.cloudflare.com/adoption-and-usage) of all 84 million HTTP requests per second, on average, received at Cloudflare global CDN servers. (October 2025)
 ---
 
 ## ⚙️ Key Functions of Cloudflare
