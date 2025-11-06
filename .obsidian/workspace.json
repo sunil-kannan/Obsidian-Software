@@ -27,9 +27,9 @@
               "state": {
                 "file": "LoadBalancer.canvas",
                 "viewState": {
-                  "x": 311.2252642961022,
-                  "y": -262.60277235169355,
-                  "zoom": -0.3333333333333334
+                  "x": -212.5841431378164,
+                  "y": -39.231967597678015,
+                  "zoom": -1
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -207,7 +207,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6136e83a49f3948",
+  "active": "c468e84d342124e9",
   "lastOpenFiles": [
     "Software/System Design/LoadBalancer/Load Balancer.md",
     "LoadBalancer.canvas",
