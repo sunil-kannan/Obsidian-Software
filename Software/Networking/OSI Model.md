@@ -29,3 +29,5 @@ link: "[[Networking]]"
 
 
 
+![[OSI_layer.png]]
+

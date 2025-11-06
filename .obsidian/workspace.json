@@ -192,6 +192,7 @@
   },
   "active": "c468e84d342124e9",
   "lastOpenFiles": [
+    "Software/Networking/images/OSI_layer.png",
     "Software/Networking/TCP & UDP.md",
     "Software/Networking/images/who_initiates_tcp_connection.png",
     "Software/Networking/HTTP/Evolution/Evolution of HTTP.md",
@@ -221,7 +222,6 @@
     "Software/Database/Postgre",
     "Software/Networking/Routing/Routing.md",
     "Software/Networking/Routing/Global Traffic Manager (GTM).md",
-    "Software/Networking/Routing/Default Gateway.md",
     "Software/Database/images/non-repeatable-read.png",
     "Software/Database/images/phantom-read.png",
     "Software/System Design/Project",
