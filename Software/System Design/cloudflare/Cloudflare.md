@@ -14,6 +14,9 @@ So all user requests go through Cloudflare before reaching your origin server.
 > ⚠️ Does the internet handle 50% of the AI Bot Content?
 > 	Yes, According to recent data from Cloudflare, a major content delivery network handling about 20% of global web traffic. AI Bots are now 50% of internet request. This marks a tipping point where non-human activity has surpassed human browsing, driven largely by AI crawlers scarping content for training models (Eg: GptBot, ClaudeBot)
 
+![[cloudflare_visitors_flow.png]]
+
+>The data describes TCP connections, labeled _Visitor to Cloudflare_ in the above diagram, which serve requests via HTTP 1.0, 1.1, and 2.0 that make up [about 70%](https://radar.cloudflare.com/adoption-and-usage) of all 84 million HTTP requests per second, on average, received at our global CDN servers. (October 2025)
 ---
 
 ## ⚙️ Key Functions of Cloudflare
