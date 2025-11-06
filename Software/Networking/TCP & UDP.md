@@ -25,6 +25,8 @@ link: "[[Networking]]"
 - UDP benefits applications that need to receive data quickly even if accuracy suffers. This is why real-time applications like audio and video streaming will often use UDP.
 
 
+![[who_initiates_tcp_connection.png]]
+
 ## Does TCP use Checksum?
 
 Yes — both TCP/IP and HTTP (indirectly) involve checksums, but in different ways:
