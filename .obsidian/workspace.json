@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/System Design/LoadBalancer/Load Balancer.md",
+                "file": "Software/Networking/TLS Ephemeral Key Exchange (ECDHE).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Load Balancer"
+              "title": "TLS Ephemeral Key Exchange (ECDHE)"
             }
           }
         ],
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ssl",
+                "query": "diffie",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,8 +87,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,6 +192,11 @@
   },
   "active": "c468e84d342124e9",
   "lastOpenFiles": [
+    "Software/Networking/TLS Handshake.md",
+    "Software/Networking/TLS Ephemeral Key Exchange (ECDHE).md",
+    "Software/Networking/TLS or Https Certificate.md",
+    "Software/System Design/Encryption & Security Fundamentals for Developers.md",
+    "Software/System Design/LoadBalancer/Load Balancer.md",
     "Software/System Design/cloudflare/Key Reasons Companies Adopt Cloudflare.md",
     "Software/Networking/OSI Model.md",
     "Software/Networking/images/OSI_layer.png",
@@ -202,7 +206,6 @@
     "Software/Networking/images/http_request_per_connection.png",
     "Software/System Design/cloudflare/Cloudflare.md",
     "Software/System Design/images/cloudflare_visitors_flow.png",
-    "Software/System Design/Encryption & Security Fundamentals for Developers.md",
     "Software/System Design/Security rules for Developers.md",
     "Software/Networking/NAT.md",
     "Software/Database/internals/Write Ahead Logging (WAL).md",
@@ -219,11 +222,7 @@
     "Software/Kafka/Controller.md",
     "Software/Kafka/Kafka Internals.md",
     "Software/Kafka/Broker.md",
-    "Software/Kafka/Kafka without zookeeper.md",
-    "Software/Kafka/Kafka with zookeeper.md",
-    "Software/Database/internals/Isolation.md",
     "Software/Database/Postgre",
-    "Software/Networking/Routing/Routing.md",
     "Software/Database/images/non-repeatable-read.png",
     "Software/Database/images/phantom-read.png",
     "Software/System Design/Project",
