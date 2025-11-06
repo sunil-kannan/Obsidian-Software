@@ -16,8 +16,7 @@ DNS translates the human-readable name into a machine-readable IP address.
 
 To resolve a domain name, DNS queries go through several types of name servers:
 
-1. **Recursive Resolver** – Usually operated by your ISP or a public resolver (like Google DNS `8.8.8.8`).  
-    It takes your query (`www.example.com`) and goes out to find the answer.
+1. **Recursive Resolver** – Usually operated by your ISP or a public resolver (like Google DNS `8.8.8.8`).  It takes your query (`www.example.com`) and goes out to find the answer.
     
 2. **Root Name Server** – Tells the resolver where to find the **Top-Level Domain (TLD)** server (like `.com`).
     
