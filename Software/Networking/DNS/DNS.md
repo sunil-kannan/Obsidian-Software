@@ -5,8 +5,6 @@ link:
 ---
 ## 🌐 What Is the DNS (Domain Name System)?
 
-Before we define _authoritative name servers_, let’s recall how the **DNS** works overall.
-
 The **Domain Name System (DNS)** is like the _phonebook_ of the Internet.  
 When you type a website name like `www.example.com`, your computer doesn’t know that name directly — it needs the corresponding **IP address** (e.g., `93.184.216.34`) to connect.
 

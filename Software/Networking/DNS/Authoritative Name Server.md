@@ -22,3 +22,5 @@ An authoritative name server stores **DNS zone files**, which contain records su
 | **CNAME**   | Alias to another domain                           | `www.example.com → example.com`                    |
 | **NS**      | Lists authoritative name servers                  | `ns1.example.net`, `ns2.example.net`               |
 | **TXT**     | Miscellaneous text data (e.g., SPF, verification) | `"v=spf1 include:_spf.google.com ~all"`            |
+
+Some of the most **famous and authoritative nameserver providers** include major cloud infrastructure and content delivery network (CDN) companies such as **Amazon (AWS Route 53), Cloudflare, Google Cloud DNS, and Akamai (Edge DNS)**. These providers are widely used due to their performance, reliability, and security features.
