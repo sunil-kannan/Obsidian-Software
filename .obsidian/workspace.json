@@ -23,14 +23,17 @@
             "id": "c468e84d342124e9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Software/Devops/Containerization and Orchestration/Kubernetes/Cluster.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": -93,
+                  "zoom": -0.3333333333333333
+                }
               },
-              "icon": "lucide-file",
-              "title": "Cluster"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ],
@@ -190,8 +193,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6136e83a49f3948",
+  "active": "c468e84d342124e9",
   "lastOpenFiles": [
+    "Software/System Design/LoadBalancer/Load Balancer.md",
+    "Untitled.canvas",
+    "Software/Devops/Containerization and Orchestration/Kubernetes/Cluster.md",
     "Software/Networking/DNS/DNS.md",
     "Software/Networking/DNS/Authoritative Name Server.md",
     "Software/Networking/Routing/Global Traffic Manager (GTM).md",
@@ -204,7 +210,6 @@
     "Software/Networking/TLS Handshake.md",
     "Software/Networking/TLS or Https Certificate.md",
     "Software/System Design/Encryption & Security Fundamentals for Developers.md",
-    "Software/System Design/LoadBalancer/Load Balancer.md",
     "Software/System Design/cloudflare/Key Reasons Companies Adopt Cloudflare.md",
     "Software/Networking/OSI Model.md",
     "Software/Networking/images/OSI_layer.png",
@@ -221,8 +226,6 @@
     "Software/Database/Redis/Redis Client.md",
     "Software/Database/Redis/Write Policies.md",
     "Software/Database/Redis/What makes Redis Special.md",
-    "Software/Database/Redis/What happens on Redis restart.md",
-    "Software/Database/Redis/Redis Push-based replication.md",
     "Software/Database/Postgre",
     "Software/Database/images/non-repeatable-read.png",
     "Software/Database/images/phantom-read.png",
@@ -239,7 +242,6 @@
     "Software/System Design/API",
     "Software/Database/Redis",
     "Software/Networking/How TLS work",
-    "Untitled.canvas",
     "Untitled 1.canvas"
   ]
 }
