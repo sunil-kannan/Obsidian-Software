@@ -127,6 +127,8 @@ Each file may reuse or open a new TCP connection.
 """
 
 
+![[http_request_per_connection.png]]
+
 ## 🔁 Host Header
 
 ![[Pasted image 20251010102058.png]]
