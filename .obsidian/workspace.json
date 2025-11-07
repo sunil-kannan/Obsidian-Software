@@ -206,8 +206,9 @@
   },
   "active": "c468e84d342124e9",
   "lastOpenFiles": [
-    "Software/Database/Postgre/Postgres commands.md",
+    "Software/Database/Postgre/Postgresql.md",
     "Software/Database/Postgre/Pg_dump.md",
+    "Software/Database/Postgre/Postgres commands.md",
     "Software/Jenkins/Jenkins command for windows.md",
     "Software/Jenkins/Jenkins CLI.md",
     "LoadBalancer.canvas",
@@ -236,7 +237,6 @@
     "Software/System Design/Security rules for Developers.md",
     "Software/Networking/NAT.md",
     "Software/Database/internals/Write Ahead Logging (WAL).md",
-    "Software/Database/Postgre/Postgresql.md",
     "Software/Database/Postgre/PgBouncer.md",
     "Software/Database/Postgre",
     "Software/Database/images/non-repeatable-read.png",
