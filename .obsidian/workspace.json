@@ -23,17 +23,14 @@
             "id": "c468e84d342124e9",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "LoadBalancer.canvas",
-                "viewState": {
-                  "x": 189.23671052261022,
-                  "y": 390.13238312403394,
-                  "zoom": -1
-                }
+                "file": "Software/Database/Postgre/Postgres commands.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "LoadBalancer"
+              "icon": "lucide-file",
+              "title": "Postgres commands"
             }
           },
           {
@@ -209,8 +206,11 @@
   },
   "active": "c468e84d342124e9",
   "lastOpenFiles": [
-    "Software/System Design/LoadBalancer/Load Balancer.md",
+    "Software/Jenkins/Jenkins command for windows.md",
+    "Software/Database/Postgre/Postgres commands.md",
+    "Software/Jenkins/Jenkins CLI.md",
     "LoadBalancer.canvas",
+    "Software/System Design/LoadBalancer/Load Balancer.md",
     "Software/Devops/Containerization and Orchestration/Kubernetes/Cluster.md",
     "Software/Networking/DNS/DNS.md",
     "Software/Networking/DNS/Authoritative Name Server.md",
@@ -238,8 +238,6 @@
     "Software/Database/Postgre/Postgresql.md",
     "Software/Database/Postgre/PgBouncer.md",
     "Software/Database/Redis/Redis Client.md",
-    "Software/Database/Redis/Write Policies.md",
-    "Software/Database/Redis/What makes Redis Special.md",
     "Software/Database/Postgre",
     "Software/Database/images/non-repeatable-read.png",
     "Software/Database/images/phantom-read.png",
