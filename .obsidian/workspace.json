@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Database/Postgre/Postgres commands.md",
+                "file": "Software/Database/Postgre/Pg_dump.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Postgres commands"
+              "title": "Pg_dump"
             }
           },
           {
@@ -206,8 +206,9 @@
   },
   "active": "c468e84d342124e9",
   "lastOpenFiles": [
-    "Software/Jenkins/Jenkins command for windows.md",
     "Software/Database/Postgre/Postgres commands.md",
+    "Software/Database/Postgre/Pg_dump.md",
+    "Software/Jenkins/Jenkins command for windows.md",
     "Software/Jenkins/Jenkins CLI.md",
     "LoadBalancer.canvas",
     "Software/System Design/LoadBalancer/Load Balancer.md",
@@ -237,7 +238,6 @@
     "Software/Database/internals/Write Ahead Logging (WAL).md",
     "Software/Database/Postgre/Postgresql.md",
     "Software/Database/Postgre/PgBouncer.md",
-    "Software/Database/Redis/Redis Client.md",
     "Software/Database/Postgre",
     "Software/Database/images/non-repeatable-read.png",
     "Software/Database/images/phantom-read.png",
