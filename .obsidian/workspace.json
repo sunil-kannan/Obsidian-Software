@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Cryptography/Hash.md",
+                "file": "Software/Cryptography/Cryptography.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hash"
+              "title": "Cryptography"
             }
           }
         ],
@@ -206,8 +206,8 @@
   },
   "active": "d03ea7e1d3a10106",
   "lastOpenFiles": [
-    "Software/Cryptography/Cryptography.md",
     "Software/Cryptography/Hash.md",
+    "Software/Cryptography/Cryptography.md",
     "digital-signatures.md",
     "encryption.md",
     "blockchain-hashing.md",
