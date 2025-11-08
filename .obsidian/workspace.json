@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Networking/Network Address Translation (NAT).md",
+                "file": "Software/Cryptography/Cryptography.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network Address Translation (NAT)"
+              "title": "Cryptography"
             }
           },
           {
@@ -206,6 +206,9 @@
   },
   "active": "c468e84d342124e9",
   "lastOpenFiles": [
+    "Software/Networking/Network Address Translation (NAT).md",
+    "Software/Cryptography/Cryptography.md",
+    "Software/Cryptography",
     "Software/Database/Postgre/PgBouncer.md",
     "Pasted image 20250703123121.png",
     "Pasted image 20251010102058.png",
@@ -240,7 +243,6 @@
     "Software/Networking/images/OSI_layer.png",
     "Software/Networking/TCP & UDP.md",
     "Software/Networking/images/who_initiates_tcp_connection.png",
-    "Software/Networking/HTTP/Evolution/Evolution of HTTP.md",
     "Software/Networking/images/http_request_per_connection.png",
     "Software/System Design/images/cloudflare_visitors_flow.png",
     "Software/Database/Postgre",
@@ -252,7 +254,6 @@
     "Software/System Design/Low Level System Design",
     "Software/System Design/Monitoring, Logging & Tracing",
     "Software/System Design/Co-ordination Protocol",
-    "Software/System Design/LoadBalancer",
     "Untitled 1.canvas"
   ]
 }
