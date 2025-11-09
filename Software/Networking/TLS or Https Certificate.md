@@ -55,5 +55,6 @@ spec:
     
 - **Frontend (HTTPS)**: If the frontend is also using HTTPS, *the first API call will be encrypted*, and the TLS handshake will occur, securing the connection right from the start.
 
+![[tcp&tls.png]]
 ## 🔖Reference
 * [Example](https://example.com)

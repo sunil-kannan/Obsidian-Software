@@ -22,10 +22,10 @@ It decides **which data center’s IP** a user should get *before* any TCP/HTTP 
 
 ## 🕸️ 2️⃣ GTM vs Local Load Balancing
 
-| Type | Operates At | Example | Purpose |
-|------|--------------|----------|----------|
-| **Local Load Balancer (LB)** | Inside a data center | Nginx, HAProxy, AWS ALB | Distributes traffic among local servers |
-| **Global Traffic Manager (GTM)** | DNS level (global) | Cloudflare, F5 GTM, Route 53 | Routes users to the best data center worldwide |
+| Type                             | Operates At          | Example                      | Purpose                                        |
+| -------------------------------- | -------------------- | ---------------------------- | ---------------------------------------------- |
+| **Local Load Balancer (LB)**     | Inside a data center | Nginx, HAProxy, AWS ALB      | Distributes traffic among local servers        |
+| **Global Traffic Manager (GTM)** | DNS level (global)   | Cloudflare, F5 GTM, Route 53 | Routes users to the best data center worldwide |
 
 ✅ GTM chooses **which region**,  
 ✅ Local LB chooses **which server** within that region.
@@ -53,13 +53,13 @@ Domain → `example.com`
 
 ## 🌩️ 4️⃣ Real-World Implementations
 
-| Provider | GTM Service | Description |
-|-----------|--------------|--------------|
-| **F5 Networks** | BIG-IP DNS (formerly GTM) | DNS-based routing + health checks |
-| **Cloudflare** | Load Balancing + Geo Routing | Anycast DNS + Global network |
-| **AWS** | Route 53 | Latency/Geo/Weighted routing |
-| **Azure** | Traffic Manager | Priority/Performance/Geo modes |
-| **Google Cloud** | Cloud DNS + Load Balancer | Anycast routing with global IPs |
+| Provider         | GTM Service                  | Description                       |
+| ---------------- | ---------------------------- | --------------------------------- |
+| **F5 Networks**  | BIG-IP DNS (formerly GTM)    | DNS-based routing + health checks |
+| **Cloudflare**   | Load Balancing + Geo Routing | Anycast DNS + Global network      |
+| **AWS**          | Route 53                     | Latency/Geo/Weighted routing      |
+| **Azure**        | Traffic Manager              | Priority/Performance/Geo modes    |
+| **Google Cloud** | Cloud DNS + Load Balancer    | Anycast routing with global IPs   |
 
 ---
 

@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"0ba21151279dad57","x":-780,"y":-520,"width":530,"height":300,"type":"text","text":"### Layer 4 Load Balancer\n- **Transport Layer:** Operates at the transport layer (TCP/UDP).\n- **Basic Load Balancing**: Distributes traffic based on IP addresses and port numbers.\n- **Efficiency:** Faster processing as it doesn’t inspect the content of the data packets.\n- **Network Address Translation (NAT):** Can perform basic NAT to hide server addresses.\n\nAWS NLB, HaProxy (TCP mode), Linux iptables"},
+		{"id":"469ed428531fc489","x":-140,"y":-990,"width":620,"height":320,"type":"text","text":"- LB : 192.168.1.100\n\t- Backend 1: 192.168.1.101\n\t- Backend 2: 192.168.1.102\n- Selection is based on connection-level metadata\n\t- Source IP and Port\n\t- Destination IP and Port\n\t- Protocol (TCP/UDP), or some metadata\n- Random, Hash-based, Source IP Hash - configurability depends on LB"},
+		{"id":"54d1c6e6fd473cf3","x":1065,"y":-620,"width":500,"height":220,"type":"text","text":"- Client opens a TCP connection to 192.168.1.100:443\n- LB rewrites the packet to 192.168.1.101:443 or 192.168.1.102:443\n- Backend responds \n\t- client thinks it's still talking to the LB\nOnly one TCP connection exists - Client <> Backend\n- but LB transparently forwards packets in both directions"},
+		{"id":"96f84ae6d121ec24","x":640,"y":-490,"width":360,"height":210,"type":"text","text":"## Passthrough Mode\n\n- LB forwards packets using NAT\n- Does not inspect application data\n- Only one TCP connection: Client -> Backend\nLB does not terminate the connection"},
+		{"id":"8de91802ef2dd3f1","type":"text","text":"## Proxy Mode\n\n- The **load balancer terminates the TCP connection from the client**.\n    \n- It then **initiates a new TCP connection to the backend server**.\n    \n- Backend server sees the **LB’s IP as the client**, not the original client IP (unless the LB supports forwarding the original IP via headers or TCP options).","x":600,"y":-130,"width":465,"height":270},
+		{"id":"a5de7f60e8aadeca","x":0,"y":-385,"width":340,"height":180,"type":"text","text":"### How L4 LB works\nThere are two modes\n1. Passthrough Mode (most common)\n2. Proxy Mode"},
+		{"id":"2ea2e90cdf36c8e2","x":-720,"y":-40,"width":470,"height":240,"type":"text","text":"#### Layer 7 Load Balancer\n- Operates at the application layer\n- Inspects HTTP"}
+	],
+	"edges":[
+		{"id":"2ba64c1abf601370","fromNode":"96f84ae6d121ec24","fromSide":"right","toNode":"54d1c6e6fd473cf3","toSide":"left"},
+		{"id":"f1702415195fdd0f","fromNode":"0ba21151279dad57","fromSide":"right","toNode":"469ed428531fc489","toSide":"left"},
+		{"id":"db3b77fdbac46e83","fromNode":"0ba21151279dad57","fromSide":"right","toNode":"a5de7f60e8aadeca","toSide":"top"},
+		{"id":"d027f93d7278e107","fromNode":"a5de7f60e8aadeca","fromSide":"right","toNode":"96f84ae6d121ec24","toSide":"left"},
+		{"id":"a9f6941a25651775","fromNode":"a5de7f60e8aadeca","fromSide":"right","toNode":"8de91802ef2dd3f1","toSide":"left"}
+	]
+}

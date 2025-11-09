@@ -23,6 +23,23 @@ Layer-4 load balancers operate at the transport layer of the OSI model. They mak
 - ****Efficiency:**** Faster processing as it doesn’t inspect the content of the data packets.
 - ****Network Address Translation (NAT):**** Can perform basic NAT to hide server addresses.
 
+
+### What it **knows**
+
+- **Source IP address** (client IP)
+- **Destination IP address** (the VIP, Virtual IP of the load balancer)
+- **Source port** (client port)
+- **Destination port** (service port, e.g., 80 for HTTP, 443 for HTTPS)
+
+### What it **does NOT know**
+
+- **URL path** (e.g., `/login`, `/images/logo.png`)
+- **HTTP headers**
+- **Cookies, query parameters, or method** (`GET`, `POST`, etc.)
+
+> It can only forward packets to backend servers based on **IP + port**, or sometimes additional L4 info like TCP flags.
+
+
 ### ****Layer 7 (L7) Load Balancer/Application Load Balancer****
 
 Layer-7 load balancers operate at the application layer of the OSI model. They can make load balancing decisions based on content, including information such as URLs, HTTP headers, or cookies.
