@@ -1,6 +1,6 @@
 ---
-date: "2025-11-09"
-tags: 
+date: 2025-11-09
+tags:
 link:
 ---
 # 🌍 Redis Geospatial Index — Overview
@@ -134,3 +134,8 @@ await redis.geoadd('places', 77.5946, 12.9716, 'Bangalore'); const nearby = awai
     
 
 Redis stores data in memory → extremely fast for real-time geolocation queries.
+
+
+
+## 🔖Implementation
+* [Redis geospatial with Springboot](https://github.com/sunil-kannan/Spring-with-Redis-Cache)
