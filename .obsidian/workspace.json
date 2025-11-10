@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Templates/Daily note.md",
+                "file": "Software/Database/Redis/Redis Geospatial Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily note"
+              "title": "Redis Geospatial Index"
             }
           }
         ],
@@ -206,6 +206,7 @@
   },
   "active": "d03ea7e1d3a10106",
   "lastOpenFiles": [
+    "Software/Templates/Daily note.md",
     "Software/Cryptography/Cryptography.md",
     "Untitled.canvas",
     "Software/SAAS/Multi-Tenant SaaS Database Architecture.md",
