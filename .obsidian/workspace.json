@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/System Design/Study Strategy.md",
+                "file": "Software/DSA & LeetCode/Top DSA Problem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Study Strategy"
+              "title": "Top DSA Problem"
             }
           },
           {
@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hashing",
+                "query": "leetcode",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -204,8 +204,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db58ef4e00ce29e7",
+  "active": "f6136e83a49f3948",
   "lastOpenFiles": [
+    "Software/System Design/Study Strategy.md",
     "Software/System Design/LoadBalancer/LoadBalancer.canvas",
     "Software/System Design/LoadBalancer/Load Balancer.md",
     "Software/System Design/How Video streaming works.md",
