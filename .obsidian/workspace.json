@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Business/Domain/Custom Domain Email Address.md",
+                "file": "Software/Cryptography/RSA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Custom Domain Email Address"
+              "title": "RSA"
             }
           },
           {
@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "load balancer",
+                "query": "hashing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -206,22 +206,27 @@
   },
   "active": "db58ef4e00ce29e7",
   "lastOpenFiles": [
+    "Software/Cryptography/Cryptography.md",
+    "Software/Cryptography/RSA.md",
+    "Software/Cryptography/Hash.md",
+    "Software/Cryptography/HMac.md",
+    "Software/Cryptography/images/HMac.png",
+    "Software/System Design/Encryption & Security Fundamentals for Developers.md",
+    "Software/System Design/Encryption & Hashing",
+    "blockchain-hashing.md",
+    "digital-signatures.md",
+    "Software/Encoding and Base64.md",
+    "Software/Business/Domain/Custom Domain Email Address.md",
     "Software/Database/Redis/Redis Geospatial Index.md",
     "Software/System Design/LoadBalancer/Load Balancer.md",
     "Software/Templates/Concept.md",
     "Software/Templates/Daily note.md",
-    "Software/Cryptography/Cryptography.md",
     "Untitled.canvas",
     "Software/SAAS/Multi-Tenant SaaS Database Architecture.md",
     "Software/SAAS",
     "conflict-files-obsidian-git.md",
-    "Software/Cryptography/Hash.md",
-    "Software/Cryptography/HMac.md",
     "Software/Cryptography/images",
-    "Software/Cryptography/images/HMac.png",
-    "digital-signatures.md",
     "encryption.md",
-    "blockchain-hashing.md",
     "Software/Networking/Network Address Translation (NAT).md",
     "Software/Cryptography",
     "Software/Database/Postgre/PgBouncer.md",
@@ -239,11 +244,7 @@
     "Software/Database/Postgre/Postgresql.md",
     "Software/Database/Postgre/Postgres commands.md",
     "Software/Jenkins/Jenkins command for windows.md",
-    "Software/Jenkins/Jenkins CLI.md",
     "Software/System Design/LoadBalancer.canvas",
-    "Software/Devops/Containerization and Orchestration/Kubernetes/Cluster.md",
-    "Software/Networking/DNS/DNS.md",
-    "Software/Networking/DNS/Authoritative Name Server.md",
     "Software/Networking/DNS",
     "Software/Networking/images/OSI_layer.png",
     "Software/Networking/images/who_initiates_tcp_connection.png",
@@ -254,7 +255,6 @@
     "Software/Database/images/phantom-read.png",
     "Software/System Design/Project",
     "Software/Java/Core Java/Thread/Untitled.canvas",
-    "Software/System Design/Low Level System Design",
     "Untitled 1.canvas"
   ]
 }
