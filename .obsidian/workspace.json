@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Networking/DHCP.md",
+                "file": "Software/Cryptography/Cryptography.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DHCP"
+              "title": "Cryptography"
             }
           }
         ],
@@ -218,8 +218,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "37acb1727216b25e",
+  "active": "f6136e83a49f3948",
   "lastOpenFiles": [
+    "Software/Cryptography/images/Cryptography types.png",
+    "Software/Cryptography/images/Cryptography.png",
+    "Software/Networking/DHCP.md",
     "Software/Templates/Daily note.md",
     "Software/Templates/Concept.md",
     "Software/Tags/Database.md",
@@ -253,8 +256,6 @@
     "Software/Database/Postgre/PgBouncer.md",
     "Pasted image 20250703123121.png",
     "Pasted image 20251010102058.png",
-    "Software/Networking/Routing/Routing.md",
-    "Software/Networking/Routing/Default Gateway.md",
     "Software/Networking/images/routing_protocols.png",
     "Software Books/Introduction to Cryptography.pdf",
     "Software Books",
@@ -266,7 +267,6 @@
     "Software/System Design/images/cloudflare_visitors_flow.png",
     "Software/Database/Postgre",
     "Software/Database/images/non-repeatable-read.png",
-    "Software/Database/images/phantom-read.png",
     "Software/System Design/Project",
     "Software/Java/Core Java/Thread/Untitled.canvas",
     "Untitled 1.canvas"
