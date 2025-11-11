@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Cryptography/RSA.md",
+                "file": "Software/System Design/Study Strategy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RSA"
+              "title": "Study Strategy"
             }
           },
           {
@@ -206,19 +206,23 @@
   },
   "active": "db58ef4e00ce29e7",
   "lastOpenFiles": [
-    "Software/Cryptography/Cryptography.md",
+    "Software/System Design/LoadBalancer/LoadBalancer.canvas",
+    "Software/System Design/LoadBalancer/Load Balancer.md",
+    "Software/System Design/How Video streaming works.md",
+    "Software/System Design/GitHub Important Project & links.md",
+    "Software/System Design/Encryption & Security/Encryption & Security Fundamentals for Developers.md",
+    "Software/System Design/Encryption & Security/Security rules for Developers.md",
     "Software/Cryptography/RSA.md",
+    "Software/Cryptography/Cryptography.md",
     "Software/Cryptography/Hash.md",
     "Software/Cryptography/HMac.md",
     "Software/Cryptography/images/HMac.png",
-    "Software/System Design/Encryption & Security Fundamentals for Developers.md",
-    "Software/System Design/Encryption & Hashing",
+    "Software/System Design/Encryption & Security",
     "blockchain-hashing.md",
     "digital-signatures.md",
     "Software/Encoding and Base64.md",
     "Software/Business/Domain/Custom Domain Email Address.md",
     "Software/Database/Redis/Redis Geospatial Index.md",
-    "Software/System Design/LoadBalancer/Load Balancer.md",
     "Software/Templates/Concept.md",
     "Software/Templates/Daily note.md",
     "Untitled.canvas",
@@ -240,11 +244,6 @@
     "Software Books/Introduction to Cryptography.pdf",
     "Software Books",
     "New folder",
-    "Software/Database/Postgre/Pg_dump.md",
-    "Software/Database/Postgre/Postgresql.md",
-    "Software/Database/Postgre/Postgres commands.md",
-    "Software/Jenkins/Jenkins command for windows.md",
-    "Software/System Design/LoadBalancer.canvas",
     "Software/Networking/DNS",
     "Software/Networking/images/OSI_layer.png",
     "Software/Networking/images/who_initiates_tcp_connection.png",
