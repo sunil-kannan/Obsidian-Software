@@ -60,9 +60,21 @@
               "icon": "lucide-file",
               "title": "Cryptography"
             }
+          },
+          {
+            "id": "c513a79d9a52b1e5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -218,7 +230,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6136e83a49f3948",
+  "active": "c513a79d9a52b1e5",
   "lastOpenFiles": [
     "Software/Cryptography/images/Cryptography types.png",
     "Software/Cryptography/images/Cryptography.png",
