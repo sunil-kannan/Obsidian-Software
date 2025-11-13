@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/System Design/SLA (Service Level Aggrement).md",
+                "file": "Software/Networking/WebRTC/STUN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SLA (Service Level Aggrement)"
+              "title": "STUN"
             }
           }
         ],
@@ -218,8 +218,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6136e83a49f3948",
+  "active": "37acb1727216b25e",
   "lastOpenFiles": [
+    "Software/System Design/SLA (Service Level Aggrement).md",
+    "Software/Networking/WebRTC/STUN.md",
     "Software/Networking/WebRTC",
     "Software/DSA & LeetCode/Top DSA Problem.md",
     "Software/Cryptography/Cryptography.md",
@@ -254,7 +256,6 @@
     "encryption.md",
     "Software/Networking/Network Address Translation (NAT).md",
     "Software/Cryptography",
-    "Software/Database/Postgre/PgBouncer.md",
     "Pasted image 20250703123121.png",
     "Pasted image 20251010102058.png",
     "Software/Networking/images/routing_protocols.png",
@@ -267,7 +268,6 @@
     "Software/Networking/images/http_request_per_connection.png",
     "Software/System Design/images/cloudflare_visitors_flow.png",
     "Software/Database/Postgre",
-    "Software/System Design/Project",
     "Software/Java/Core Java/Thread/Untitled.canvas",
     "Untitled 1.canvas"
   ]
