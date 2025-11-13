@@ -53,28 +53,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Cryptography/Cryptography.md",
+                "file": "Software/DSA & LeetCode/Top DSA Problem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cryptography"
-            }
-          },
-          {
-            "id": "c513a79d9a52b1e5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "title": "Top DSA Problem"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -230,8 +218,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c513a79d9a52b1e5",
+  "active": "37acb1727216b25e",
   "lastOpenFiles": [
+    "Software/Cryptography/Cryptography.md",
     "Software/Cryptography/images/Cryptography types.png",
     "Software/Cryptography/images/Cryptography.png",
     "Software/Networking/DHCP.md",
@@ -247,7 +236,6 @@
     "Software/System Design/Encryption & Security/Encryption & Security Fundamentals for Developers.md",
     "Software/System Design/Encryption & Security/Security rules for Developers.md",
     "Software/Cryptography/RSA.md",
-    "Software/Cryptography/Cryptography.md",
     "Software/Cryptography/Hash.md",
     "Software/Cryptography/HMac.md",
     "Software/Cryptography/images/HMac.png",
@@ -278,7 +266,6 @@
     "Software/Networking/images/http_request_per_connection.png",
     "Software/System Design/images/cloudflare_visitors_flow.png",
     "Software/Database/Postgre",
-    "Software/Database/images/non-repeatable-read.png",
     "Software/System Design/Project",
     "Software/Java/Core Java/Thread/Untitled.canvas",
     "Untitled 1.canvas"
