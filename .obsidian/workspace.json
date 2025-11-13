@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/DSA & LeetCode/Top DSA Problem.md",
+                "file": "Software/System Design/SLA (Service Level Aggrement).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Top DSA Problem"
+              "title": "SLA (Service Level Aggrement)"
             }
           }
         ],
@@ -218,8 +218,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "37acb1727216b25e",
+  "active": "f6136e83a49f3948",
   "lastOpenFiles": [
+    "Software/Networking/WebRTC",
+    "Software/DSA & LeetCode/Top DSA Problem.md",
     "Software/Cryptography/Cryptography.md",
     "Software/Cryptography/images/Cryptography types.png",
     "Software/Cryptography/images/Cryptography.png",
@@ -227,7 +229,6 @@
     "Software/Templates/Daily note.md",
     "Software/Templates/Concept.md",
     "Software/Tags/Database.md",
-    "Software/DSA & LeetCode/Top DSA Problem.md",
     "Software/System Design/Study Strategy.md",
     "Software/System Design/LoadBalancer/LoadBalancer.canvas",
     "Software/System Design/LoadBalancer/Load Balancer.md",
