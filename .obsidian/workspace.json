@@ -218,14 +218,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6136e83a49f3948",
+  "active": "37acb1727216b25e",
   "lastOpenFiles": [
+    "Software/Networking/P2P communication/WebRTC/STUN.md",
+    "Software/Networking/P2P communication/Peer to Peer Communication.md",
     "Software/Networking/images/peer-to-peer communication.png",
     "Software/Networking/Ephemeral Port.md",
     "Software/Networking/NAT.md",
     "Software/Networking/Network Address Translation (NAT).md",
-    "Software/Networking/P2P communication/Peer to Peer Communication.md",
-    "Software/Networking/P2P communication/WebRTC/STUN.md",
     "Software/Networking/P2P communication",
     "Software/System Design/SLA (Service Level Aggrement).md",
     "Software/Networking/P2P communication/WebRTC",
@@ -267,7 +267,6 @@
     "Software/Networking/images/OSI_layer.png",
     "Software/Networking/images/who_initiates_tcp_connection.png",
     "Software/Networking/images/http_request_per_connection.png",
-    "Software/System Design/images/cloudflare_visitors_flow.png",
     "Software/Java/Core Java/Thread/Untitled.canvas",
     "Untitled 1.canvas"
   ]
