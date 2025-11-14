@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Networking/P2P communication/Peer to Peer Communication.md",
+                "file": "Software/Networking/NAT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Peer to Peer Communication"
+              "title": "NAT"
             }
           }
         ],
@@ -220,8 +220,10 @@
   },
   "active": "37acb1727216b25e",
   "lastOpenFiles": [
-    "Software/Networking/P2P communication/WebRTC/STUN.md",
+    "Software/Networking/Network Address Translation (NAT).md",
+    "Software/Networking/NAT.md",
     "Software/Networking/P2P communication/Peer to Peer Communication.md",
+    "Software/Networking/P2P communication/WebRTC/STUN.md",
     "Software/Networking/P2P communication",
     "Software/System Design/SLA (Service Level Aggrement).md",
     "Software/Networking/P2P communication/WebRTC",
@@ -253,9 +255,7 @@
     "Untitled.canvas",
     "Software/SAAS/Multi-Tenant SaaS Database Architecture.md",
     "Software/SAAS",
-    "conflict-files-obsidian-git.md",
     "Software/Cryptography/images",
-    "encryption.md",
     "Software/Cryptography",
     "Pasted image 20250703123121.png",
     "Pasted image 20251010102058.png",
