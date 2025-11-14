@@ -218,8 +218,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "37acb1727216b25e",
+  "active": "f6136e83a49f3948",
   "lastOpenFiles": [
+    "Software/Networking/images/peer-to-peer communication.png",
     "Software/Networking/Ephemeral Port.md",
     "Software/Networking/NAT.md",
     "Software/Networking/Network Address Translation (NAT).md",
@@ -252,7 +253,6 @@
     "digital-signatures.md",
     "Software/Encoding and Base64.md",
     "Software/Business/Domain/Custom Domain Email Address.md",
-    "Software/Database/Redis/Redis Geospatial Index.md",
     "Untitled.canvas",
     "Software/SAAS",
     "Software/Cryptography/images",
