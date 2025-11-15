@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Networking/Untitled.md",
+                "file": "Software/Networking/NAT Types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "NAT Types"
             }
           }
         ],
@@ -222,7 +222,7 @@
   "active": "37acb1727216b25e",
   "lastOpenFiles": [
     "Software/Networking/P2P communication/WebRTC/ICE Candidates.md",
-    "Software/Networking/Untitled.md",
+    "Software/Networking/NAT Types.md",
     "Excalidraw/Drawing 2025-11-15 10.29.14.excalidraw.md",
     "Excalidraw",
     "Software/Networking/P2P communication/WebRTC/WebRTC offer answer flow.md",
