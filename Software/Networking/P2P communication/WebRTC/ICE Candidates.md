@@ -20,19 +20,12 @@ An **ICE candidate** is a possible IP + Port + Protocol combination that a WebRT
 Each candidate includes:
 
 - IP Address (private or public)
-    
 - Port number
-    
 - Protocol (UDP/TCP)
-    
 - Candidate type (host, srflx, relay)
-    
 - Priority
-    
 - Foundation
-    
 - Component
-    
 
 Example candidate line in SDP:
 
@@ -97,11 +90,8 @@ Used as **last fallback**.
 ICE tries candidates from **best to worst**:
 
 1. **host → (fastest)**
-    
 2. **srflx → (public IP, likely to succeed)**
-    
 3. **relay → (TURN relay, fallback)**
-    
 
 This process is called **ICE Connectivity Checks**.
 
@@ -128,8 +118,15 @@ Each candidate is tested to find a working connection.
 
 # 🌐 ICE Flow Summary
 
-`[1] Gather host candidates   [2] Send STUN → get srflx candidates   [3] If TURN configured → get relay candidates   [4] Exchange candidates via SDP (offer/answer)   [5] Perform connectivity checks   [6] Select best working candidate pair`  
-
+```pgsql
+[1] Gather host candidates   
+[2] Send STUN → get srflx candidates   
+[3] If TURN configured → get relay candidates   
+[4] Exchange candidates via SDP (offer/answer)   
+[5] Perform connectivity checks   
+[6] Select best working candidate pair
+```
+  
 ---
 
 # 🔎 Candidate Pairing
@@ -157,13 +154,8 @@ ICE chooses the **first working pair**.
 # ⭐ Final Summary
 
 - **Host = Local IP**
-    
-- **STUN (srflx) = Public IP**
-    
+- **STUN (srflx) = Public IP
 - **TURN (relay) = Relay address (always works)**
-    
 - Candidates are exchanged through **SDP Offer/Answer**
-    
 - ICE tests all candidates to establish P2P
-    
 - TURN is used only if direct paths fail
