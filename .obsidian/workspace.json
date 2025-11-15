@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Networking/P2P communication/WebRTC/ICE Candidates.md",
+                "file": "Software/Networking/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ICE Candidates"
+              "title": "Untitled"
             }
           }
         ],
@@ -221,8 +221,9 @@
   },
   "active": "37acb1727216b25e",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-11-15 10.29.14.excalidraw.md",
     "Software/Networking/P2P communication/WebRTC/ICE Candidates.md",
+    "Software/Networking/Untitled.md",
+    "Excalidraw/Drawing 2025-11-15 10.29.14.excalidraw.md",
     "Excalidraw",
     "Software/Networking/P2P communication/WebRTC/WebRTC offer answer flow.md",
     "Software/Networking/P2P communication/WebRTC/STUN.md",
@@ -255,7 +256,6 @@
     "Software/Cryptography/HMac.md",
     "Software/Cryptography/images/HMac.png",
     "Software/System Design/Encryption & Security",
-    "blockchain-hashing.md",
     "Untitled.canvas",
     "Software/SAAS",
     "Software/Cryptography/images",
