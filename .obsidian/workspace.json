@@ -215,13 +215,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "37acb1727216b25e",
   "lastOpenFiles": [
-    "Software/Networking/P2P communication/WebRTC/WebRTC offer answer flow.md",
+    "Excalidraw/Drawing 2025-11-15 10.29.14.excalidraw.md",
     "Software/Networking/P2P communication/WebRTC/ICE Candidates.md",
+    "Excalidraw",
+    "Software/Networking/P2P communication/WebRTC/WebRTC offer answer flow.md",
     "Software/Networking/P2P communication/WebRTC/STUN.md",
     "Software/Networking/P2P communication/WebRTC/TURN.md",
     "Software/Networking/P2P communication/Peer to Peer Communication.md",
@@ -253,7 +256,6 @@
     "Software/Cryptography/images/HMac.png",
     "Software/System Design/Encryption & Security",
     "blockchain-hashing.md",
-    "digital-signatures.md",
     "Untitled.canvas",
     "Software/SAAS",
     "Software/Cryptography/images",
@@ -264,7 +266,6 @@
     "Software Books/Introduction to Cryptography.pdf",
     "Software Books",
     "New folder",
-    "Software/Networking/DNS",
     "Software/Networking/images/OSI_layer.png",
     "Software/Networking/images/who_initiates_tcp_connection.png",
     "Software/Networking/images/http_request_per_connection.png",
