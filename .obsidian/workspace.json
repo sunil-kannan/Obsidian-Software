@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Networking/P2P communication/WebRTC/WebRTC offer answer flow.md",
+                "file": "Software/Networking/P2P communication/WebRTC/ICE Candidates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WebRTC offer answer flow"
+              "title": "ICE Candidates"
             }
           }
         ],
@@ -220,9 +220,10 @@
   },
   "active": "37acb1727216b25e",
   "lastOpenFiles": [
+    "Software/Networking/P2P communication/WebRTC/WebRTC offer answer flow.md",
+    "Software/Networking/P2P communication/WebRTC/ICE Candidates.md",
     "Software/Networking/P2P communication/WebRTC/STUN.md",
     "Software/Networking/P2P communication/WebRTC/TURN.md",
-    "Software/Networking/P2P communication/WebRTC/WebRTC offer answer flow.md",
     "Software/Networking/P2P communication/Peer to Peer Communication.md",
     "Software/Networking/images/peer-to-peer communication.png",
     "Software/Networking/Ephemeral Port.md",
@@ -253,7 +254,6 @@
     "Software/System Design/Encryption & Security",
     "blockchain-hashing.md",
     "digital-signatures.md",
-    "Software/Encoding and Base64.md",
     "Untitled.canvas",
     "Software/SAAS",
     "Software/Cryptography/images",
