@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Templates/Daily note.md",
+                "file": "Software/System Design/LoadBalancer/Load Balancer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily note"
+              "title": "Load Balancer"
             }
           },
           {
@@ -39,30 +39,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Templates/Concept.md",
+                "file": "Software/Cryptography/Cryptography.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Concept"
-            }
-          },
-          {
-            "id": "37acb1727216b25e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software/Networking/NAT Types.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NAT Types"
+              "title": "Cryptography"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "glossa",
+                "query": "load balancer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -215,57 +201,57 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "37acb1727216b25e",
+  "active": "f6136e83a49f3948",
   "lastOpenFiles": [
+    "Software/Testing",
+    "Software/System Design/LoadBalancer/LoadBalancer.canvas",
+    "Software/System Design/Encryption & Security/Security rules for Developers.md",
+    "Software/System Design/Encryption & Security/Encryption & Security Fundamentals for Developers.md",
+    "Software/System Design/Encryption & Security",
+    "Software/Networking/images/peer-to-peer communication.png",
+    "Software/Networking/P2P communication/WebRTC/WebRTC offer answer flow.md",
+    "Software/Networking/P2P communication/WebRTC/TURN.md",
+    "Software/Networking/P2P communication/WebRTC/STUN.md",
     "Software/Networking/P2P communication/WebRTC/ICE Candidates.md",
+    "Software/Networking/P2P communication/WebRTC",
+    "Software/Networking/P2P communication/Peer to Peer Communication.md",
+    "Software/Networking/P2P communication",
     "Software/Networking/NAT Types.md",
+    "Software/Networking/Ephemeral Port.md",
+    "Software/Cryptography/images/Cryptography.png",
+    "Software/Cryptography/images/Cryptography types.png",
+    "Software/Cryptography/RSA.md",
     "Excalidraw/Drawing 2025-11-15 10.29.14.excalidraw.md",
     "Excalidraw",
-    "Software/Networking/P2P communication/WebRTC/WebRTC offer answer flow.md",
-    "Software/Networking/P2P communication/WebRTC/STUN.md",
-    "Software/Networking/P2P communication/WebRTC/TURN.md",
-    "Software/Networking/P2P communication/Peer to Peer Communication.md",
-    "Software/Networking/images/peer-to-peer communication.png",
-    "Software/Networking/Ephemeral Port.md",
-    "Software/Networking/NAT.md",
-    "Software/Networking/Network Address Translation (NAT).md",
-    "Software/Networking/P2P communication",
-    "Software/System Design/SLA (Service Level Aggrement).md",
-    "Software/Networking/P2P communication/WebRTC",
-    "Software/DSA & LeetCode/Top DSA Problem.md",
-    "Software/Cryptography/Cryptography.md",
-    "Software/Cryptography/images/Cryptography types.png",
-    "Software/Cryptography/images/Cryptography.png",
-    "Software/Networking/DHCP.md",
-    "Software/Templates/Daily note.md",
-    "Software/Templates/Concept.md",
-    "Software/Tags/Database.md",
-    "Software/System Design/Study Strategy.md",
-    "Software/System Design/LoadBalancer/LoadBalancer.canvas",
-    "Software/System Design/LoadBalancer/Load Balancer.md",
-    "Software/System Design/How Video streaming works.md",
-    "Software/System Design/GitHub Important Project & links.md",
-    "Software/System Design/Encryption & Security/Encryption & Security Fundamentals for Developers.md",
-    "Software/System Design/Encryption & Security/Security rules for Developers.md",
-    "Software/Cryptography/RSA.md",
+    "Untitled.canvas",
+    "Software/SAAS/Multi-Tenant SaaS Database Architecture.md",
+    "Software/SAAS",
+    "conflict-files-obsidian-git.md",
+    "Software/Database/Redis/Redis Geospatial Index.md",
     "Software/Cryptography/Hash.md",
     "Software/Cryptography/HMac.md",
-    "Software/Cryptography/images/HMac.png",
-    "Software/System Design/Encryption & Security",
-    "Untitled.canvas",
-    "Software/SAAS",
     "Software/Cryptography/images",
+    "Software/Cryptography/images/HMac.png",
+    "Software/Cryptography/Cryptography.md",
+    "digital-signatures.md",
+    "encryption.md",
+    "blockchain-hashing.md",
+    "Software/Networking/Network Address Translation (NAT).md",
     "Software/Cryptography",
+    "Software/Database/Postgre/PgBouncer.md",
     "Pasted image 20250703123121.png",
     "Pasted image 20251010102058.png",
+    "Software/Networking/Routing/Routing.md",
+    "Software/Networking/Routing/Default Gateway.md",
+    "Software/Networking/Routing/Global Traffic Manager (GTM).md",
     "Software/Networking/images/routing_protocols.png",
     "Software Books/Introduction to Cryptography.pdf",
     "Software Books",
     "New folder",
+    "Software/System Design/LoadBalancer.canvas",
     "Software/Networking/images/OSI_layer.png",
     "Software/Networking/images/who_initiates_tcp_connection.png",
     "Software/Networking/images/http_request_per_connection.png",
