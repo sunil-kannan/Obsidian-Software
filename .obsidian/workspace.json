@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Testing/L&P.md",
+                "file": "Software/Testing/Performance Testing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L&P"
+              "title": "Performance Testing"
             }
           }
         ],
@@ -192,9 +192,11 @@
   },
   "active": "db58ef4e00ce29e7",
   "lastOpenFiles": [
+    "Pasted image 20251116180756.png",
+    "Software/Testing/L&P.md",
+    "Software/Testing/Performance Testing.md",
     "Software/System Design/LoadBalancer/Load Balancer.md",
     "Software/Cryptography/Cryptography.md",
-    "Software/Testing/L&P.md",
     "Software/Testing",
     "Software/System Design/LoadBalancer/LoadBalancer.canvas",
     "Software/System Design/Encryption & Security/Security rules for Developers.md",
@@ -232,8 +234,6 @@
     "Software/Database/Postgre/PgBouncer.md",
     "Pasted image 20250703123121.png",
     "Pasted image 20251010102058.png",
-    "Software/Networking/Routing/Routing.md",
-    "Software/Networking/Routing/Default Gateway.md",
     "Software/Networking/images/routing_protocols.png",
     "Software Books/Introduction to Cryptography.pdf",
     "Software Books",
