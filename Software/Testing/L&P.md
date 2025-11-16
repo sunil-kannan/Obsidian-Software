@@ -37,3 +37,14 @@ If you have any Azure VM → use that
 Put k6 on them → run same script → combine load.
 
 This is how companies simulate 5000–10,000 users **without paying for Azure Load Testing**.
+
+
+
+
+
+
+
+
+
+
+virtual user
