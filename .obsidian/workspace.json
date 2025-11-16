@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Testing/Performance Testing.md",
+                "file": "Software/Testing/L&P.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Performance Testing"
+              "title": "L&P"
             }
           }
         ],
@@ -192,9 +192,10 @@
   },
   "active": "db58ef4e00ce29e7",
   "lastOpenFiles": [
-    "Pasted image 20251116180756.png",
-    "Software/Testing/L&P.md",
     "Software/Testing/Performance Testing.md",
+    "Software/Testing/images",
+    "Software/Testing/images/Types of performance testing.png",
+    "Software/Testing/L&P.md",
     "Software/System Design/LoadBalancer/Load Balancer.md",
     "Software/Cryptography/Cryptography.md",
     "Software/Testing",
@@ -236,11 +237,9 @@
     "Pasted image 20251010102058.png",
     "Software/Networking/images/routing_protocols.png",
     "Software Books/Introduction to Cryptography.pdf",
-    "Software Books",
     "Software/System Design/LoadBalancer.canvas",
     "Software/Networking/images/OSI_layer.png",
     "Software/Networking/images/who_initiates_tcp_connection.png",
-    "Software/Networking/images/http_request_per_connection.png",
     "Software/Java/Core Java/Thread/Untitled.canvas",
     "Untitled 1.canvas"
   ]
