@@ -252,14 +252,14 @@ Test:
 
 # 🎯 Summary Table
 
-|Test Type|Purpose|Example|
-|---|---|---|
-|Load Test|Expected load|1000 users normal traffic|
-|Stress Test|Beyond limit|5000 users|
-|Spike Test|Sudden traffic|100 → 2000 users instantly|
-|Soak Test|Long duration|6-hour test|
-|Scalability Test|Add more servers|1 → 5 replicas|
-|Volume Test|Data size|100M rows in DB|
-|Capacity Test|Max current capacity|How many users right now|
-|Config Test|Different settings|Change JVM/threads|
-|Failover Test|Server failure|Kill pod/VM|
+| Test Type        | Purpose              | Example                    |
+| ---------------- | -------------------- | -------------------------- |
+| Load Test        | Expected load        | 1000 users normal traffic  |
+| Stress Test      | Beyond limit         | 5000 users                 |
+| Spike Test       | Sudden traffic       | 100 → 2000 users instantly |
+| Soak Test        | Long duration        | 6-hour test                |
+| Scalability Test | Add more servers     | 1 → 5 replicas             |
+| Volume Test      | Data size            | 100M rows in DB            |
+| Capacity Test    | Max current capacity | How many users right now   |
+| Config Test      | Different settings   | Change JVM/threads         |
+| Failover Test    | Server failure       | Kill pod/VM                |
