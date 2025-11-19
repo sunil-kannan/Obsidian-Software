@@ -53,16 +53,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Testing/Performance Testing.md",
+                "file": "Software/Testing/K6/Running K6 Job in Kubernetes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Performance Testing"
+              "title": "Running K6 Job in Kubernetes"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -219,14 +219,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d03ea7e1d3a10106",
+  "active": "37acb1727216b25e",
   "lastOpenFiles": [
-    "Software/Devops/Untitled 1.md",
+    "Software/Testing/Performance Testing.md",
     "Software/Devops/Prometheus & Grafana/Helm Command for installing Kube-Prometheus-Stack.md",
+    "Software/Testing/K6/Running K6 Job in Kubernetes.md",
+    "Software/Testing/K6",
+    "Software/Devops/Untitled 1.md",
     "Software/Devops/Prometheus & Grafana",
     "Software/Devops/Containerization and Orchestration/Kubernetes/Commands.md",
     "Software/Kubernetes/Pods.md",
-    "Software/Testing/Performance Testing.md",
     "Software/Templates/Concept.md",
     "Software/Networking/P2P communication/WebRTC/ICE Candidates.md",
     "Software/Networking/NAT Types.md",
@@ -257,13 +259,11 @@
     "Software/System Design/Study Strategy.md",
     "Software/System Design/LoadBalancer/LoadBalancer.canvas",
     "Software/System Design/LoadBalancer/Load Balancer.md",
-    "Software/System Design/How Video streaming works.md",
     "Software/Cryptography/images/HMac.png",
     "Software/System Design/Encryption & Security",
     "Untitled.canvas",
     "Software/SAAS",
     "Software/Cryptography/images",
-    "Software/Cryptography",
     "Pasted image 20250703123121.png",
     "Pasted image 20251010102058.png",
     "Software/Networking/images/routing_protocols.png",
