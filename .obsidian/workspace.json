@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Devops/Containerization and Orchestration/Kubernetes/Commands.md",
+                "file": "Software/Monitoring/Prometheus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Commands"
+              "title": "Prometheus"
             }
           }
         ],
@@ -221,17 +221,17 @@
   },
   "active": "37acb1727216b25e",
   "lastOpenFiles": [
+    "Software/Devops/Containerization and Orchestration/Kubernetes/Commands.md",
     "Software/Monitoring/Prometheus.md",
     "Software/Jenkins/Jenkins CLI.md",
     "Software/Marketing/Marketing terms.md",
-    "Software/Devops/Containerization and Orchestration/Kubernetes/Commands.md",
     "Software/Monitoring",
     "Software/Testing/K6/Running K6 Job in Kubernetes.md",
-    "Software/Devops/Prometheus & Grafana/Helm Command for installing Kube-Prometheus-Stack.md",
+    "Software/Monitoring/Prometheus & Grafana/Helm Command for installing Kube-Prometheus-Stack.md",
     "Software/Testing/Performance Testing.md",
     "Software/Testing/K6",
     "Software/Devops/Untitled 1.md",
-    "Software/Devops/Prometheus & Grafana",
+    "Software/Monitoring/Prometheus & Grafana",
     "Software/Kubernetes/Pods.md",
     "Software/Templates/Concept.md",
     "Software/Networking/P2P communication/WebRTC/ICE Candidates.md",
