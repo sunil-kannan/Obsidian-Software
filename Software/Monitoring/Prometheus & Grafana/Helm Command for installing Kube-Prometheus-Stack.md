@@ -29,3 +29,50 @@ helm upgrade --install prometheus prometheus-community/kube-prometheus-stack \
   --set prometheus.prometheusSpec.enableFeatures[0]=remote-write-receiver
   --set prometheus.prometheusSpec.enableFeatures[1]=web.enable-remote-write-receiver
 ```
+
+
+#### Exposing the Prometheus and Grafana UI using Kubernetes ingress
+
+```
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: prometheus-ingress
+  namespace: monitoring
+spec:
+  ingressClassName: nginx  	
+  rules:
+  - host: prometheus.example.com
+    http:
+      paths:
+      - path: /
+        pathType: Prefix
+        backend:
+          service:
+            name: prometheus-kube-prometheus-prometheus
+            port:
+              number: 9090
+
+```
+
+```
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: grafana-ingress
+  namespace: monitoring
+spec:
+  ingressClassName: nginx  	
+  rules:
+  - host: grafana.example.com
+    http:
+      paths:
+      - path: /
+        pathType: Prefix
+        backend:
+          service:
+            name: prometheus-grafana
+            port:
+              number: 80
+
+```

@@ -14,7 +14,10 @@ link:
 ## Need to install Kube-Prometheus-Stack in Kubernetes
 
 - Create seperate namespace in kubernetes called 'monitoring' 
-- Next step = [[Helm Command for installing Kube-Prometheus-Stack]]
+- Next step = [[Helm Command for installing Kube-Prometheus-Stack]]. 
+- Creating the below file and creating the pod in kubernetes.
+- K6 load test results will be written to the prometheus 
+- Using prometheus / Grafana we can view the load test result.
 
 
 ### Create test script in configmap

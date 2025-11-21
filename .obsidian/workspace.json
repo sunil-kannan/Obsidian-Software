@@ -37,14 +37,10 @@
             "id": "d03ea7e1d3a10106",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software/Devops/Prometheus & Grafana/Helm Command for installing Kube-Prometheus-Stack.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Helm Command for installing Kube-Prometheus-Stack"
+              "title": "New tab"
             }
           },
           {
@@ -53,12 +49,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Monitoring/Prometheus.md",
+                "file": "Software/Monitoring/Prometheus & Grafana/Helm Command for installing Kube-Prometheus-Stack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prometheus"
+              "title": "Helm Command for installing Kube-Prometheus-Stack"
             }
           }
         ],
@@ -94,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "prometheus",
+                "query": "k6-",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +111,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -221,13 +218,13 @@
   },
   "active": "37acb1727216b25e",
   "lastOpenFiles": [
-    "Software/Devops/Containerization and Orchestration/Kubernetes/Commands.md",
+    "Software/Monitoring/Prometheus & Grafana/Helm Command for installing Kube-Prometheus-Stack.md",
+    "Software/Testing/K6/Running K6 Job in Kubernetes.md",
     "Software/Monitoring/Prometheus.md",
+    "Software/Devops/Containerization and Orchestration/Kubernetes/Commands.md",
     "Software/Jenkins/Jenkins CLI.md",
     "Software/Marketing/Marketing terms.md",
     "Software/Monitoring",
-    "Software/Testing/K6/Running K6 Job in Kubernetes.md",
-    "Software/Monitoring/Prometheus & Grafana/Helm Command for installing Kube-Prometheus-Stack.md",
     "Software/Testing/Performance Testing.md",
     "Software/Testing/K6",
     "Software/Devops/Untitled 1.md",
