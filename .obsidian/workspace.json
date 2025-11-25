@@ -49,12 +49,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Testing/K6/Running K6 Job in Kubernetes.md",
+                "file": "Software/DSA & LeetCode/Time Complexity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Running K6 Job in Kubernetes"
+              "title": "Time Complexity"
             }
           }
         ],
@@ -90,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "k6-",
+                "query": "time complexit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,8 +111,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -218,8 +217,9 @@
   },
   "active": "37acb1727216b25e",
   "lastOpenFiles": [
-    "Software/Monitoring/Prometheus & Grafana/Helm Command for installing Kube-Prometheus-Stack.md",
     "Software/Testing/K6/Running K6 Job in Kubernetes.md",
+    "Software/DSA & LeetCode/Time Complexity.md",
+    "Software/Monitoring/Prometheus & Grafana/Helm Command for installing Kube-Prometheus-Stack.md",
     "Software/Monitoring/Prometheus.md",
     "Software/Devops/Containerization and Orchestration/Kubernetes/Commands.md",
     "Software/Jenkins/Jenkins CLI.md",
@@ -255,7 +255,6 @@
     "Software/Cryptography/images/Cryptography types.png",
     "Software/Cryptography/images/Cryptography.png",
     "Software/Networking/DHCP.md",
-    "Software/Templates/Daily note.md",
     "Software/System Design/LoadBalancer/LoadBalancer.canvas",
     "Software/Cryptography/images/HMac.png",
     "Software/System Design/Encryption & Security",
