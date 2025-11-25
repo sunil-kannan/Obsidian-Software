@@ -56,6 +56,18 @@
               "icon": "lucide-file",
               "title": "Time Complexity"
             }
+          },
+          {
+            "id": "cdfaae1bdde435a3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-11-25 15.46.32.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-11-25 15.46.32.excalidraw"
+            }
           }
         ],
         "currentTab": 3
@@ -217,8 +229,10 @@
   },
   "active": "37acb1727216b25e",
   "lastOpenFiles": [
-    "Software/Testing/K6/Running K6 Job in Kubernetes.md",
+    "Excalidraw/Drawing 2025-11-25 15.46.32.excalidraw.md",
     "Software/DSA & LeetCode/Time Complexity.md",
+    "Pasted image 20251125154607.png",
+    "Software/Testing/K6/Running K6 Job in Kubernetes.md",
     "Software/Monitoring/Prometheus & Grafana/Helm Command for installing Kube-Prometheus-Stack.md",
     "Software/Monitoring/Prometheus.md",
     "Software/Devops/Containerization and Orchestration/Kubernetes/Commands.md",
@@ -254,7 +268,6 @@
     "Software/Cryptography/Cryptography.md",
     "Software/Cryptography/images/Cryptography types.png",
     "Software/Cryptography/images/Cryptography.png",
-    "Software/Networking/DHCP.md",
     "Software/System Design/LoadBalancer/LoadBalancer.canvas",
     "Software/Cryptography/images/HMac.png",
     "Software/System Design/Encryption & Security",
@@ -264,7 +277,6 @@
     "Pasted image 20251010102058.png",
     "Software/Networking/images/routing_protocols.png",
     "Software/Networking/images/OSI_layer.png",
-    "Software/Networking/images/who_initiates_tcp_connection.png",
     "Software/Java/Core Java/Thread/Untitled.canvas",
     "Untitled 1.canvas"
   ]
