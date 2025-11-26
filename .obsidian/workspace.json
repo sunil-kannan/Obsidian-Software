@@ -49,12 +49,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/DSA & LeetCode/Top DSA Problem.md",
+                "file": "Software/Devops/Containerization and Orchestration/Kubernetes/Commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Top DSA Problem"
+              "title": "Commands"
             }
           },
           {
@@ -102,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sharding",
+                "query": "kubectl ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +123,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -227,8 +228,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f6136e83a49f3948",
+  "active": "37acb1727216b25e",
   "lastOpenFiles": [
+    "Software/DSA & LeetCode/Top DSA Problem.md",
     "Software/DSA & LeetCode/Time Complexity.md",
     "Excalidraw/Drawing 2025-11-25 15.46.32.excalidraw.md",
     "Pasted image 20251125154607.png",
@@ -264,7 +266,6 @@
     "Software/Networking/P2P communication",
     "Software/System Design/SLA (Service Level Aggrement).md",
     "Software/Networking/P2P communication/WebRTC",
-    "Software/DSA & LeetCode/Top DSA Problem.md",
     "Software/Cryptography/Cryptography.md",
     "Software/Cryptography/images/Cryptography types.png",
     "Software/Cryptography/images/Cryptography.png",
