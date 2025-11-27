@@ -61,16 +61,18 @@
             "id": "cdfaae1bdde435a3",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-11-25 15.46.32.excalidraw.md"
+                "file": "Software/Testing/K6/Running K6 Job in Kubernetes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-11-25 15.46.32.excalidraw"
+              "icon": "lucide-file",
+              "title": "Running K6 Job in Kubernetes"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,8 +125,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -228,16 +229,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "37acb1727216b25e",
+  "active": "cdfaae1bdde435a3",
   "lastOpenFiles": [
+    "Software/Monitoring/Prometheus & Grafana/Helm Command for installing Kube-Prometheus-Stack.md",
+    "Excalidraw/Drawing 2025-11-25 15.46.32.excalidraw.md",
+    "Software/Devops/Containerization and Orchestration/Kubernetes/Commands.md",
     "Software/DSA & LeetCode/Top DSA Problem.md",
     "Software/DSA & LeetCode/Time Complexity.md",
-    "Excalidraw/Drawing 2025-11-25 15.46.32.excalidraw.md",
     "Pasted image 20251125154607.png",
     "Software/Testing/K6/Running K6 Job in Kubernetes.md",
-    "Software/Monitoring/Prometheus & Grafana/Helm Command for installing Kube-Prometheus-Stack.md",
     "Software/Monitoring/Prometheus.md",
-    "Software/Devops/Containerization and Orchestration/Kubernetes/Commands.md",
     "Software/Jenkins/Jenkins CLI.md",
     "Software/Marketing/Marketing terms.md",
     "Software/Monitoring",
