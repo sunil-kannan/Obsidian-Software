@@ -25,44 +25,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Templates/Daily note.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Daily note"
-            }
-          },
-          {
-            "id": "d03ea7e1d3a10106",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "37acb1727216b25e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software/Devops/Containerization and Orchestration/Kubernetes/Commands.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Commands"
-            }
-          },
-          {
-            "id": "5bb290de6bf0d065",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Software/Monitoring/Prometheus & Grafana/Helm Command for installing Kube-Prometheus-Stack.md",
                 "mode": "source",
                 "source": false
@@ -70,9 +32,23 @@
               "icon": "lucide-file",
               "title": "Helm Command for installing Kube-Prometheus-Stack"
             }
+          },
+          {
+            "id": "baeb37af7d544cbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software/Monitoring/Prometheus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prometheus"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kubectl ",
+                "query": "load balancer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,8 +101,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -219,6 +194,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -226,59 +202,59 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5bb290de6bf0d065",
+  "active": "db58ef4e00ce29e7",
   "lastOpenFiles": [
+    "Software/Monitoring/Prometheus.md",
+    "Software/Testing/L&P.md",
+    "conflict-files-obsidian-git.md",
     "Software/Testing/K6/Running K6 Job in Kubernetes.md",
-    "Software/Devops/Containerization and Orchestration/Kubernetes/Commands.md",
+    "Software/Testing/K6",
     "Software/Monitoring/Prometheus & Grafana/Helm Command for installing Kube-Prometheus-Stack.md",
-    "Excalidraw/Drawing 2025-11-25 15.46.32.excalidraw.md",
-    "Software/DSA & LeetCode/Top DSA Problem.md",
+    "Software/Monitoring/Prometheus & Grafana",
+    "Software/Monitoring",
+    "Software/Devops/Untitled 1.md",
+    "Software/Devops/Containerization and Orchestration/Kubernetes/Commands.md",
     "Software/DSA & LeetCode/Time Complexity.md",
     "Pasted image 20251125154607.png",
-    "Software/Monitoring/Prometheus.md",
-    "Software/Jenkins/Jenkins CLI.md",
-    "Software/Marketing/Marketing terms.md",
-    "Software/Monitoring",
+    "Excalidraw/Drawing 2025-11-25 15.46.32.excalidraw.md",
     "Software/Testing/Performance Testing.md",
-    "Software/Testing/K6",
-    "Software/Devops/Untitled 1.md",
-    "Software/Monitoring/Prometheus & Grafana",
-    "Software/Kubernetes/Pods.md",
-    "Software/Templates/Concept.md",
-    "Software/Networking/P2P communication/WebRTC/ICE Candidates.md",
-    "Software/Networking/NAT Types.md",
-    "Software/Testing/images/Types of performance testing.png",
-    "Software/Testing/L&P.md",
     "Software/Testing/images",
+    "Software/Testing/images/Types of performance testing.png",
+    "Software/System Design/LoadBalancer/Load Balancer.md",
+    "Software/Cryptography/Cryptography.md",
     "Software/Testing",
+    "Software/System Design/LoadBalancer/LoadBalancer.canvas",
+    "Software/System Design/Encryption & Security/Security rules for Developers.md",
+    "Software/System Design/Encryption & Security/Encryption & Security Fundamentals for Developers.md",
+    "Software/System Design/Encryption & Security",
+    "Software/Networking/images/peer-to-peer communication.png",
+    "Software/Networking/P2P communication/WebRTC/WebRTC offer answer flow.md",
+    "Software/Networking/P2P communication/WebRTC/TURN.md",
+    "Software/Networking/P2P communication/WebRTC/STUN.md",
+    "Software/Networking/P2P communication/WebRTC/ICE Candidates.md",
+    "Software/Networking/P2P communication/WebRTC",
+    "Software/Networking/P2P communication/Peer to Peer Communication.md",
+    "Software/Networking/P2P communication",
+    "Software/Networking/NAT Types.md",
+    "Software/Networking/Ephemeral Port.md",
+    "Software/Cryptography/images/Cryptography.png",
+    "Software/Cryptography/images/Cryptography types.png",
+    "Software/Cryptography/RSA.md",
     "Excalidraw/Drawing 2025-11-15 10.29.14.excalidraw.md",
     "Excalidraw",
-    "Software/Networking/P2P communication/WebRTC/WebRTC offer answer flow.md",
-    "Software/Networking/P2P communication/WebRTC/STUN.md",
-    "Software/Networking/P2P communication/WebRTC/TURN.md",
-    "Software/Networking/P2P communication/Peer to Peer Communication.md",
-    "Software/Networking/images/peer-to-peer communication.png",
-    "Software/Networking/Ephemeral Port.md",
-    "Software/Networking/NAT.md",
-    "Software/Networking/Network Address Translation (NAT).md",
-    "Software/Networking/P2P communication",
-    "Software/System Design/SLA (Service Level Aggrement).md",
-    "Software/Networking/P2P communication/WebRTC",
-    "Software/Cryptography/Cryptography.md",
-    "Software/Cryptography/images/Cryptography types.png",
-    "Software/Cryptography/images/Cryptography.png",
-    "Software/System Design/LoadBalancer/LoadBalancer.canvas",
-    "Software/Cryptography/images/HMac.png",
-    "Software/System Design/Encryption & Security",
     "Untitled.canvas",
+    "Software/SAAS/Multi-Tenant SaaS Database Architecture.md",
     "Software/SAAS",
+    "Software/Database/Redis/Redis Geospatial Index.md",
+    "Software/Cryptography/Hash.md",
+    "Software/Cryptography/images/HMac.png",
     "Pasted image 20250703123121.png",
     "Pasted image 20251010102058.png",
     "Software/Networking/images/routing_protocols.png",
+    "Software/System Design/LoadBalancer.canvas",
     "Software/Networking/images/OSI_layer.png",
     "Software/Java/Core Java/Thread/Untitled.canvas",
     "Untitled 1.canvas"
