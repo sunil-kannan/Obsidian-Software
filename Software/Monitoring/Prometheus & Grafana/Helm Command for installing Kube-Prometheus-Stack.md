@@ -28,6 +28,8 @@ helm upgrade --install prometheus prometheus-community/kube-prometheus-stack \
   --set prometheus.prometheusSpec.enableRemoteWriteReceiver=true \
   --set prometheus.prometheusSpec.enableFeatures[0]=remote-write-receiver
   --set prometheus.prometheusSpec.enableFeatures[1]=web.enable-remote-write-receiver
+  --set alertmanager.alertmanagerSpec.alertmanagerConfigSelector.matchLabels.app=discord-alerts
+
 ```
 
 
