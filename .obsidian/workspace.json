@@ -25,12 +25,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Monitoring/Prometheus & Grafana/Helm Command for installing Kube-Prometheus-Stack.md",
+                "file": "Software/Monitoring/Prometheus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Helm Command for installing Kube-Prometheus-Stack"
+              "title": "Prometheus"
+            }
+          },
+          {
+            "id": "80fc112e07c6c6cb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
             }
           },
           {
@@ -48,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,14 +217,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db58ef4e00ce29e7",
+  "active": "80fc112e07c6c6cb",
   "lastOpenFiles": [
+    "Software/Monitoring/Prometheus & Grafana/Helm Command for installing Kube-Prometheus-Stack.md",
     "Software/Monitoring/Prometheus.md",
     "Software/Testing/L&P.md",
     "conflict-files-obsidian-git.md",
     "Software/Testing/K6/Running K6 Job in Kubernetes.md",
     "Software/Testing/K6",
-    "Software/Monitoring/Prometheus & Grafana/Helm Command for installing Kube-Prometheus-Stack.md",
     "Software/Monitoring/Prometheus & Grafana",
     "Software/Monitoring",
     "Software/Devops/Untitled 1.md",
