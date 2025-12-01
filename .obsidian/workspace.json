@@ -63,12 +63,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Monitoring/Prometheus & Grafana/Helm Command for installing Kube-Prometheus-Stack.md",
+                "file": "Software/Monitoring/Prometheus & Grafana/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Helm Command for installing Kube-Prometheus-Stack"
+              "title": "Untitled"
             }
           }
         ],
@@ -125,8 +125,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -232,14 +231,15 @@
   },
   "active": "5bb290de6bf0d065",
   "lastOpenFiles": [
+    "Software/Monitoring/Prometheus & Grafana/Helm Command for installing Kube-Prometheus-Stack.md",
+    "Software/Monitoring/Prometheus & Grafana/Untitled.md",
+    "Software/Monitoring/Prometheus.md",
     "Software/Testing/K6/Running K6 Job in Kubernetes.md",
     "Software/Devops/Containerization and Orchestration/Kubernetes/Commands.md",
-    "Software/Monitoring/Prometheus & Grafana/Helm Command for installing Kube-Prometheus-Stack.md",
     "Excalidraw/Drawing 2025-11-25 15.46.32.excalidraw.md",
     "Software/DSA & LeetCode/Top DSA Problem.md",
     "Software/DSA & LeetCode/Time Complexity.md",
     "Pasted image 20251125154607.png",
-    "Software/Monitoring/Prometheus.md",
     "Software/Jenkins/Jenkins CLI.md",
     "Software/Marketing/Marketing terms.md",
     "Software/Monitoring",
@@ -268,7 +268,6 @@
     "Software/Networking/P2P communication",
     "Software/System Design/SLA (Service Level Aggrement).md",
     "Software/Networking/P2P communication/WebRTC",
-    "Software/Cryptography/Cryptography.md",
     "Software/Cryptography/images/Cryptography types.png",
     "Software/Cryptography/images/Cryptography.png",
     "Software/System Design/LoadBalancer/LoadBalancer.canvas",
