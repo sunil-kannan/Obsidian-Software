@@ -9,6 +9,9 @@ link:
 
 Prometheus is an open-source **monitoring and alerting** system designed for reliability and scalability. It collects metrics, stores them in a time-series database, and lets you query them using **PromQL**.
 
+![[prometheus.gif]]
+
+
 ---
 
 ## 🏗 Architecture Components
@@ -44,3 +47,4 @@ Prometheus is an open-source **monitoring and alerting** system designed for rel
 
 - Visualization tool.
 - Prometheus acts as a datasource.
+
