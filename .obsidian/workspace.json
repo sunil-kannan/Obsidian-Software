@@ -108,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kubectl ",
+                "query": "service mesh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +129,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -233,7 +234,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "37acb1727216b25e",
+  "active": "78a1d4f42e0f704d",
   "lastOpenFiles": [
     "Software/Java/Spring Boot/Jpa/JPA.md",
     "Software/Java/Spring Boot/Jpa/Transactional.md",
