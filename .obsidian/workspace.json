@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Java/Spring Boot/Jpa/Transactional.md",
+                "file": "Software/Java/Core Java/Thread/Virtual Thread (Java 21).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transactional"
+              "title": "Virtual Thread (Java 21)"
             }
           },
           {
@@ -129,8 +129,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -234,10 +233,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "78a1d4f42e0f704d",
+  "active": "37acb1727216b25e",
   "lastOpenFiles": [
-    "Software/Java/Spring Boot/Jpa/JPA.md",
+    "Software/Java/Core Java/Thread/Compare-and-Swap.md",
+    "Software/Java/Core Java/Thread/Thread.md",
     "Software/Java/Spring Boot/Jpa/Transactional.md",
+    "Software/Java/Spring Boot/Jpa/JPA.md",
     "Software/Java/Spring Boot/Jpa/Entity Life Cycle.md",
     "Software/Encoding and Base64.md",
     "Software/Aptitude.md",
@@ -268,8 +269,6 @@
     "Software/Testing/K6",
     "Software/Devops/Untitled 1.md",
     "Software/Monitoring/Prometheus & Grafana",
-    "Software/Kubernetes/Pods.md",
-    "Software/Templates/Concept.md",
     "Software/Testing/images/Types of performance testing.png",
     "Software/Testing/images",
     "Software/Testing",
