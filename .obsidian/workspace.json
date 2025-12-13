@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Java/Core Java/Thread/Virtual Thread (Java 21).md",
+                "file": "Software/Kafka/Kafka Internals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Virtual Thread (Java 21)"
+              "title": "Kafka Internals"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "service mesh",
+                "query": "sequential",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +129,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -235,6 +236,9 @@
   },
   "active": "37acb1727216b25e",
   "lastOpenFiles": [
+    "Software/Database/internals/B Trees and B+ trees.md",
+    "Software/Database/internals/DISK and RAM.md",
+    "Software/Java/Core Java/Thread/Virtual Thread (Java 21).md",
     "Software/Java/Core Java/Thread/Compare-and-Swap.md",
     "Software/Java/Core Java/Thread/Thread.md",
     "Software/Java/Spring Boot/Jpa/Transactional.md",
@@ -263,11 +267,8 @@
     "Software/DSA & LeetCode/Top DSA Problem.md",
     "Software/DSA & LeetCode/Time Complexity.md",
     "Pasted image 20251125154607.png",
-    "Software/Jenkins/Jenkins CLI.md",
-    "Software/Marketing/Marketing terms.md",
     "Software/Monitoring",
     "Software/Testing/K6",
-    "Software/Devops/Untitled 1.md",
     "Software/Monitoring/Prometheus & Grafana",
     "Software/Testing/images/Types of performance testing.png",
     "Software/Testing/images",
