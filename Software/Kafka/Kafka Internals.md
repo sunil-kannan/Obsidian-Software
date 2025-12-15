@@ -40,3 +40,11 @@ To understand the zero-copy principle and how it benefits Kafka go to [Zero copy
 * [Kafka Basics](https://vivekbansal.substack.com/p/kafka-basics)
 * [What makes Kafka so fast and efficient](https://vivekbansal.substack.com/p/what-makes-kafka-so-fast-and-efficient)
 * 
+
+## 3. Batching and Compression
+
+Kafka batches and compresses messages:
+
+- Reduces disk and network usage
+- Improves efficiency per I/O operation
+- Compression (Snappy, LZ4, Zstd) lowers footprint without much CPU cost
