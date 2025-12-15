@@ -48,3 +48,33 @@ Kafka batches and compresses messages:
 - Reduces disk and network usage
 - Improves efficiency per I/O operation
 - Compression (Snappy, LZ4, Zstd) lowers footprint without much CPU cost
+
+## 4. Partitioning for Scalability
+
+Kafka partitions topics:
+
+- Parallel writes from producers
+- Parallel reads from consumer groups
+- Adding partitions = more throughput
+
+## 5. Tunable Acknowledgments
+Kafka producers control delivery semantics:
+
+- acks=0 for fire-and-forget
+- acks=1 for leader-only durability
+- acks=all for strongest guarantees
+This lets teams balance latency, throughput, and durability.
+
+## 6. Lightweight Storage
+Kafka avoids complex data structures:
+
+Just flat files with offset indexes
+Minimal CPU and memory overhead
+Predictable, linear performance
+
+## 7. Decoupled Consumers
+Kafka brokers don’t track consumer state:
+
+Each consumer manages its own offset
+Slow consumers don’t impact producers
+Kafka doesn’t suffer from backpressure
