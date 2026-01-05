@@ -6,7 +6,7 @@ link: "[[System Design]]"
 
 # Security rules for Developers
 
-> A blog is just like having a long conversation with people, so it should make sense that things you enjoy talking about will be closely related to your passion.
+> Security is as much as important while developing the Software. Safeguarding user's data is inevitable, we are going to look into some functionalities how we can safeguard the user data.
 
 
 

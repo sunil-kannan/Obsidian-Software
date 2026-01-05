@@ -12,7 +12,7 @@ link:
 
 These load balancers are classified by the way they manage and distribute network traffic. They operate at different layers (network, transport, or application) to ensure efficient request handling and high availability.
 
-###  ****Layer 4 (L4) Load Balancer/Network Load Balancer****
+###  **Layer 4 (L4) Load Balancer/Network Load Balancer**
 
 Layer-4 load balancers operate at the transport layer of the OSI model. They make forwarding decisions based on information available in network layer protocols (such as IP addresses and port numbers).
 
@@ -40,7 +40,7 @@ Layer-4 load balancers operate at the transport layer of the OSI model. They mak
 > It can only forward packets to backend servers based on **IP + port**, or sometimes additional L4 info like TCP flags.
 
 
-### ****Layer 7 (L7) Load Balancer/Application Load Balancer****
+### **Layer 7 (L7) Load Balancer/Application Load Balancer**
 
 Layer-7 load balancers operate at the application layer of the OSI model. They can make load balancing decisions based on content, including information such as URLs, HTTP headers, or cookies.
 
@@ -50,3 +50,8 @@ Layer-7 load balancers operate at the application layer of the OSI model. They c
 - ****Content-Based Routing:**** Distributes traffic based on content-specific information.
 - ****Advanced Routing:**** Can make intelligent routing decisions based on application-specific data.
 - ****SSL Termination:**** Capable of terminating SSL connections.
+
+
+### **Global Server Load Balancer/Multi-site Load Balancer**
+
+With the increasing number of applications being hosted in cloud data centers, located at varied geographies, the GSLB extends the capabilities of general L4 and L7 across various data centers facilitating the efficient global load distribution, without degrading the experience for end users. In addition to the efficient traffic balancing, multi-site load balancers also help in quick recovery and seamless business operations, in case of server disaster or disaster at any data center, as other data centers at any part of the world can be used for business continuity.

@@ -37,14 +37,12 @@
             "id": "5bb290de6bf0d065",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Software/Interview/Resume.md",
-                "mode": "source",
-                "source": false
+                "file": "Software/System Design/Data modelling/Data Modeling.excalidraw"
               },
-              "icon": "lucide-file",
-              "title": "Resume"
+              "icon": "excalidraw-icon",
+              "title": "Data Modeling"
             }
           },
           {
@@ -53,16 +51,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/1. Rough notes/RoughNote 1.md",
+                "file": "Software/System Design/LoadBalancer/Types of Load Balancing algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RoughNote 1"
+              "title": "Types of Load Balancing algorithm"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -219,37 +217,37 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f6136e83a49f3948",
+  "active": "db608731ec13c2d1",
   "lastOpenFiles": [
+    "Software/System Design/LoadBalancer/Load Balancer.md",
+    "Software/System Design/LoadBalancer/GSLB (Global Server Load Balancer).md",
+    "Software/System Design/LoadBalancer/Types of Load Balancing algorithm.md",
+    "Software/System Design/LoadBalancer/LoadBalancer.canvas",
+    "Software/System Design/Encryption & Security/Security rules for Developers.md",
+    "Software/System Design/Encryption & Security/Encryption & Security Fundamentals for Developers.md",
     "Software/1. Rough notes/RoughNote 1.md",
-    "Software/Monitoring/Prometheus & Grafana/Helm Command for installing Kube-Prometheus-Stack.md",
+    "Software/System Design/Data modelling/Data Modeling.excalidraw",
+    "Software/System Design/Co-ordination Protocol/Gossip Protocol.md",
+    "Software/System Design/Co-ordination Protocol/Consensus Algorithms.md",
+    "Software/System Design/cloudflare/Cloudflare.md",
+    "Software/System Design/cloudflare/Anycast Routing.md",
+    "Software/System Design/cloudflare/DDoS and AIBot Protection.md",
+    "Software/System Design/cloudflare/Key Reasons Companies Adopt Cloudflare.md",
     "Software/Interview/Resume.md",
+    "Software/Monitoring/Prometheus & Grafana/Helm Command for installing Kube-Prometheus-Stack.md",
     "Software/Templates/Daily note.md",
     "Software/Devops/Types of Linux Namespaces.md",
     "Software/System Design/API/Signed URL.md",
     "Software/Java/Spring Boot/Maven.md",
     "Software/System Design/SLA (Service Level Aggrement).md",
     "Software/System Design/How Video streaming works.md",
-    "Software/System Design/cloudflare/Key Reasons Companies Adopt Cloudflare.md",
-    "Software/System Design/cloudflare/Cloudflare.md",
-    "Software/System Design/cloudflare/DDoS and AIBot Protection.md",
-    "Software/System Design/cloudflare/Anycast Routing.md",
     "Software/Monitoring/Prometheus & Grafana/Untitled.md",
     "Software/Interview",
     "Software/System Design/Data modelling",
     "Excalidraw/Drawing 2025-11-15 10.29.14.excalidraw.md",
-    "Software/System Design/Data modelling/Data Modeling.excalidraw",
     "Excalidraw/Drawing 2025-11-25 15.46.32.excalidraw.md",
     "Software/Java/Core Java/Thread/Compare-and-Swap.md",
     "Software/Java/Core Java/Thread/Virtual Thread (Java 21).md",
-    "Software/Java/Core Java/Thread/MultiThreading.md",
-    "Software/Java/Core Java/Thread/Thread.md",
-    "Software/Kafka/Kafka Internals.md",
-    "Software/Database/internals/B Trees and B+ trees.md",
-    "Software/Database/internals/DISK and RAM.md",
-    "Software/Java/Spring Boot/Jpa/Transactional.md",
-    "Software/Java/Spring Boot/Jpa/JPA.md",
-    "Software/Java/Spring Boot/Jpa/Entity Life Cycle.md",
     "Software/Java/Core Java/Thread/Untitled.canvas",
     "Software Books/Silverston, Len - The data model resource book Vol. 1, A library of unversal data models for all enterprises (2001, Wiley) - libgen.li.pdf",
     "Software/Monitoring/images/prometheus.gif",
@@ -264,7 +262,6 @@
     "Software/Networking/images/peer-to-peer communication.png",
     "Software/Cryptography/images/Cryptography types.png",
     "Software/Cryptography/images/Cryptography.png",
-    "Software/System Design/LoadBalancer/LoadBalancer.canvas",
     "Software/Cryptography/images/HMac.png",
     "Untitled.canvas",
     "Pasted image 20250703123121.png",
