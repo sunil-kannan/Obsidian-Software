@@ -8,16 +8,26 @@ link:
 
 > A blog is just like having a long conversation with people, so it should make sense that things you enjoy talking about will be closely related to your passion.
 
-
 ### 1. Batching & Group Commit
 
 Databases don't write each record individually to disk immediately:
 
 - **Write-ahead Logging (WAL)**: Writes are first appended to a sequential log file (very fast, ~100K ops/sec)
-    
 - **Group Commit**: Multiple transactions are committed together in one disk operation
-    
 - **Buffer Pool**: Data is first written to memory, then flushed to disk in batches
+
+### 2. Optimized Write Path
+
+```
+Application → Memory Buffer (1ms) → Write-ahead Log (fast append) → 
+Background Flush to Tables (async) → Replication (async)
+```
+
+### 3. Modern Storage Performance
+
+- **NVMe SSD**: 500,000-1,000,000 IOPS (Input/Output Operations Per Second)
+- **SATA SSD**: ~100,000 IOPS
+- Even a single NVMe drive could technically handle 12K writes easily
 
 
 ## Database Performance Benchmarks
