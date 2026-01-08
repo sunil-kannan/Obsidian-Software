@@ -92,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "resource",
+                "query": "norma",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +113,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -217,7 +218,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "db608731ec13c2d1",
+  "active": "78a1d4f42e0f704d",
   "lastOpenFiles": [
     "Software/Database/Virtual Node.md",
     "Software/Database/Single-Node Database Capacity.md",
