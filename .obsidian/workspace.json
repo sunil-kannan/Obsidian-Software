@@ -92,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "norma",
+                "query": "sservi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +113,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -217,13 +218,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "db608731ec13c2d1",
+  "active": "78a1d4f42e0f704d",
   "lastOpenFiles": [
+    "Software/Devops/Containerization and Orchestration/Kubernetes/Cluster.md",
+    "Software/Devops/Types of Linux Namespaces.md",
+    "Software/Devops/NameSpace.md",
+    "Software/Devops/Untitled.md",
+    "Software/Devops/Containerization and Orchestration/Kubernetes/Kubernetes Architecture.md",
     "Software/Devops/Containerization and Orchestration/Kubernetes/SSL Termination in OpenShift.md",
     "Software/Devops/Containerization and Orchestration/Kubernetes/NameSpace.md",
     "Software/Devops/Containerization and Orchestration/Kubernetes/Commands.md",
-    "Software/Devops/Containerization and Orchestration/Kubernetes/Cluster.md",
-    "Software/Devops/Containerization and Orchestration/Kubernetes/Kubernetes Architecture.md",
     "Software/Java/Version/LTS & Main version.md",
     "Software/Java/Version/Java 11 & 12.md",
     "Software/Java/Core Java/Thread/Virtual Thread (Java 21).md",
@@ -244,10 +248,7 @@
     "Software/System Design/LoadBalancer/LoadBalancer.canvas",
     "Software/System Design/Encryption & Security/Security rules for Developers.md",
     "Software/System Design/Encryption & Security/Encryption & Security Fundamentals for Developers.md",
-    "Software/1. Rough notes/RoughNote 1.md",
     "Software/System Design/Data modelling/Data Modeling.excalidraw",
-    "Software/System Design/Co-ordination Protocol/Gossip Protocol.md",
-    "Software/System Design/Co-ordination Protocol/Consensus Algorithms.md",
     "Software/Interview",
     "Software/System Design/Data modelling",
     "Software/Java/Core Java/Thread/Untitled.canvas",
