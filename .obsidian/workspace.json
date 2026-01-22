@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/System Design/SLA (Service Level Aggrement).md",
+                "file": "Software/System Design/Virtualization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SLA (Service Level Aggrement)"
+              "title": "Virtualization"
             }
           }
         ],
@@ -113,8 +113,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -220,6 +219,14 @@
   },
   "active": "db608731ec13c2d1",
   "lastOpenFiles": [
+    "Software/System Design/Study Strategy.md",
+    "Software/System Design/Project/TinyUrl.md",
+    "Software/System Design/Encryption & Security/Encryption & Security Fundamentals for Developers.md",
+    "Software/System Design/Fault tolerance/Fault-tolerance or Resilient.md",
+    "Software/System Design/Data modelling/Data Modeling.excalidraw",
+    "Software/System Design/SLA (Service Level Aggrement).md",
+    "Software/Devops/Untitled 1.md",
+    "Software/Devops/Untitled.md",
     "Software/Testing/Performance Testing.md",
     "Software/Networking/P2P communication/Peer to Peer Communication.md",
     "Software/Java/Core Java/Architecture and Memory management/Java Garbage Collection Evolution.md",
@@ -229,7 +236,6 @@
     "Software/Devops/Containerization and Orchestration/Kubernetes/Cluster.md",
     "Software/Devops/Types of Linux Namespaces.md",
     "Software/Devops/NameSpace.md",
-    "Software/Devops/Untitled.md",
     "Software/Devops/Containerization and Orchestration/Kubernetes/SSL Termination in OpenShift.md",
     "Software/Devops/Containerization and Orchestration/Kubernetes/NameSpace.md",
     "Software/Devops/Containerization and Orchestration/Kubernetes/Commands.md",
@@ -240,15 +246,8 @@
     "Software/Java/Core Java/Thread/MultiThreading.md",
     "Software/Java/Core Java/Collections/HashMap.md",
     "Software/Java/Core Java/Architecture and Memory management/JDK vs JRE vs JVM.md",
-    "Software/Java/Core Java/Architecture and Memory management/HashCode.md",
-    "Software/Java/Core Java/Architecture and Memory management/Garbage Collector (GC).md",
-    "Software/Database/Single-Node Database Capacity.md",
-    "Software/Database/Virtual Node.md",
-    "Software/System Design/Fault tolerance/Fault-tolerance or Resilient.md",
-    "Software/System Design/LoadBalancer/Types of Load Balancing algorithm.md",
     "Software/System Design/Fault tolerance",
     "Software/System Design/LoadBalancer/LoadBalancer.canvas",
-    "Software/System Design/Data modelling/Data Modeling.excalidraw",
     "Software/Interview",
     "Software/System Design/Data modelling",
     "Software/Java/Core Java/Thread/Untitled.canvas",
