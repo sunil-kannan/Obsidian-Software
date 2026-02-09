@@ -1,7 +1,7 @@
 ---
-date: "2025-11-04"
-tags: 
-link:
+date: 2025-11-04
+tags:
+link: "[[JavaScript]]"
 ---
 
 # 🧩 Network Address Translation (NAT) — Deep Dive
@@ -20,11 +20,12 @@ NAT was introduced to **conserve IPv4 addresses** and **hide internal networks**
 
 Private IP ranges (as defined by RFC 1918):
 
-| Range | CIDR | Addresses |
-|--------|------|-----------|
-| 10.0.0.0 – 10.255.255.255 | 10.0.0.0/8 | 16,777,216 |
-| 172.16.0.0 – 172.31.255.255 | 172.16.0.0/12 | 1,048,576 |
-| 192.168.0.0 – 192.168.255.255 | 192.168.0.0/16 | 65,536 |
+| Range                         | CIDR           | Addresses  |
+| ----------------------------- | -------------- | ---------- |
+| 10.0.0.0 – 10.255.255.255     | 10.0.0.0/8     | 16,777,216 |
+| 172.16.0.0 – 172.31.255.255   | 172.16.0.0/12  | 1,048,576  |
+| 192.168.0.0 – 192.168.255.255 | 192.168.0.0/16 | 65,536     |
+|                               |                |            |
 
 These addresses **cannot be routed on the Internet**, and NAT translates them into **a public IP** when packets leave the network.
 

@@ -13,7 +13,7 @@ When your Spring Boot app makes outbound HTTP calls (to another microservice or 
 Opening a new HTTP connection involves:
 
 1. DNS lookup  
-2. TCP 3-way handshake  
+2. TCP 3-way handshake
 3. (Optional) SSL/TLS handshake  
 4. Sending the HTTP request and waiting for the response  
 
