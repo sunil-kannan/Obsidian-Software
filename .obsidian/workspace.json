@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/System Design/Monitoring, Logging & Tracing/Introduction.md",
+                "file": "Software/Database/Optimistic and Pessimistic Locking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "Optimistic and Pessimistic Locking"
             }
           }
         ],
@@ -220,6 +220,8 @@
   },
   "active": "db608731ec13c2d1",
   "lastOpenFiles": [
+    "Software/System Design/Monitoring, Logging & Tracing/Introduction.md",
+    "Software/Database/Optimistic and Pessimistic Locking.md",
     "Software/System Design/Project/TinyUrl.md",
     "digital-signatures.md",
     "blockchain-hashing.md",
@@ -244,8 +246,6 @@
     "Software/Java/MicroServices/Config Server.md",
     "Software/Java/MicroServices/Circuit Breaker Pattern.md",
     "Software/Java/MicroServices/12-Factor Principle.md",
-    "Software/Java/MicroServices/Design Patterns.md",
-    "Software/Java/MicroServices/Orchestration vs Choreography.md",
     "Software/System Design/LoadBalancer/LoadBalancer.canvas",
     "Software/System Design/Data modelling/Data Modeling.excalidraw",
     "Software/System Design/Fault tolerance",
