@@ -12,30 +12,30 @@ There are three type of testing
 2. integration - integrate multi modules here to validate
 3. end to end - testing as user point 
 
-Isolation
+### Isolation
 - Isolation is core principle because, the unit test focus on checks particular logic how does it will work.
 - Never wait external dependencies like database connectivity, because it should identity how does the particular working, and easy to focus edge case also. because if it fail easy to identity where and why it failed.
 
-how to achieve isolation
+### how to achieve isolation
 - Mock - mock depended object or dependency works like real one.
 - Flaking - Use memory database for real one.
 - Stubbing - Setup before runs particular method or class all the necessary to stub.	 
 - DI - direct inject to depends objects.
 
-Testing structure(AAA patterns)
+### Testing structure(AAA patterns)
 1. Arrange - before start test setup the env
 2. Act - Test the actual 
 3. Assert - checks expected result.
 
-TDD - BDD
+### TDD - BDD
 - TDD  is a Test Driven Development used to write test mechanism before writes actual code.
 	1. RED is not yet creates actual code. under development or need to change the logic and to pass the test case.
 	2. Green is the code written and test result as pass.
 	3. Refactor is to add new think or make code to optimization.
-BDD
+### BDD
 - BDD is Behaviour Driven Development // Todo
 
-Assertion and Matchers
+### Assertion and Matchers
 - Assertion is used to match the result and expected output.
 - Junit Assertion methods (basic)
 	1. assertionEquals()
@@ -74,7 +74,7 @@ Full Assertion list
 - assertTrue(boolean condition, ...)
 - assertFalse(boolean condition, ...)
 
-UnitTest lifecycle
+### UnitTest lifecycle
 - @BeforeAll - run once if present. by default it's static method if instance creates in class it will becomes instance methods. it runs only once.
 - Creates object for @test if it method.
 - @BeforeEach (junit4 @Before) - Before run each @Test, @RepeatedTest, @parametarizedTest method
@@ -102,12 +102,12 @@ Timeout habdling
 	@Timeout(values = 2, unit = TimeUnit.SECONDS)
 	assertTimeout(Duration.ofMillis(500), )
 
-Mock
+#### Mock
 - Mock is replace a real one. or mock is proxy object of implements interface or extends class.
 - Simulate success, failure act as real object.
 - Junit5 never pass class as parameter, it takes by reference.
-Stub
+#### Stub
 - Stub is sub process of mock, mock is creates for proxy objects so, it should be returns if method has returns.
-Spy
+#### Spy
 - Spy is a partial mock, it executes real code. if spy or particular method has stubbing, it defiantly returns stub's value. 
 
