@@ -221,7 +221,9 @@
   "active": "db608731ec13c2d1",
   "lastOpenFiles": [
     "Software/Java/Core Java/Architecture and Memory management/HashCode.md",
+    "Software/Java/Core Java/Architecture and Memory management/JDK vs JRE vs JVM.md",
     "Software/Java/Core Java/Architecture and Memory management/Garbage Collector (GC).md",
+    "Software/Java/Core Java/Architecture and Memory management/Java Garbage Collection Evolution.md",
     "Software/Java/Testing/Testing.md",
     "Software/System Design/Low Level System Design/SOLID Principle.md",
     "Software/System Design/Low Level System Design/Key Concepts.md",
@@ -245,8 +247,6 @@
     "Software/Networking/HTTP/HOL Blocking.md",
     "Software/Networking/HTTP/HTTP.md",
     "Software/Networking/TLS Handshake.md",
-    "Software/Networking/Traceroute.md",
-    "Software/Networking/TLS Ephemeral Key Exchange (ECDHE).md",
     "Software/System Design/LoadBalancer/LoadBalancer.canvas",
     "Software/System Design/Data modelling/Data Modeling.excalidraw",
     "Software/System Design/Fault tolerance",
