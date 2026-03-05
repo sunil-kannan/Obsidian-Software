@@ -37,12 +37,14 @@
             "id": "5bb290de6bf0d065",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Software/System Design/Data modelling/Data Modeling.excalidraw"
+                "file": "Software/Networking/HTTP/HOL Blocking.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Data Modeling"
+              "icon": "lucide-file",
+              "title": "HOL Blocking"
             }
           },
           {
@@ -58,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -216,8 +218,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f6136e83a49f3948",
+  "active": "5bb290de6bf0d065",
   "lastOpenFiles": [
+    "Software/Networking/HTTP/Evolution/Evolution of HTTP.md",
+    "Software/System Design/Study Strategy.md",
+    "Software Books/Silverston, Len - The data model resource book Vol. 1, A library of unversal data models for all enterprises (2001, Wiley) - libgen.li.pdf",
     "Software Books/Introduction to Cryptography.pdf",
     "Software/Testing/Performance Testing.md",
     "Software/Security/Basics.md",
@@ -243,7 +248,6 @@
     "Software/Database/internals/ACID.md",
     "Software/Database/internals/B Trees and B+ trees.md",
     "Software/Database/internals/DISK and RAM.md",
-    "Software/Database/internals/Database Pages.md",
     "Software/Java/Testing",
     "Software/System Design/LoadBalancer/LoadBalancer.canvas",
     "Software/System Design/Data modelling/Data Modeling.excalidraw",
@@ -251,13 +255,11 @@
     "Software/Interview",
     "Software/System Design/Data modelling",
     "Software/Java/Core Java/Thread/Untitled.canvas",
-    "Software Books/Silverston, Len - The data model resource book Vol. 1, A library of unversal data models for all enterprises (2001, Wiley) - libgen.li.pdf",
     "Software/Monitoring/images/prometheus.gif",
     "Software/Monitoring/images",
     "Pasted image 20251125154607.png",
     "Software/Monitoring",
     "Software/Testing/K6",
-    "Software/Monitoring/Prometheus & Grafana",
     "Software/Testing/images/Types of performance testing.png",
     "Software/Networking/images/peer-to-peer communication.png",
     "Software/Cryptography/images/Cryptography types.png",
