@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Devops/Containerization and Orchestration/Kubernetes/SSL Termination in OpenShift.md",
+                "file": "Software/DSA & LeetCode/Top DSA Problem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SSL Termination in OpenShift"
+              "title": "Top DSA Problem"
             }
           },
           {
@@ -92,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ssl termination",
+                "query": "leetc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -221,6 +221,7 @@
   },
   "active": "5bb290de6bf0d065",
   "lastOpenFiles": [
+    "Software/Devops/Containerization and Orchestration/Kubernetes/SSL Termination in OpenShift.md",
     "Software/System Design/LoadBalancer/Load Balancer.md",
     "Software/Networking/HTTP/HOL Blocking.md",
     "Software/DSA & LeetCode/Top DSA Problem.md",
@@ -248,7 +249,6 @@
     "Software/Java/Version/Java 9 & 10.md",
     "Software/System Design/API/Protocol Buffers.md",
     "Software/System Design/API/API Communication Protocols or Styles.md",
-    "Software/Database/internals/Isolation.md",
     "Software/Java/Testing",
     "Software/System Design/LoadBalancer/LoadBalancer.canvas",
     "Software/System Design/Data modelling/Data Modeling.excalidraw",
