@@ -232,10 +232,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f6136e83a49f3948",
+  "active": "0d820ca25fe231b4",
   "lastOpenFiles": [
     "Software/Java/Core Java/Architecture and Memory management/Java Garbage Collection Evolution.md",
     "Software/Java/Core Java/Architecture and Memory management/HashCode.md",
+    "Software/Java/Core Java/Architecture and Memory management/JDK vs JRE vs JVM.md",
     "Software/Java/Core Java/Architecture and Memory management/Garbage Collector (GC).md",
     "Software/Java/Version/LTS & Main version.md",
     "Software/DSA & LeetCode/Top DSA Problem.md",
@@ -261,7 +262,6 @@
     "Software/Java/Spring Boot/Jpa/JPA.md",
     "Software/Java/Spring Boot/Jpa/Entity Life Cycle.md",
     "Software/Java/Version/Java 11 & 12.md",
-    "Software/Java/Version/Java 13 & 14.md",
     "Software/Java/Testing",
     "Software/System Design/LoadBalancer/LoadBalancer.canvas",
     "Software/System Design/Data modelling/Data Modeling.excalidraw",
