@@ -60,9 +60,21 @@
               "icon": "lucide-file",
               "title": "Prometheus"
             }
+          },
+          {
+            "id": "a7bddb8d02727774",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -219,7 +231,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6136e83a49f3948",
+  "active": "a7bddb8d02727774",
   "lastOpenFiles": [
     "Software/Java/images/Java evolution.png",
     "Software/Monitoring/Prometheus & Grafana/ddd.md",
