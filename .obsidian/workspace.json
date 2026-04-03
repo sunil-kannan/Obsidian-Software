@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Java/Core Java/Association, Composition, and Aggregation.md",
+                "file": "Software/Java/Version/LTS & Main version.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Association, Composition, and Aggregation"
+              "title": "LTS & Main version"
             }
           }
         ],
@@ -115,8 +115,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -222,6 +221,7 @@
   },
   "active": "baeb37af7d544cbb",
   "lastOpenFiles": [
+    "Software/Java/Core Java/Association, Composition, and Aggregation.md",
     "Software/System Design/Low Level System Design/Key Concepts.md",
     "Software/Java/Spring Boot/Exception Heirarchy.md",
     "Software/Java/Spring Boot/HTTP Connection Pooling in Spring Boot.md",
@@ -260,7 +260,6 @@
     "Software/Monitoring",
     "Software/Devops/Untitled 1.md",
     "Software/Devops/Containerization and Orchestration/Kubernetes/Commands.md",
-    "Software/DSA & LeetCode/Time Complexity.md",
     "Pasted image 20251125154607.png",
     "Software/Testing/images/Types of performance testing.png",
     "Software/System Design/LoadBalancer/LoadBalancer.canvas",
