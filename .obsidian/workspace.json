@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Java/Version/LTS & Main version.md",
+                "file": "Software/Java/Core Java/String.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LTS & Main version"
+              "title": "String"
             }
           }
         ],
@@ -221,6 +221,9 @@
   },
   "active": "baeb37af7d544cbb",
   "lastOpenFiles": [
+    "Software/Java/Version/LTS & Main version.md",
+    "Software/Java/Core Java/String.md",
+    "Software/Java/Core Java/Untitled",
     "Software/Java/Core Java/Association, Composition, and Aggregation.md",
     "Software/System Design/Low Level System Design/Key Concepts.md",
     "Software/Java/Spring Boot/Exception Heirarchy.md",
@@ -257,9 +260,6 @@
     "conflict-files-obsidian-git.md",
     "Software/Testing/K6",
     "Software/Monitoring/Prometheus & Grafana",
-    "Software/Monitoring",
-    "Software/Devops/Untitled 1.md",
-    "Software/Devops/Containerization and Orchestration/Kubernetes/Commands.md",
     "Pasted image 20251125154607.png",
     "Software/Testing/images/Types of performance testing.png",
     "Software/System Design/LoadBalancer/LoadBalancer.canvas",
