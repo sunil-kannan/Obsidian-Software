@@ -65,11 +65,3 @@ link:
 > [!danger] Don't Get Stuck on 65,535
 > If you stop scaling by thinking of the **65,535 port limit**, you didn't hit a hardware limit — you just hit a **"Connection Refused" on your computer science basics.**
 
----
-
-## 📚 Related Topics
-
-- [[TCP 4‑tuple]]
-- [[Linux File Descriptors]]
-- [[Kernel Tuning for High Concurrency]]
-- [[WebSocket vs HTTP/2]]
