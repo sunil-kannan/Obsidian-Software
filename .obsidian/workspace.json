@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Java/Core Java/String.md",
+                "file": "Software/System Design/Questions/How many WebSockets can a single server handle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "String"
+              "title": "How many WebSockets can a single server handle"
             }
           }
         ],
@@ -94,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "association",
+                "query": "websock",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,8 +210,8 @@
     "hiddenItems": {
       "obsidian-excalidraw-plugin:New drawing": false,
       "bases:Create new base": false,
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -221,8 +221,11 @@
   },
   "active": "baeb37af7d544cbb",
   "lastOpenFiles": [
-    "Software/Java/Version/LTS & Main version.md",
+    "Software/System Design/Questions/How many WebSockets can a single server handle.md",
+    "Software/System Design/API/API Communication Protocols or Styles.md",
+    "Software/System Design/Questions",
     "Software/Java/Core Java/String.md",
+    "Software/Java/Version/LTS & Main version.md",
     "Software/Java/Core Java/Untitled",
     "Software/Java/Core Java/Association, Composition, and Aggregation.md",
     "Software/System Design/Low Level System Design/Key Concepts.md",
@@ -256,10 +259,7 @@
     "Software/Testing/K6/Running K6 Job in Kubernetes.md",
     "Software/Testing/L&P.md",
     "Software/Testing/Performance Testing.md",
-    "Software/Monitoring/Prometheus & Grafana/Helm Command for installing Kube-Prometheus-Stack.md",
-    "conflict-files-obsidian-git.md",
     "Software/Testing/K6",
-    "Software/Monitoring/Prometheus & Grafana",
     "Pasted image 20251125154607.png",
     "Software/Testing/images/Types of performance testing.png",
     "Software/System Design/LoadBalancer/LoadBalancer.canvas",
