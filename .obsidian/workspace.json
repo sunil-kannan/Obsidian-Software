@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Database/Redis/Write Policies.md",
+                "file": "Software/Database/Optimistic and Pessimistic Locking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Write Policies"
+              "title": "Optimistic and Pessimistic Locking"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "redis",
+                "query": "gossip",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -235,6 +235,11 @@
   },
   "active": "5219aab41f6705f3",
   "lastOpenFiles": [
+    "Software/Database/Single-Node Database Capacity.md",
+    "Software/Database/Optimistic and Pessimistic Locking.md",
+    "Software/System Design/Co-ordination Protocol/Gossip Protocol.md",
+    "Software/Database/Redis/Redis Cluster.md",
+    "Software/Database/Redis/Write Policies.md",
     "Software/Database/Redis/What happens on Redis restart.md",
     "Software/Database/Redis/What makes Redis Special.md",
     "Software/Database/Redis/Redis.md",
@@ -259,12 +264,7 @@
     "Software/Java/Core Java/String.md",
     "Software/Java/Core Java/Untitled",
     "Software/Java/Core Java/Association, Composition, and Aggregation.md",
-    "Software/System Design/Low Level System Design/Key Concepts.md",
-    "Software/Java/Spring Boot/Exception Heirarchy.md",
-    "Software/Java/Spring Boot/HTTP Connection Pooling in Spring Boot.md",
-    "Software/Java/Spring Boot/Jpa/JPA.md",
     "Software/Java/Spring Boot/images/entity_life_cycle.png",
-    "Software/Java/MicroServices/Orchestration vs Choreography.md",
     "Software/Java/images/Java evolution.png",
     "Software/System Design/Fault tolerance",
     "Software/System Design/Data modelling/Data Modeling.excalidraw",

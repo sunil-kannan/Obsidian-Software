@@ -22,8 +22,8 @@ link:
 ---
 ### 3. Write-around
 
-- Writes bypass the cache and go directly to the database.k
-- Pros: Potentially lower write latency.k
+- Writes bypass the cache and go directly to the database
+- Pros: Potentially lower write latency.
 - Cons: Increased cache misses, leading to higher read
 - latency for frequently written and re-read data.
 
