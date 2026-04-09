@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Database/Redis/Redis.md",
+                "file": "Software/Database/Redis/What happens on Redis restart.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Redis"
+              "title": "What happens on Redis restart"
             }
           }
         ],
@@ -235,6 +235,8 @@
   },
   "active": "5219aab41f6705f3",
   "lastOpenFiles": [
+    "Software/Database/Redis/What makes Redis Special.md",
+    "Software/Database/Redis/Redis.md",
     "Software/Database/Redis/Data types.md",
     "Software/Artificial Intelligence (AI)/AI Concepts/2. Tokenization.md",
     "Software/Artificial Intelligence (AI)/AI Concepts/1. Large Language Model (LLM).md",
@@ -263,8 +265,6 @@
     "Software/Java/Spring Boot/images/entity_life_cycle.png",
     "Software/Java/MicroServices/Orchestration vs Choreography.md",
     "Software/Java/MicroServices/Design Patterns.md",
-    "Software/Java/MicroServices/Circuit Breaker Pattern.md",
-    "Software/Monitoring/Prometheus.md",
     "Software/Java/images/Java evolution.png",
     "Software/System Design/Fault tolerance",
     "Software/System Design/Data modelling/Data Modeling.excalidraw",
