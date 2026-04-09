@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Artificial Intelligence (AI)/AI Concepts/2. Tokenization.md",
+                "file": "Software/Database/Redis/Redis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Tokenization"
+              "title": "Redis"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "websock",
+                "query": "redis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -235,9 +235,10 @@
   },
   "active": "5219aab41f6705f3",
   "lastOpenFiles": [
+    "Software/Database/Redis/Data types.md",
+    "Software/Artificial Intelligence (AI)/AI Concepts/2. Tokenization.md",
     "Software/Artificial Intelligence (AI)/AI Concepts/1. Large Language Model (LLM).md",
     "2026-04-09.md",
-    "Software/Artificial Intelligence (AI)/AI Concepts/2. Tokenization.md",
     "Software/Artificial Intelligence (AI)/AI Concepts/AI Concepts.md",
     "Software/Devops/NameSpace.md",
     "Software/Devops/Types of Linux Namespaces.md",
@@ -265,7 +266,6 @@
     "Software/Java/MicroServices/Circuit Breaker Pattern.md",
     "Software/Monitoring/Prometheus.md",
     "Software/Java/images/Java evolution.png",
-    "Software/Monitoring/Prometheus & Grafana/ddd.md",
     "Software/System Design/Fault tolerance",
     "Software/System Design/Data modelling/Data Modeling.excalidraw",
     "Software/System Design/Data modelling",
