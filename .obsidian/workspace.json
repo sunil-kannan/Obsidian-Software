@@ -79,14 +79,13 @@
             "id": "78e80c327744dc84",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Software/Kafka/Controller.md",
-                "mode": "source",
-                "source": false
+                "file": "sample.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Controller"
+              "icon": "lucide-table",
+              "title": "sample"
             }
           }
         ],
@@ -143,8 +142,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -250,9 +248,18 @@
   },
   "active": "78e80c327744dc84",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "sample.base",
+    "2026-04-09.md",
+    "encryption.md",
+    "Pasted image 20251010102058.png",
+    "Pasted image 20250703123121.png",
+    "Software/SAAS/Multi-Tenant SaaS Database Architecture.md",
+    "blockchain-hashing.md",
+    "digital-signatures.md",
+    "Software/Kafka/Controller.md",
     "Software/Kafka/Kafka Internals.md",
     "Software/Kafka/Retention.md",
-    "Software/Kafka/Controller.md",
     "Software/Kafka/Broker.md",
     "Software/Database/internals/Isolation.md",
     "Software/Artificial Intelligence (AI)/AI Concepts/2. Tokenization.md",
@@ -270,12 +277,6 @@
     "Software/Database/Redis/What makes Redis Special.md",
     "Software/Database/Redis/Redis.md",
     "Software/Database/Redis/Data types.md",
-    "Software/Artificial Intelligence (AI)/AI Concepts/1. Large Language Model (LLM).md",
-    "2026-04-09.md",
-    "Software/Artificial Intelligence (AI)/AI Concepts/AI Concepts.md",
-    "Software/Devops/NameSpace.md",
-    "Software/Devops/Types of Linux Namespaces.md",
-    "Software/Java/Core Java/Thread/Virtual Thread (Java 21).md",
     "Software/Artificial Intelligence (AI)/AI Concepts",
     "Software/System Design/Questions",
     "Software/Java/Core Java/Untitled",
@@ -288,16 +289,12 @@
     "Software/Monitoring/images",
     "Software/Java/Testing",
     "Software/Interview",
-    "Software Books/Silverston, Len - The data model resource book Vol. 1, A library of unversal data models for all enterprises (2001, Wiley) - libgen.li.pdf",
     "Pasted image 20251125154607.png",
     "Software/Testing/images/Types of performance testing.png",
     "Software/System Design/LoadBalancer/LoadBalancer.canvas",
     "Software/Networking/images/peer-to-peer communication.png",
     "Software/Cryptography/images/Cryptography.png",
     "Software/Cryptography/images/Cryptography types.png",
-    "Untitled.canvas",
-    "Software/Cryptography/images/HMac.png",
-    "Pasted image 20250703123121.png",
     "Software/System Design/LoadBalancer.canvas",
     "Software/Java/Core Java/Thread/Untitled.canvas",
     "Untitled 1.canvas"
