@@ -122,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kafka",
+                "query": "kraft",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,7 +143,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -250,6 +251,8 @@
   "active": "78e80c327744dc84",
   "lastOpenFiles": [
     "Software/Kafka/Kafka Internals.md",
+    "Software/Kafka/Retention.md",
+    "Software/Kafka/Controller.md",
     "Software/Kafka/Broker.md",
     "Software/Database/internals/Isolation.md",
     "Software/Artificial Intelligence (AI)/AI Concepts/2. Tokenization.md",
@@ -273,8 +276,6 @@
     "Software/Devops/NameSpace.md",
     "Software/Devops/Types of Linux Namespaces.md",
     "Software/Java/Core Java/Thread/Virtual Thread (Java 21).md",
-    "Software/Tags/Linux.md",
-    "Software/Java/Core Java/Thread/Compare-and-Swap.md",
     "Software/Artificial Intelligence (AI)/AI Concepts",
     "Software/System Design/Questions",
     "Software/Java/Core Java/Untitled",
