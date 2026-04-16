@@ -6,8 +6,6 @@ link:
 
 # Cluster
 
-> A blog is just like having a long conversation with people, so it should make sense that things you enjoy talking about will be closely related to your passion.
-
   
 i run external LBs F5 (on prem) or azure LB (2) in front of 3 infra nodes running haproxy. worker nodes separate.
 
