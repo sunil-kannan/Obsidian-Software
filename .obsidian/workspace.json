@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Java/Core Java/Thread/Compare-and-Swap.md",
+                "file": "Software/Java/Spring Boot/Why Spring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Compare-and-Swap"
+              "title": "Why Spring"
             }
           }
         ],
@@ -221,6 +221,16 @@
   },
   "active": "ab388a22f510351d",
   "lastOpenFiles": [
+    "Software/Java/Spring Boot/Maven.md",
+    "Software/Java/Spring Boot/HTTP Connection Pooling in Spring Boot.md",
+    "Software/Java/Spring Boot/Dispatcher Servlet.md",
+    "Software/Java/Spring Boot/Aspect Oriented Programming.md",
+    "Software/Java/Spring Boot/Jpa/Entity Life Cycle.md",
+    "Software/Java/Core Java/Association, Composition, and Aggregation.md",
+    "Software/Java/Core Java/Thread/Virtual Thread (Java 21).md",
+    "Software/Java/Core Java/Thread/Thread.md",
+    "Software/Java/Core Java/Thread/MultiThreading.md",
+    "Software/Java/Core Java/Thread/Compare-and-Swap.md",
     "Software/Java/Core Java/Collections/HashMap.md",
     "Software/Java/Core Java/Architecture and Memory management/JDK vs JRE vs JVM.md",
     "Software/Java/Core Java/Architecture and Memory management/HashCode.md",
@@ -236,21 +246,11 @@
     "Software/Devops/Containerization and Orchestration/Kubernetes/Kubernetes Architecture.md",
     "Software/Devops/Containerization and Orchestration/Kubernetes/Commands.md",
     "Software/Devops/Containerization and Orchestration/Kubernetes/Cluster.md",
-    "Software/Java/Core Java/Thread/MultiThreading.md",
-    "Software/Java/Core Java/Thread/Compare-and-Swap.md",
     "Software/Java/Version/Java 9 & 10.md",
-    "Software/Java/Version/Java 11 & 12.md",
-    "Software/Java/Core Java/Thread/Virtual Thread (Java 21).md",
-    "Software/Java/Core Java/Thread/Thread.md",
-    "Software/System Design/Questions/How Email Protocol actually Works.md",
-    "2026-04-12.md",
     "sample.base",
     "Untitled.canvas",
-    "2026-04-09.md",
-    "encryption.md",
     "Pasted image 20251010102058.png",
     "Pasted image 20250703123121.png",
-    "Software/SAAS/Multi-Tenant SaaS Database Architecture.md",
     "Software/Artificial Intelligence (AI)/AI Concepts",
     "Software/System Design/Questions",
     "Software/Java/Core Java/Untitled",
