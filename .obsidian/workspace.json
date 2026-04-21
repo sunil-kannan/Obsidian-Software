@@ -61,8 +61,7 @@
               "title": "Authoritative Name Server"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,8 +218,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "80fc112e07c6c6cb",
+  "active": "c161543209f13e31",
   "lastOpenFiles": [
+    "Software/Java/Core Java/Thread/Virtual Thread (Java 21).md",
     "Software/Java/Core Java/Thread/Thread.md",
     "Software/Java/Core Java/Thread/MultiThreading.md",
     "Software/Java/Core Java/Thread/Compare-and-Swap.md",
@@ -229,7 +229,6 @@
     "Software/Java/Core Java/Architecture and Memory management/JDK vs JRE vs JVM.md",
     "Software/Java/Core Java/Architecture and Memory management/HashCode.md",
     "Software/Java/Version/LTS & Main version.md",
-    "Software/Java/Core Java/Thread/Virtual Thread (Java 21).md",
     "Software/Networking/DNS/Authoritative Name Server.md",
     "Software/Networking/IP and MAC address.md",
     "Software/Networking/Invalid TLS Certificate.md",
