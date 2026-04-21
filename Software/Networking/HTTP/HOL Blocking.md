@@ -3,7 +3,6 @@ date: "2025-10-11"
 tags: 
 link:
 ---
-
 # HOL Blocking
 
 > **head-of-line (HOL) blocking** is an important concept in networking, especially in HTTP/1.1 and TCP-based protocols. Let me explain clearly:
