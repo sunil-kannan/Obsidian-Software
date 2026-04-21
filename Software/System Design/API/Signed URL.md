@@ -158,7 +158,4 @@ Thus, **access remains secure and controlled**, even though CDN URLs are publicl
 - **Used heavily** in modern apps like TikTok, Instagram, YouTube, and cloud storage systems.  
 - **Best practice:** Keep expiration short (minutes) and regenerate on each session.
 
----
-
-*Prepared for Obsidian Notes — Last updated: Oct 2025*
 
