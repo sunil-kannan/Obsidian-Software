@@ -129,8 +129,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -234,7 +233,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3fd7d4b83a9590d5",
+  "active": "f6136e83a49f3948",
   "lastOpenFiles": [
     "Software/Java/Core Java/Architecture and Memory management/Garbage Collector (GC).md",
     "Software/Java/Core Java/Thread/Compare-and-Swap.md",
