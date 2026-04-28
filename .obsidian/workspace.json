@@ -75,8 +75,7 @@
               "title": "Thread"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,8 +232,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3fd7d4b83a9590d5",
+  "active": "c161543209f13e31",
   "lastOpenFiles": [
+    "Software/Java/Core Java/Thread/Thread.md",
     "Software/Java/Core Java/Thread/MultiThreading.md",
     "Software/Java/Core Java/Thread/Compare-and-Swap.md",
     "Software/Java/Core Java/Collections/HashMap.md",
@@ -245,7 +245,6 @@
     "Software/Java/Core Java/String.md",
     "Software/Java/Core Java/Coupling & Cohesion.md",
     "Software/Java/Core Java/Thread/Virtual Thread (Java 21).md",
-    "Software/Java/Core Java/Thread/Thread.md",
     "Software/Java/Core Java/Architecture and Memory management/Garbage Collector (GC).md",
     "Software/Artificial Intelligence (AI)/AI Concepts/1. Large Language Model (LLM).md",
     "Software/Artificial Intelligence (AI)/AI Concepts/2. Tokenization.md",
