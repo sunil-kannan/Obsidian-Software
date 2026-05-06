@@ -146,7 +146,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "REDIS",
+                "query": "nginx",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,8 +167,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -272,7 +271,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "78a1d4f42e0f704d",
+  "active": "f6136e83a49f3948",
   "lastOpenFiles": [
     "Software/System Design/API/Signed URL.md",
     "Software/System Design/API/Protocol Buffers.md",
