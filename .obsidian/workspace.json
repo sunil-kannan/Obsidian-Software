@@ -167,7 +167,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -271,7 +272,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "33bbb06303baeca7",
+  "active": "78a1d4f42e0f704d",
   "lastOpenFiles": [
     "Software/System Design/API/Signed URL.md",
     "Software/System Design/API/Protocol Buffers.md",
