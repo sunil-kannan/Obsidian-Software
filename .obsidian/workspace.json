@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SFU ",
+                "query": "Keycloa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,7 +157,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -261,7 +262,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "33bbb06303baeca7",
+  "active": "78a1d4f42e0f704d",
   "lastOpenFiles": [
     "Software/Networking/P2P communication/WebRTC/SFU (Selective Forwarding Unit).md",
     "Software/System Design/API/API Communication Protocols or Styles.md",
