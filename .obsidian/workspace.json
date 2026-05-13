@@ -157,8 +157,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -262,7 +261,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "33bbb06303baeca7",
+  "active": "f6136e83a49f3948",
   "lastOpenFiles": [
     "Software/Networking/P2P communication/WebRTC/ICE Candidates.md",
     "Software/Networking/P2P communication/WebRTC/SFU (Selective Forwarding Unit).md",
