@@ -32,6 +32,20 @@ Existing:
 Need:
 - add rate limiting for brute-force prevention
 
+### GOOD Approach
+
+Start fresh:
+```
+Current system:
+- Spring Boot
+- JWT authentication
+- Redis used for refresh tokens
+- PostgreSQL backend
+
+Need:
+- IP-based rate limiting for login endpoint
+- prevent brute-force attacks
+```
 ## Why This Helps
 - lower context usage
 - faster responses
