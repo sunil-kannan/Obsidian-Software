@@ -95,12 +95,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Artificial Intelligence (AI)/Prompt Engineering/Untitled.md",
+                "file": "Software/Artificial Intelligence (AI)/Prompt Engineering/Chain Prompting and Managing Chat History.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Chain Prompting and Managing Chat History"
             }
           }
         ],
@@ -264,7 +264,7 @@
   "active": "33bbb06303baeca7",
   "lastOpenFiles": [
     "Software/Artificial Intelligence (AI)/Context-repo/Core-Goal.md",
-    "Software/Artificial Intelligence (AI)/Prompt Engineering/Untitled.md",
+    "Software/Artificial Intelligence (AI)/Prompt Engineering/Chain Prompting and Managing Chat History.md",
     "Software/Artificial Intelligence (AI)/Prompt Engineering",
     "Software/Artificial Intelligence (AI)/Context-repo/Lineage.md",
     "Software/Artificial Intelligence (AI)/images",
