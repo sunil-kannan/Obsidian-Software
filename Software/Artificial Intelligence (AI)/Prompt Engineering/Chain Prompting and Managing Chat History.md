@@ -32,7 +32,7 @@ Existing:
 Need:
 - add rate limiting for brute-force prevention
 
-### GOOD Approach
+## GOOD Approach
 
 Start fresh:
 ```
