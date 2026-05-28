@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Java/Core Java/Thread/Thread.md",
+                "file": "Software/System Design/API/API Communication Protocols or Styles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thread"
+              "title": "API Communication Protocols or Styles"
             }
           },
           {
@@ -95,16 +95,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/System Design/cloudflare/Cloudflare.md",
+                "file": "Software/System Design/cloudflare/DDoS and AIBot Protection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cloudflare"
+              "title": "DDoS and AIBot Protection"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -261,12 +261,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "33bbb06303baeca7",
+  "active": "3fd7d4b83a9590d5",
   "lastOpenFiles": [
-    "Software/System Design/cloudflare/DDoS and AIBot Protection.md",
     "Application Performance Optimization.md",
-    "Software/System Design/CDN/CDN.md",
+    "Software/Java/Core Java/Thread/Thread.md",
     "Software/System Design/API/API Communication Protocols or Styles.md",
+    "Software/System Design/cloudflare/DDoS and AIBot Protection.md",
+    "Software/System Design/cloudflare/Cloudflare.md",
+    "Software/System Design/CDN/CDN.md",
     "Software/System Design/API/Signed URL.md",
     "Software/Networking/P2P communication/WebRTC/SFU (Selective Forwarding Unit).md",
     "application-flow.png",
@@ -291,8 +293,6 @@
     "Software/Database/Redis/Redis.md",
     "Software/Database/Redis/Data types.md",
     "Software/Database/internals/ACID.md",
-    "Software/Networking/OSI Model.md",
-    "Software/Security/OWASP.md",
     "sample.base",
     "Untitled.canvas",
     "Pasted image 20251010102058.png",
