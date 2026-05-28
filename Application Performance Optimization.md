@@ -21,5 +21,10 @@ link:
 ## Client Side
 
 
-## Networking / Transport layer
+## Networking / Transport
+
+## Application
+
+
+## Database
 
