@@ -40,6 +40,8 @@ link:
 - Connection pooling
 ## Deployment
 - Load Balancer [[Load Balancer]]
+- Vertical & Horizontal Scaling
+- 
 
 
 ## Monitoring & Observability
@@ -57,3 +59,17 @@ Includes:
 - Memory usage
 - API latency
 - Kafka consumer lag
+
+
+
+
+# Performance Optimization Workflow
+
+## Flow
+
+1. Identify bottleneck
+2. Measure metrics
+3. Analyze root cause
+4. Optimize
+5. Load test
+6. Monitor continuously
