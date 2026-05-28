@@ -39,5 +39,5 @@ link:
 - Pagination
 - Connection pooling
 ## Deployment
-
+- Load Balancer [[Load Balancer]]
 
