@@ -33,6 +33,7 @@ link:
 
 ## Database
 
+- SQL [[ACID]] vs NoSQL
 - Indexing
 - Query optimization
 - Avoid N+1 queries
