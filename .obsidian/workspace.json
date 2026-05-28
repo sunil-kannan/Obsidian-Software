@@ -95,20 +95,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Networking/P2P communication/WebRTC/SFU (Selective Forwarding Unit).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SFU (Selective Forwarding Unit)"
-            }
-          },
-          {
-            "id": "82b72cbbbc44df70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Application Performance Optimization.md",
                 "mode": "source",
                 "source": false
@@ -118,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -275,12 +261,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f6136e83a49f3948",
+  "active": "33bbb06303baeca7",
   "lastOpenFiles": [
+    "Software/Networking/P2P communication/WebRTC/SFU (Selective Forwarding Unit).md",
+    "Software/System Design/API/API Communication Protocols or Styles.md",
+    "Application Performance Optimization.md",
     "application-flow.png",
     "Software/Testing/Performance Testing.md",
-    "Application Performance Optimization.md",
-    "Software/Networking/P2P communication/WebRTC/SFU (Selective Forwarding Unit).md",
     "Software/Networking/P2P communication/Peer to Peer Communication.md",
     "Software/Artificial Intelligence (AI)/Prompt Engineering/Role prompting for specialized tasks.md",
     "Software/Artificial Intelligence (AI)/Prompt Engineering/Chain Prompting and Managing Chat History.md",
@@ -291,7 +278,6 @@
     "Software/Security/Insecure Direct Object References (IDOR).md",
     "Software/Artificial Intelligence (AI)/Context-repo",
     "Software/Networking/P2P communication/WebRTC/ICE Candidates.md",
-    "Software/System Design/API/API Communication Protocols or Styles.md",
     "Software/Networking/P2P communication/WebRTC/WebRTC offer answer flow.md",
     "Software/Networking/P2P communication/WebRTC/TURN.md",
     "Software/System Design/API/Signed URL.md",
@@ -324,7 +310,6 @@
     "Software/System Design/LoadBalancer/LoadBalancer.canvas",
     "Software/Networking/images/peer-to-peer communication.png",
     "Software/Cryptography/images/Cryptography.png",
-    "Software/Cryptography/images/Cryptography types.png",
     "Software/System Design/LoadBalancer.canvas",
     "Software/Java/Core Java/Thread/Untitled.canvas",
     "Untitled 1.canvas"
