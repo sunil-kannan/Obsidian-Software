@@ -43,4 +43,17 @@ link:
 
 
 ## Monitoring & Observability
+
 >You cannot optimize what you cannot measure.
+
+### Metrics Monitoring
+
+Tools:
+- Prometheus
+- Grafana
+
+Includes:
+- CPU usage
+- Memory usage
+- API latency
+- Kafka consumer lag
