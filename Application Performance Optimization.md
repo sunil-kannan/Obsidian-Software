@@ -41,3 +41,6 @@ link:
 ## Deployment
 - Load Balancer [[Load Balancer]]
 
+
+## Monitoring & Observability
+>You cannot optimize what you cannot measure.
