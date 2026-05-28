@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Application Performance Optimization.md",
+                "file": "Software/JavaScript/How JavaScript manages all those tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Application Performance Optimization"
+              "title": "How JavaScript manages all those tasks"
             }
           },
           {

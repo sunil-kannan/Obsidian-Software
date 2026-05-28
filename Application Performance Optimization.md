@@ -27,7 +27,7 @@ link:
 - 
 ## Application
 - Api Communication [[API Communication Protocols or Styles]]
-- Threa
+- MultiThreading
 - Rate Limiting
 - 
 ## Caching
