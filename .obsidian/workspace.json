@@ -69,9 +69,9 @@
               "state": {
                 "file": "Software/System Design/LoadBalancer/LoadBalancer.canvas",
                 "viewState": {
-                  "x": 318.38107685306045,
-                  "y": -468.6796407360471,
-                  "zoom": -1.00621317205603
+                  "x": 641.553346710313,
+                  "y": -345.4131504879866,
+                  "zoom": -2.0062131720560297
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -296,7 +296,6 @@
     "Software/Encoding and Base64.md",
     "Software/Wishlist.md",
     "Software/Devops/Containerization and Orchestration/Kubernetes/Kubernetes Architecture.md",
-    "Software/Database/Redis/Redis.md",
     "sample.base",
     "Untitled.canvas",
     "Pasted image 20251010102058.png",
