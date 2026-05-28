@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,10 +205,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "486c54eff1dedeae",
+  "active": "f6136e83a49f3948",
   "lastOpenFiles": [
-    "Software/Networking/TCP & UDP.md",
+    "Software/Interview/Resume.md",
     "Application Performance Optimization.md",
+    "Software/Networking/TCP & UDP.md",
     "Software/System Design/LoadBalancer/Load Balancer.md",
     "Software/System Design/API/API Communication Protocols or Styles.md",
     "Software/System Design/LoadBalancer/Types of Load Balancing algorithm.md",
@@ -237,7 +238,6 @@
     "Software/Aptitude.md",
     "Software/Encoding and Base64.md",
     "Software/Wishlist.md",
-    "Software/Devops/Containerization and Orchestration/Kubernetes/Kubernetes Architecture.md",
     "sample.base",
     "Untitled.canvas",
     "Pasted image 20251010102058.png",
