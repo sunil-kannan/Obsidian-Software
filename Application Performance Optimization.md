@@ -13,5 +13,13 @@ link:
 
 ## Why performance matters?
 
+
+
+
 ![[application-flow.png]]
+
+## Client Side
+
+
+## Networking / Transport layer
 
