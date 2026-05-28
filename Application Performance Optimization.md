@@ -25,9 +25,15 @@ link:
 
 ## Application
 
+## Caching
 
 ## Database
 
+- Indexing
+- Query optimization
+- Avoid N+1 queries
+- Pagination
+- Connection pooling
 ## Deployment
 
 
