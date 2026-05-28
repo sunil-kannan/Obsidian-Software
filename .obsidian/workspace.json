@@ -65,14 +65,17 @@
             "id": "3fd7d4b83a9590d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Software/System Design/API/API Communication Protocols or Styles.md",
-                "mode": "source",
-                "source": false
+                "file": "Software/System Design/LoadBalancer/LoadBalancer.canvas",
+                "viewState": {
+                  "x": 318.38107685306045,
+                  "y": -468.6796407360471,
+                  "zoom": -1.00621317205603
+                }
               },
-              "icon": "lucide-file",
-              "title": "API Communication Protocols or Styles"
+              "icon": "lucide-layout-dashboard",
+              "title": "LoadBalancer"
             }
           },
           {
@@ -263,13 +266,17 @@
   },
   "active": "3fd7d4b83a9590d5",
   "lastOpenFiles": [
+    "Software/System Design/LoadBalancer/Types of Load Balancing algorithm.md",
+    "Software/System Design/LoadBalancer/LoadBalancer.canvas",
+    "Software/System Design/LoadBalancer/Load Balancer.md",
+    "Software/System Design/API/Signed URL.md",
+    "Software/System Design/API/Protocol Buffers.md",
+    "Software/System Design/API/API Communication Protocols or Styles.md",
     "Application Performance Optimization.md",
     "Software/Java/Core Java/Thread/Thread.md",
-    "Software/System Design/API/API Communication Protocols or Styles.md",
     "Software/System Design/cloudflare/DDoS and AIBot Protection.md",
     "Software/System Design/cloudflare/Cloudflare.md",
     "Software/System Design/CDN/CDN.md",
-    "Software/System Design/API/Signed URL.md",
     "Software/Networking/P2P communication/WebRTC/SFU (Selective Forwarding Unit).md",
     "application-flow.png",
     "Software/Testing/Performance Testing.md",
@@ -285,14 +292,11 @@
     "Software/Networking/P2P communication/WebRTC/ICE Candidates.md",
     "Software/Networking/P2P communication/WebRTC/WebRTC offer answer flow.md",
     "Software/Networking/P2P communication/WebRTC/TURN.md",
-    "Software/System Design/API/Protocol Buffers.md",
     "Software/Aptitude.md",
     "Software/Encoding and Base64.md",
     "Software/Wishlist.md",
     "Software/Devops/Containerization and Orchestration/Kubernetes/Kubernetes Architecture.md",
     "Software/Database/Redis/Redis.md",
-    "Software/Database/Redis/Data types.md",
-    "Software/Database/internals/ACID.md",
     "sample.base",
     "Untitled.canvas",
     "Pasted image 20251010102058.png",
@@ -308,7 +312,6 @@
     "Software/Monitoring/images/prometheus.gif",
     "Pasted image 20251125154607.png",
     "Software/Testing/images/Types of performance testing.png",
-    "Software/System Design/LoadBalancer/LoadBalancer.canvas",
     "Software/Networking/images/peer-to-peer communication.png",
     "Software/Cryptography/images/Cryptography.png",
     "Software/System Design/LoadBalancer.canvas",
