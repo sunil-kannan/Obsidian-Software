@@ -6,6 +6,6 @@ link:
 
 # Application Performance Optimization
 
-> A blog is just like having a long conversation with people, so it should make sense that things you enjoy talking about will be closely related to your passion.
+> Application Performance Optimization is the process of improving software speed, scalability, and efficiency to deliver a better user experience and handle increasing workloads effectively. It involves optimizing application code, databases, infrastructure, and system architecture to achieve high performance and reliability.
 
 ![[application-flow.png]]
