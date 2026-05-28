@@ -39,10 +39,12 @@ link:
 - SQL vs NoSQL    -    ([[ACID]])
 - Indexing
 - Query optimization
-- Avoid N+1 queries
 - Pagination
 - Connection pooling
 - Consistent Hashing [[Consistent Hashing]]
+
+
+
 ## Infrastructure Optimization
 - Docker & Kubernetes
 - Load Balancer [[Load Balancer]]
