@@ -43,9 +43,11 @@ link:
 - Pagination
 - Connection pooling
 - Consistent Hashing [[Consistent Hashing]]
-## Deployment
+## Infrastructure Optimization
+- Docker & Kubernetes
 - Load Balancer [[Load Balancer]]
 - Vertical & Horizontal Scaling
+- Rolling updates
 - 
 
 
