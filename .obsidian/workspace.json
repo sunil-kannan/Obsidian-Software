@@ -275,8 +275,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "82b72cbbbc44df70",
+  "active": "f6136e83a49f3948",
   "lastOpenFiles": [
+    "application-flow.png",
     "Software/Testing/Performance Testing.md",
     "Application Performance Optimization.md",
     "Software/Networking/P2P communication/WebRTC/SFU (Selective Forwarding Unit).md",
@@ -305,7 +306,6 @@
     "Software/Networking/OSI Model.md",
     "Software/Security/OWASP.md",
     "Software/System Design/Encryption & Security/Encryption & Security Fundamentals for Developers.md",
-    "Software/Java/Core Java/Thread/Thread.md",
     "sample.base",
     "Untitled.canvas",
     "Pasted image 20251010102058.png",
