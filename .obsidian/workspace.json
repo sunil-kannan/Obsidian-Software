@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/JavaScript/How JavaScript manages all those tasks.md",
+                "file": "Software/JavaScript/Web APIs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How JavaScript manages all those tasks"
+              "title": "Web APIs"
             }
           },
           {
@@ -39,16 +39,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Networking/TCP & UDP.md",
+                "file": "Application Performance Optimization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TCP & UDP"
+              "title": "Application Performance Optimization"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,10 +205,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "486c54eff1dedeae",
+  "active": "bbce081482cb4a06",
   "lastOpenFiles": [
-    "Application Performance Optimization.md",
     "Software/Networking/TCP & UDP.md",
+    "Software/JavaScript/Web APIs.md",
+    "Software/JavaScript/Single Threaded (Javascript).md",
+    "Software/JavaScript/How JavaScript manages all those tasks.md",
+    "Application Performance Optimization.md",
     "Software/Interview/Resume.md",
     "Software/System Design/LoadBalancer/Load Balancer.md",
     "Software/System Design/API/API Communication Protocols or Styles.md",
@@ -235,9 +238,6 @@
     "Software/Networking/P2P communication/WebRTC/ICE Candidates.md",
     "Software/Networking/P2P communication/WebRTC/WebRTC offer answer flow.md",
     "Software/Networking/P2P communication/WebRTC/TURN.md",
-    "Software/Aptitude.md",
-    "Software/Encoding and Base64.md",
-    "Software/Wishlist.md",
     "sample.base",
     "Untitled.canvas",
     "Pasted image 20251010102058.png",
