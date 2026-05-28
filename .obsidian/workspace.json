@@ -95,12 +95,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Application Performance Optimization.md",
+                "file": "Software/System Design/cloudflare/Cloudflare.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Application Performance Optimization"
+              "title": "Cloudflare"
             }
           }
         ],
@@ -263,10 +263,11 @@
   },
   "active": "33bbb06303baeca7",
   "lastOpenFiles": [
+    "Software/System Design/cloudflare/DDoS and AIBot Protection.md",
+    "Application Performance Optimization.md",
     "Software/System Design/CDN/CDN.md",
     "Software/System Design/API/API Communication Protocols or Styles.md",
     "Software/System Design/API/Signed URL.md",
-    "Application Performance Optimization.md",
     "Software/Networking/P2P communication/WebRTC/SFU (Selective Forwarding Unit).md",
     "application-flow.png",
     "Software/Testing/Performance Testing.md",
@@ -292,7 +293,6 @@
     "Software/Database/internals/ACID.md",
     "Software/Networking/OSI Model.md",
     "Software/Security/OWASP.md",
-    "Software/System Design/Encryption & Security/Encryption & Security Fundamentals for Developers.md",
     "sample.base",
     "Untitled.canvas",
     "Pasted image 20251010102058.png",

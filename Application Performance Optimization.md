@@ -22,10 +22,12 @@ link:
 
 
 ## Networking / Transport
-
+- Communication
+- CDN [[CDN]]
+- 
 ## Application
 - Api Communication [[API Communication Protocols or Styles]]
-- CDN [[CDN]]
+
 ## Caching
 
 ## Database
