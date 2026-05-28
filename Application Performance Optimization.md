@@ -27,13 +27,14 @@ link:
 - 
 ## Application
 - Api Communication [[API Communication Protocols or Styles]]
+- Threa
 - Rate Limiting
 - 
 ## Caching
 
 ## Database
 
-- SQL [[ACID]] vs NoSQL
+- SQL vs NoSQL    -    ([[ACID]])
 - Indexing
 - Query optimization
 - Avoid N+1 queries
