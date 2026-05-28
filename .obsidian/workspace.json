@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,11 +205,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f6136e83a49f3948",
+  "active": "486c54eff1dedeae",
   "lastOpenFiles": [
-    "Software/Interview/Resume.md",
-    "Application Performance Optimization.md",
     "Software/Networking/TCP & UDP.md",
+    "Application Performance Optimization.md",
+    "Software/Interview/Resume.md",
     "Software/System Design/LoadBalancer/Load Balancer.md",
     "Software/System Design/API/API Communication Protocols or Styles.md",
     "Software/System Design/LoadBalancer/Types of Load Balancing algorithm.md",

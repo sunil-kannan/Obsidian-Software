@@ -38,6 +38,7 @@ link:
 - Avoid N+1 queries
 - Pagination
 - Connection pooling
+- Consistent Hashing [[Consistent Hashing]]
 ## Deployment
 - Load Balancer [[Load Balancer]]
 - Vertical & Horizontal Scaling
