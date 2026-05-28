@@ -205,8 +205,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "bbce081482cb4a06",
+  "active": "f6136e83a49f3948",
   "lastOpenFiles": [
+    "Software/Networking/TLS",
+    "Software/Networking/NAT",
     "Software/Networking/TCP & UDP.md",
     "Software/JavaScript/Web APIs.md",
     "Software/JavaScript/Single Threaded (Javascript).md",
@@ -237,7 +239,6 @@
     "Software/Artificial Intelligence (AI)/Context-repo",
     "Software/Networking/P2P communication/WebRTC/ICE Candidates.md",
     "Software/Networking/P2P communication/WebRTC/WebRTC offer answer flow.md",
-    "Software/Networking/P2P communication/WebRTC/TURN.md",
     "sample.base",
     "Untitled.canvas",
     "Pasted image 20251010102058.png",
@@ -249,7 +250,6 @@
     "Software/Java/images/Java evolution.png",
     "Software/System Design/Fault tolerance",
     "Software/System Design/Data modelling/Data Modeling.excalidraw",
-    "Software/System Design/Data modelling",
     "Software/Monitoring/images/prometheus.gif",
     "Pasted image 20251125154607.png",
     "Software/Testing/images/Types of performance testing.png",
