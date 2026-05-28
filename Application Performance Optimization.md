@@ -30,6 +30,7 @@ link:
 - Api Communication [[API Communication Protocols or Styles]]
 - MultiThreading
 - Rate Limiting
+- [[Fault-tolerance or Resilient]]
 - 
 ## Caching
 
