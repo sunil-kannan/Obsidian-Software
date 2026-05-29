@@ -19,7 +19,8 @@ link:
 - Lazy Loading
 - Code Splitting
 - Browser Caching
-- 
+- Virtual Scrolling
+- CDN Usage (Serve static files from servers near users.)
 
 ## Networking / Transport
 - Communication [[Evolution of HTTP]]
