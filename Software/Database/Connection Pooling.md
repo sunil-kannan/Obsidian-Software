@@ -37,10 +37,19 @@ Request --->| Conn 2            |----> Database
             +-------------------+
 ```
 
-Flow:
+### Flow:
 
 1. Application requests a connection.
 2. Pool gives an available connection.
 3. Query executes.
 4. Connection is returned to the pool (not closed).
 5. Next request reuses it.
+### Benefits
+
+✅ Faster response times
+
+✅ Reduced database load
+
+✅ Better scalability
+
+✅ Efficient resource utilization

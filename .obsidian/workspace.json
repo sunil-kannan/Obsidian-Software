@@ -46,9 +46,23 @@
               "icon": "lucide-file",
               "title": "Connection Pooling"
             }
+          },
+          {
+            "id": "8af85a281a84c8b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Application Performance Optimization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Application Performance Optimization"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -205,10 +219,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "bbce081482cb4a06",
+  "active": "8af85a281a84c8b0",
   "lastOpenFiles": [
-    "Software/Java/Spring Boot/HTTP Connection Pooling in Spring Boot.md",
     "Software/Database/Connection Pooling.md",
+    "Software/Java/Spring Boot/HTTP Connection Pooling in Spring Boot.md",
     "Application Performance Optimization.md",
     "Software/System Design/Fault tolerance/Fault-tolerance or Resilient.md",
     "Software/Networking/TLS",
