@@ -18,6 +18,7 @@ link:
 ## Client Side
 - Lazy Loading
 - Code Splitting
+- Browser Caching
 - 
 
 ## Networking / Transport
