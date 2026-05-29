@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Application Performance Optimization.md",
+                "file": "Software/Database/Connection Pooling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Application Performance Optimization"
+              "title": "Connection Pooling"
             }
           }
         ],
@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SFU",
+                "query": "Connection poolin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -207,8 +207,10 @@
   },
   "active": "bbce081482cb4a06",
   "lastOpenFiles": [
-    "Software/System Design/Fault tolerance/Fault-tolerance or Resilient.md",
+    "Software/Java/Spring Boot/HTTP Connection Pooling in Spring Boot.md",
+    "Software/Database/Connection Pooling.md",
     "Application Performance Optimization.md",
+    "Software/System Design/Fault tolerance/Fault-tolerance or Resilient.md",
     "Software/Networking/TLS",
     "Software/Networking/NAT",
     "Software/Networking/TCP & UDP.md",
@@ -238,8 +240,6 @@
     "Software/Artificial Intelligence (AI)/images",
     "Software/Security/Insecure Direct Object References (IDOR).md",
     "Software/Artificial Intelligence (AI)/Context-repo",
-    "Software/Networking/P2P communication/WebRTC/ICE Candidates.md",
-    "Software/Networking/P2P communication/WebRTC/WebRTC offer answer flow.md",
     "sample.base",
     "Untitled.canvas",
     "Pasted image 20251010102058.png",
