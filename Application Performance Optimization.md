@@ -30,7 +30,7 @@ link:
 - [[Fault-tolerance or Resilient]]
 - Payload size
 ## Caching
-
+- Redis  [[Redis]]
 ## Database
 
 - SQL vs NoSQL    -    ([[ACID]])
