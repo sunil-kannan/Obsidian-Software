@@ -13,9 +13,6 @@ link:
 
 ## Why performance matters?
 
-
-
-
 ![[application-flow.png]]
 
 ## Client Side
@@ -60,7 +57,7 @@ link:
 ### Metrics Monitoring
 
 Tools:
-- Prometheus
+- Prometheus [[Prometheus]]
 - Grafana
 
 Includes:
