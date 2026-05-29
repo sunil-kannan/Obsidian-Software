@@ -20,6 +20,20 @@
             }
           },
           {
+            "id": "9e926fb921a22c59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Application Performance Optimization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Application Performance Optimization"
+            }
+          },
+          {
             "id": "486c54eff1dedeae",
             "type": "leaf",
             "state": {
@@ -39,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Database/Connection Pooling.md",
+                "file": "Software/Java/Spring Boot/HTTP Connection Pooling in Spring Boot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Connection Pooling"
+              "title": "HTTP Connection Pooling in Spring Boot"
             }
           },
           {
@@ -53,16 +67,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Application Performance Optimization.md",
+                "file": "Software/Monitoring/Prometheus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Application Performance Optimization"
+              "title": "Prometheus"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,16 +233,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8af85a281a84c8b0",
+  "active": "9e926fb921a22c59",
   "lastOpenFiles": [
-    "Software/Database/Connection Pooling.md",
+    "Software/JavaScript/Web APIs.md",
     "Software/Java/Spring Boot/HTTP Connection Pooling in Spring Boot.md",
+    "Software/Database/Connection Pooling.md",
+    "Software/Monitoring/Prometheus.md",
+    "Software/Monitoring/Prometheus & Grafana/Helm Command for installing Kube-Prometheus-Stack.md",
+    "Software/Monitoring/Prometheus & Grafana/Untitled.md",
+    "Software/Monitoring/Prometheus & Grafana/ddd.md",
     "Application Performance Optimization.md",
     "Software/System Design/Fault tolerance/Fault-tolerance or Resilient.md",
     "Software/Networking/TLS",
     "Software/Networking/NAT",
     "Software/Networking/TCP & UDP.md",
-    "Software/JavaScript/Web APIs.md",
     "Software/JavaScript/Single Threaded (Javascript).md",
     "Software/JavaScript/How JavaScript manages all those tasks.md",
     "Software/Interview/Resume.md",
@@ -247,12 +265,8 @@
     "Software/Testing/Performance Testing.md",
     "Software/Networking/P2P communication/Peer to Peer Communication.md",
     "Software/Artificial Intelligence (AI)/Prompt Engineering/Role prompting for specialized tasks.md",
-    "Software/Artificial Intelligence (AI)/Prompt Engineering/Chain Prompting and Managing Chat History.md",
-    "Software/Artificial Intelligence (AI)/Context-repo/Core-Goal.md",
     "Software/Artificial Intelligence (AI)/Prompt Engineering",
-    "Software/Artificial Intelligence (AI)/Context-repo/Lineage.md",
     "Software/Artificial Intelligence (AI)/images",
-    "Software/Security/Insecure Direct Object References (IDOR).md",
     "Software/Artificial Intelligence (AI)/Context-repo",
     "sample.base",
     "Untitled.canvas",
