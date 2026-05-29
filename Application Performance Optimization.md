@@ -64,9 +64,6 @@ Includes:
 - API latency
 - Kafka consumer lag
 
-
-
-
 # Performance Optimization Workflow
 
 ## Flow
