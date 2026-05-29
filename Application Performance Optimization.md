@@ -16,7 +16,9 @@ link:
 ![[application-flow.png]]
 
 ## Client Side
-
+- Lazy Loading
+- Code Splitting
+- 
 
 ## Networking / Transport
 - Communication [[Evolution of HTTP]]
