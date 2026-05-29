@@ -40,8 +40,6 @@ link:
 - Connection pooling [[Connection Pooling]]
 - Consistent Hashing [[Consistent Hashing]]
 
-
-
 ## Infrastructure Optimization
 - Docker & Kubernetes
 - Load Balancer [[Load Balancer]]
