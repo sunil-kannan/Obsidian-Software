@@ -24,8 +24,8 @@ link:
 
 ## Networking / Transport
 - Communication [[Evolution of HTTP]]
-- [[QUIC Protocol]]
-- CDN [[CDN]]
+- [[TCP & UDP]]       [[QUIC Protocol]] 
+- CDN  [[CDN]]
 - 
 ## Application
 - Api Communication [[API Communication Protocols or Styles]]
