@@ -23,12 +23,14 @@
             "id": "9e926fb921a22c59",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "application-flow.png"
+                "file": "Application Performance Optimization.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "application-flow"
+              "icon": "lucide-file",
+              "title": "Application Performance Optimization"
             }
           },
           {
@@ -233,6 +235,7 @@
   },
   "active": "9e926fb921a22c59",
   "lastOpenFiles": [
+    "application-flow.png",
     "Software/Networking/HTTP/Evolution/Evolution of HTTP.md",
     "Application Performance Optimization.md",
     "Software/Database/Redis/Redis.md",
@@ -261,8 +264,6 @@
     "Software/System Design/cloudflare/DDoS and AIBot Protection.md",
     "Software/System Design/cloudflare/Cloudflare.md",
     "Software/System Design/CDN/CDN.md",
-    "Software/Networking/P2P communication/WebRTC/SFU (Selective Forwarding Unit).md",
-    "application-flow.png",
     "Software/Artificial Intelligence (AI)/Prompt Engineering",
     "Software/Artificial Intelligence (AI)/images",
     "Software/Artificial Intelligence (AI)/Context-repo",

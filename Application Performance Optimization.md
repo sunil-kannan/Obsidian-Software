@@ -38,6 +38,7 @@ link:
 - Redis  [[Redis]]
 ## Database
 
+- Data Modelling
 - SQL vs NoSQL    -    ([[ACID]])
 - Indexing
 - Query optimization
