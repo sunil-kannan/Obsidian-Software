@@ -78,3 +78,10 @@ Includes:
 5. Load test
 6. Monitor continuously
 
+
+
+## Have you checked
+
+1. http version through network tab
+2. tracert through command prompt
+3. 
