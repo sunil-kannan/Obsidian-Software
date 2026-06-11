@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/System Design/API/API Communication Protocols or Styles.md",
+                "file": "Application Performance Optimization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "API Communication Protocols or Styles"
+              "title": "Application Performance Optimization"
             }
           },
           {
@@ -235,6 +235,7 @@
   },
   "active": "9e926fb921a22c59",
   "lastOpenFiles": [
+    "Software/System Design/API/API Communication Protocols or Styles.md",
     "Application Performance Optimization.md",
     "Software/Networking/HTTP/Evolution/Evolution of HTTP.md",
     "application-flow.png",
@@ -255,7 +256,6 @@
     "Software/JavaScript/How JavaScript manages all those tasks.md",
     "Software/Interview/Resume.md",
     "Software/System Design/LoadBalancer/Load Balancer.md",
-    "Software/System Design/API/API Communication Protocols or Styles.md",
     "Software/System Design/LoadBalancer/Types of Load Balancing algorithm.md",
     "Software/System Design/LoadBalancer/LoadBalancer.canvas",
     "Software/System Design/API/Signed URL.md",
