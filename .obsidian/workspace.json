@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Networking/P2P communication/Peer to Peer Communication.md",
+                "file": "Application Performance Optimization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Peer to Peer Communication"
+              "title": "Application Performance Optimization"
             }
           },
           {
@@ -235,11 +235,16 @@
   },
   "active": "9e926fb921a22c59",
   "lastOpenFiles": [
+    "Software/System Design/Data modelling/Data Modeling.excalidraw",
+    "Software/System Design/CDN/CDN.md",
+    "Software/System Design/LoadBalancer/Load Balancer.md",
+    "Application Performance Optimization.md",
+    "Software/Aptitude.md",
+    "Software/Networking/P2P communication/Peer to Peer Communication.md",
     "Software/Networking/P2P communication/WebRTC/WebRTC offer answer flow.md",
     "Software/Networking/NAT/NAT Types.md",
     "Software/Networking/Ephemeral Port.md",
     "Software/Networking/DHCP.md",
-    "Application Performance Optimization.md",
     "Software/System Design/API/API Communication Protocols or Styles.md",
     "Software/Networking/HTTP/Evolution/Evolution of HTTP.md",
     "application-flow.png",
@@ -259,12 +264,7 @@
     "Software/JavaScript/Single Threaded (Javascript).md",
     "Software/JavaScript/How JavaScript manages all those tasks.md",
     "Software/Interview/Resume.md",
-    "Software/System Design/LoadBalancer/Load Balancer.md",
-    "Software/System Design/LoadBalancer/Types of Load Balancing algorithm.md",
     "Software/System Design/LoadBalancer/LoadBalancer.canvas",
-    "Software/System Design/API/Signed URL.md",
-    "Software/System Design/API/Protocol Buffers.md",
-    "Software/Java/Core Java/Thread/Thread.md",
     "Software/Artificial Intelligence (AI)/Prompt Engineering",
     "Software/Artificial Intelligence (AI)/images",
     "Software/Artificial Intelligence (AI)/Context-repo",

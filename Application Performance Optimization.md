@@ -37,7 +37,7 @@ link:
 - Redis  [[Redis]]
 ## Database
 
-- Data Modelling
+- Data Modelling ([[Data Modeling.excalidraw]])
 - SQL vs NoSQL    -    ([[ACID]])
 - Indexing
 - Query optimization
