@@ -50,6 +50,7 @@ link:
 - Load Balancer [[Load Balancer]]
 - Vertical & Horizontal Scaling
 - Rolling updates
+- UP & Running
 
 ## Monitoring & Observability
 
