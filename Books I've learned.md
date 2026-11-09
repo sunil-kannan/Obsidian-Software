@@ -17,7 +17,11 @@
 3. Vattiyum Muthalum - Raju Murugan
 
 
+## 2025
+
+1. System Design Interview Volume 1 - Alex Xu
 
 ## 2026
 
-
+1. 
+2. Freedom from the Known - J. Krishnamurti
