@@ -13,4 +13,11 @@
 
 ## 2023
 1. 21 Lessons for the 21st Century - Yuah Noah Harari
-2. 
+2. Aram - Jeyamohan
+3. Vattiyum Muthalum - Raju Murugan
+
+
+
+## 2026
+
+
